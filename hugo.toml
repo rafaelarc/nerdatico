@@ -27,9 +27,13 @@ disqusShortname = "xxx"
     mermaid         = false   # best to enable this in the front matter of a page
 
     # Social Media Params
+    facebook   = "https://www.facebook.com/#"
     twitter    = "https://x.com/#"
     youtube    = "https://www.youtube.com/#"
     instagram  = "https://www.instagram.com/#/"
+    github     = "https://github.com/#"
+    pinterest  = "#"
+    linkedin   = "https://www.linkedin.com/in/#/"
 
 
 # Configure the site menu here
