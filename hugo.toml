@@ -17,7 +17,7 @@ disqusShortname = "xxx"
     shortname = 'xxx'
 
 [params]
-    description     = "Games, Cultura Pop e Nerdices!"
+    description     = "Explorando o lado nerd da vida."
     contactEmail    = "contato@nerdatico.com.br"
     footer          = ""
     googleSearch    = "google-cse-key"
@@ -49,12 +49,12 @@ disqusShortname = "xxx"
         weight = 2
             [[menu.main]]
                 parent = "blog"
-                name = "Posts"
+                name = "Artigos"
                 url = "/posts/"
                 weight = 1
             [[menu.main]]
                 parent = "blog"
-                name = "Sections"
+                name = "Colunas"
                 url = "/sections/"
                 weight = 2
             [[menu.main]]
