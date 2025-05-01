@@ -3,6 +3,39 @@
       
       
 	  <url>
+	    <loc>http://localhost:1313/posts/</loc>
+	    <lastmod>2025-05-08</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/sections/filosofia/</loc>
+	    <lastmod>2025-05-06</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/sections/</loc>
+	    <lastmod>2025-05-06</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
 	    <loc>http://localhost:1313/politica-privacidade/</loc>
 	    <lastmod>2025-05-01</lastmod>
         
@@ -80,28 +113,6 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/posts/</loc>
-	    <lastmod>2025-04-30</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/sections/</loc>
-	    <lastmod>2025-04-30</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
 	    <loc>http://localhost:1313/tags/</loc>
 	    <lastmod>2025-04-30</lastmod>
         
@@ -136,17 +147,6 @@
       
 	  <url>
 	    <loc>http://localhost:1313/como-aplicar-o-metodo-jedi-de-foco-no-dia-a-dia/</loc>
-	    <lastmod>2025-04-29</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/sections/filosofia/</loc>
 	    <lastmod>2025-04-29</lastmod>
         
 
@@ -202,6 +202,17 @@
       
 	  <url>
 	    <loc>http://localhost:1313/os-viloes-mais-mal-compreendidos-dos-games/</loc>
+	    <lastmod>2025-04-29</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/por-que-o-mundo-de-the-witcher-e-tao-cruel/</loc>
 	    <lastmod>2025-04-29</lastmod>
         
 
@@ -269,6 +280,17 @@
 	  <url>
 	    <loc>http://localhost:1313/o-dilema-do-transporte-pokemon-caberia-mesmo-um-snorlax-em-uma-pokebola/</loc>
 	    <lastmod>2025-04-28</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/por-que-pensar-importa-nos-mundos-que-amamos/</loc>
+	    <lastmod>2025-04-27</lastmod>
         
 
         
