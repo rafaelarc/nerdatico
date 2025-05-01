@@ -6,8 +6,15 @@
     <description>Recent content on Nerdático</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Política de Privacidade</title>
+      <link>http://localhost:1313/politica-privacidade/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/politica-privacidade/</guid>
+      <description>&lt;p&gt;Última atualização: &lt;strong&gt;1º de maio de 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-informações-gerais&#34;&gt;1. Informações Gerais&lt;/h2&gt;&#xA;&lt;p&gt;O &lt;em&gt;Nerdático&lt;/em&gt; (&lt;a href=&#34;https://nerdatico.com.br&#34;&gt;https://nerdatico.com.br&lt;/a&gt;) é um site dedicado à cultura nerd, com foco em análises lógicas e curiosas sobre universos fictícios. Esta Política de Privacidade explica como as informações dos visitantes são coletadas, utilizadas e protegidas.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A ciência do multiverso nos quadrinhos é possível?</title>
       <link>http://localhost:1313/a-ciencia-do-multiverso-nos-quadrinhos-e-possivel/</link>
@@ -118,7 +125,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;O Nerdatico nasceu da colisão entre uma mente curiosa e um coração apaixonado por cultura pop. Aqui, a gente vai além das notícias — queremos entender o porquê das coisas, brincar com a lógica dos mundos fictícios e trazer um olhar científico, filosófico (e nerdamente exagerado) para tudo aquilo que amamos.&lt;/p&gt;</description>
+      <description>&lt;p&gt;O Nerdático nasceu da colisão entre uma mente curiosa e um coração apaixonado por cultura pop. Aqui, a gente analisa, questiona — queremos entender o porquê das coisas, brincar com a lógica dos mundos fictícios e trazer um olhar científico, filosófico (e nerdamente exagerado) para tudo aquilo que amamos.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

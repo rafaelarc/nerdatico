@@ -15,4 +15,4 @@ Quer nos chamar para cobrir um evento, participar de uma matéria ou contribuir 
 Quer sugerir uma pauta, fazer um elogio (a gente adora 💖), tirar uma dúvida ou só bater um papo sobre cultura nerd? Pode escrever sem medo!
 
 📧 **Contato Geral:**
-contato@nerdatico.com.br
+nerdatico@icloud.com
