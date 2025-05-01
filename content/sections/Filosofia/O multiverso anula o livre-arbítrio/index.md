@@ -3,7 +3,7 @@ title: "O multiverso anula o livre-arbítrio?"
 date: 2025-04-29T22:00:58.000Z
 tags: ["Filosofia"]
 image: "free-will.webp"
-slug: "o-multiverso-anula-o-livre-arbítrio?"
+slug: "o-multiverso-anula-o-livre-arbitrio"
 ---
 
 Você já parou pra pensar que, em algum universo paralelo, você pode ter feito aquele curso que deixou pra depois? Ou talvez, esteja agora mesmo vivendo uma vida completamente diferente – quem sabe como astronauta, cantor de pagode ou dono(a) de um food truck em alguma praia do Nordeste? 😄

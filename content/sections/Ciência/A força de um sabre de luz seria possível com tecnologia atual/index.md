@@ -3,7 +3,7 @@ title: "A força de um sabre de luz seria possível com tecnologia atual?"
 date: 2025-04-29T21:56:29.000Z
 tags: ["Ciência"]
 image: "sabre-luz.jpeg"
-slug: "a-força-de-um-sabre-de-luz-seria-possível-com-tecnologia-atual?"
+slug: "a-força-de-um-sabre-de-luz-seria-possivel-com-tecnologia-atual"
 ---
 
 Se você já assistiu a algum dos filmes de **Star Wars** — e vamos ser sinceros, quem nunca pegou uma “espada de brinquedo” e imitou o som do sabre enquanto duelava na sala de casa? — provavelmente já se perguntou: seria possível construir um sabre de luz de verdade? Aquela lâmina de energia que corta tudo (menos o drama dos Skywalker) poderia existir no nosso mundo, com a tecnologia de hoje? Vamos bater esse papo e descobrir o que a ciência tem a dizer sobre isso!

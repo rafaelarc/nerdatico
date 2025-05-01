@@ -9,6 +9,7 @@ title           = "Nerdático"
 
 [permalinks]
 posts = "/:slug/"
+sections = "/:slug/"
 
 disqusShortname = "xxx"
 

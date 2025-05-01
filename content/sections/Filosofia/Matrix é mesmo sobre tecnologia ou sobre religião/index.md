@@ -3,7 +3,7 @@ title: "Matrix é mesmo sobre tecnologia ou sobre religião?"
 date: 2025-04-29T22:10:04.000Z
 tags: ["Filosofia"]
 image: "matrix.webp"
-slug: "matrix-é-mesmo-sobre-tecnologia-ou-sobre-religião?"
+slug: "matrix-e-mesmo-sobre-tecnologia-ou-sobre-religiao"
 ---
 
 Quando você pensa em **Matrix**, provavelmente vêm à cabeça aquelas cenas icônicas: balas parando no ar, lutas coreografadas estilo kung fu e, claro, o visual todo em verde com códigos caindo pela tela. Mas, e se eu te disser que esse universo cyberpunk vai muito além de uma história futurista sobre computadores e inteligência artificial?

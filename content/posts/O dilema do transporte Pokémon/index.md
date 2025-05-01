@@ -3,7 +3,7 @@ title: "O dilema do transporte Pokémon: caberia mesmo um Snorlax em uma Pokébo
 date: 2025-04-28T06:33:58.000Z
 tags: ["nerdverso"]
 image: "snorlax.jpg"
-slug: "o-dilema-do-transporte-pokémon:-caberia-mesmo-um-snorlax-em-uma-pokébola?"
+slug: "o-dilema-do-transporte-pokemon-caberia-mesmo-um-snorlax-em-uma-pokebola"
 ---
 
 Você já parou pra pensar em **como um Snorlax – um Pokémon gigantesco com toneladas de peso – consegue caber naquela minúscula Pokébola**? Pois é, esse é um dos maiores mistérios do mundo Pokémon e, vamos combinar, também uma baita dose de criatividade da ficção. Mas e se a gente tentasse entender isso com um toque de ciência, física, e até um pouco de imaginação científica?
