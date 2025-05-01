@@ -1,6 +1,6 @@
 ---
 title: "A ciência do multiverso nos quadrinhos é possível?"
-date: 2025-04-30T02:33:56.000Z
+date: 2025-04-30
 tags: ["Ciência"]
 image: "multiverse.webp"
 slug: "a-ciencia-do-multiverso-nos-quadrinhos-e-possivel?"

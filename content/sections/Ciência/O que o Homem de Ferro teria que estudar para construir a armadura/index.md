@@ -1,6 +1,6 @@
 ---
 title: "O que o Homem de Ferro teria que estudar para construir a armadura?"
-date: 2025-04-30T18:33:54.000Z
+date: 2025-04-30
 tags: ["Ciência"]
 image: "iron-man.webp"
 slug: "o-que-o-homem-de-ferro-teria-que-estudar-para-construir-a-armadura?"

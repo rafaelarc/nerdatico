@@ -3,6 +3,17 @@
       
       
 	  <url>
+	    <loc>http://localhost:1313/a-ciencia-do-multiverso-nos-quadrinhos-e-possivel/</loc>
+	    <lastmod>2025-04-30</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
 	    <loc>http://localhost:1313/sections/ci%C3%AAncia/</loc>
 	    <lastmod>2025-04-30</lastmod>
         
@@ -15,39 +26,6 @@
       
 	  <url>
 	    <loc>http://localhost:1313/tags/ci%C3%AAncia/</loc>
-	    <lastmod>2025-04-30</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/o-que-o-homem-de-ferro-teria-que-estudar-para-construir-a-armadura/</loc>
-	    <lastmod>2025-04-30</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/sections/</loc>
-	    <lastmod>2025-04-30</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/</loc>
 	    <lastmod>2025-04-30</lastmod>
         
 
@@ -80,6 +58,17 @@
       
       
 	  <url>
+	    <loc>http://localhost:1313/o-que-o-homem-de-ferro-teria-que-estudar-para-construir-a-armadura/</loc>
+	    <lastmod>2025-04-30</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
 	    <loc>http://localhost:1313/posts/</loc>
 	    <lastmod>2025-04-30</lastmod>
         
@@ -91,7 +80,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/a-ciencia-do-multiverso-nos-quadrinhos-e-possivel/</loc>
+	    <loc>http://localhost:1313/sections/</loc>
 	    <lastmod>2025-04-30</lastmod>
         
 
@@ -102,52 +91,8 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/o-que-voce-pode-aprender-sobre-lideranca-com-o-capitao-picard/</loc>
-	    <lastmod>2025-04-29</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/sections/sabedoria/</loc>
-	    <lastmod>2025-04-29</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/sabedoria/</loc>
-	    <lastmod>2025-04-29</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/como-aplicar-o-metodo-jedi-de-foco-no-dia-a-dia/</loc>
-	    <lastmod>2025-04-29</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/os-viloes-mais-mal-compreendidos-dos-games/</loc>
-	    <lastmod>2025-04-29</lastmod>
+	    <loc>http://localhost:1313/tags/</loc>
+	    <lastmod>2025-04-30</lastmod>
         
 
         
@@ -168,7 +113,18 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/sabia-que-o-criador-de-akira-influenciou-o-visual-do-cyberpunk-2077/</loc>
+	    <loc>http://localhost:1313/a-for%C3%A7a-de-um-sabre-de-luz-seria-possivel-com-tecnologia-atual/</loc>
+	    <lastmod>2025-04-29</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/como-aplicar-o-metodo-jedi-de-foco-no-dia-a-dia/</loc>
 	    <lastmod>2025-04-29</lastmod>
         
 
@@ -223,7 +179,18 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/a-for%C3%A7a-de-um-sabre-de-luz-seria-possivel-com-tecnologia-atual/</loc>
+	    <loc>http://localhost:1313/o-que-voce-pode-aprender-sobre-lideranca-com-o-capitao-picard/</loc>
+	    <lastmod>2025-04-29</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/os-viloes-mais-mal-compreendidos-dos-games/</loc>
 	    <lastmod>2025-04-29</lastmod>
         
 
@@ -246,6 +213,39 @@
       
 	  <url>
 	    <loc>http://localhost:1313/quanto-pesa-o-mjolnir-na-terra/</loc>
+	    <lastmod>2025-04-29</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/sections/sabedoria/</loc>
+	    <lastmod>2025-04-29</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/sabedoria/</loc>
+	    <lastmod>2025-04-29</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/sabia-que-o-criador-de-akira-influenciou-o-visual-do-cyberpunk-2077/</loc>
 	    <lastmod>2025-04-29</lastmod>
         
 

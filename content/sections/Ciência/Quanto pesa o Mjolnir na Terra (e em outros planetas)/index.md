@@ -1,6 +1,6 @@
 ---
 title: "Quanto pesa o Mjolnir na Terra (e em outros planetas)?"
-date: 2025-04-29T21:46:10.000Z
+date: 2025-04-29
 tags: ["Ciência"]
 image: "mjolnir.webp"
 slug: "quanto-pesa-o-mjolnir-na-terra"

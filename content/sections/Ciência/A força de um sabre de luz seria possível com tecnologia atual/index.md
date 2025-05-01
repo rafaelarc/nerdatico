@@ -1,6 +1,6 @@
 ---
 title: "A força de um sabre de luz seria possível com tecnologia atual?"
-date: 2025-04-29T21:56:29.000Z
+date: 2025-04-29
 tags: ["Ciência"]
 image: "sabre-luz.jpeg"
 slug: "a-força-de-um-sabre-de-luz-seria-possivel-com-tecnologia-atual"

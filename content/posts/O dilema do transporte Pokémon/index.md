@@ -1,6 +1,6 @@
 ---
 title: "O dilema do transporte Pokémon: caberia mesmo um Snorlax em uma Pokébola?"
-date: 2025-04-28T06:33:58.000Z
+date: 2025-04-28
 tags: ["nerdverso"]
 image: "snorlax.jpg"
 slug: "o-dilema-do-transporte-pokemon-caberia-mesmo-um-snorlax-em-uma-pokebola"

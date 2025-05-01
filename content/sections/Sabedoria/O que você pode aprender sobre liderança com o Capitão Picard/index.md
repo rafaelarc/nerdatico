@@ -1,6 +1,6 @@
 ---
 title: "O que você pode aprender sobre liderança com o Capitão Picard"
-date: 2025-04-29T22:27:36.000Z
+date: 2025-04-29
 tags: ["Sabedoria"]
 image: "picard.webp"
 slug: "o-que-voce-pode-aprender-sobre-lideranca-com-o-capitao-picard"

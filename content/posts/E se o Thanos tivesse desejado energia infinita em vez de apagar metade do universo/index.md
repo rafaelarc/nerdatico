@@ -1,6 +1,6 @@
 ---
 title: "E se o Thanos tivesse desejado energia infinita em vez de apagar metade do universo?"
-date: 2025-04-30T12:34:00.000Z
+date: 2025-04-30
 tags: ["nerdverso"]
 image: "thanos.webp"
 slug: "e-se-o-thanos-tivesse-desejado-energia-infinita-em-vez-de-apagar-metade-do-universo"

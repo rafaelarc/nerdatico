@@ -1,7 +1,7 @@
 ---
 title: "Nerdático"
 subtitle: ""
-date: 2020-03-25T04:52:30+06:00
+date: 2020-03-25
 draft: false
 ---
 
