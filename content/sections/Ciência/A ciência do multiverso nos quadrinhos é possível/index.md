@@ -14,7 +14,7 @@ A palavra “multiverso” parece coisa de ficção, mas alguns cientistas de ve
 
 ### Como essa teoria funciona?
 
-Vamos simplificar com um exemplo bem brasileiro: imagina que você está jogando uma partida de futebol com seus amigos. No instante em que você decide chutar para o gol ou passar a bola, o universo “se divide”. Em um, você fez o gol; em outro, mandou a bola pra fora. Essas duas possibilidades se realizam em universos diferentes. 🤯 A ciência ainda não sabe provar se esses outros universos existem de fato, mas a ideia é levada a sério por físicos respeitados.
+Vamos simplificar: imagina que você está jogando uma partida de futebol com seus amigos. No instante em que você decide chutar para o gol ou passar a bola, o universo “se divide”. Em um, você fez o gol; em outro, mandou a bola pra fora. Essas duas possibilidades se realizam em universos diferentes. 🤯 A ciência ainda não sabe provar se esses outros universos existem de fato, mas a ideia é levada a sério por físicos respeitados.
 
 ## Marvel e o multiverso: o que é real e o que é viagem?
 

@@ -58,7 +58,7 @@ O **Holodeck** era uma das inovações mais incríveis da série: um espaço ond
 
 Hoje, com os óculos de **realidade virtual** e **aumentada**, já dá pra brincar de Holodeck. Jogos imersivos, experiências educativas e até simulações médicas fazem com que essa ideia esteja mais próxima do que nunca.
 
-### Já pensou em fazer uma aula de história dentro de uma simulação da Roma antiga? Com VR, isso já é possível!
+Já pensou em fazer uma aula de história dentro de uma simulação da Roma antiga? Com VR, isso já é possível!
 
 ## O poder da ficção científica em inspirar o mundo real
 
