@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    {{- partial "head-metadata.html" . -}}
+</head>
+
+<body>
+    {{- partial "page-header.html" . -}}
+    {{- block "main" . }}{{- end }}
+    {{- partial "footer.html" . -}}
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+    <script>
+    window.addEventListener("load", function(){
+      window.cookieconsent.initialise({
+        palette: {
+          popup: { background: "#000" },
+          button: { background: "#f1d600", text: "#000" }
+        },
+        theme: "classic",
+        position: "bottom-right",
+        content: {
+          message: "Este site usa cookies para melhorar sua experiência de navegação.",
+          dismiss: "Entendi",
+          link: "Saiba mais",
+          href: "/politica-privacidade"
+        }
+      })
+    });
+    </script>
+    
+</body>
+
+</html>
