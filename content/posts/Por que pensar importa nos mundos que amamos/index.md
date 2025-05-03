@@ -1,7 +1,7 @@
 ---
 title: "Por que pensar importa nos mundos que amamos"
 date: 2025-04-27
-tags: ["Nerdverso"]
+tags: ["nerdverso"]
 image: "pensamento.jpg"
 slug: "por-que-pensar-importa-nos-mundos-que-amamos"
 ---

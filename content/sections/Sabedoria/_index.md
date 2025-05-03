@@ -4,4 +4,4 @@ image: stoicism.jpg
 slug: "sabedoria"
 ---
 
-Aplicações nerds na vida real (inclusive produtividade, tecnologia e estilo de vida).
+Aplicações nerds na vida, produtividade, tecnologia e estilo de vida.

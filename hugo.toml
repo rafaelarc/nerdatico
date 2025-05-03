@@ -11,6 +11,9 @@ title           = "Nerdático"
 posts = "/:slug/"
 sections = "/:slug/"
 
+[sitemap]
+  filename = "sitemap.xml"
+
 disqusShortname = "xxx"
 
 [services]

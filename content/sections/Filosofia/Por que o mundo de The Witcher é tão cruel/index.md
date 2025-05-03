@@ -1,7 +1,7 @@
 ---
 title: "Por que o mundo de The Witcher é tão cruel?"
 date: 2025-04-29
-tags: ["Filosofia"]
+tags: ["filosofia", "gaming"]
 image: "wendigo.webp"
 slug: "por-que-o-mundo-de-the-witcher-e-tao-cruel"
 ---

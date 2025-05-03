@@ -1,7 +1,7 @@
 ---
 title: "Como aplicar o método Jedi de foco no dia a dia"
 date: 2025-04-29
-tags: ["Sabedoria"] 
+tags: ["sabedoria", "star wars"] 
 image: "obiwan.webp"
 slug: "como-aplicar-o-metodo-jedi-de-foco-no-dia-a-dia"
 ---

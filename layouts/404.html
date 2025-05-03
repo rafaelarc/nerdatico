@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<div class="container">
+
+    {{ partial "ads.html" "ads/horizontal-ad.js" }}
+
+    <div class="text-center">
+        <h1 class="p-5" style="font-size: 9rem;">
+            404
+        </h1>
+
+        <div style="font-size:1.2rem">
+            <p>
+                Talvez a página tenha mudado de lugar.
+            </p>
+            <p>
+                Ou nunca tenha existido.
+            </p>
+            <p>
+                Ou tenha sido apagada.
+            </p>
+        </div>
+    </div>
+</div>
+
+<br>
+
+<div class="bg-offwhite py-5">
+    <div class="container-md">
+        <div class="row">
+            {{/* $filteredPosts := where (where .Site.Pages "Type" "blog") "UniqueID" "!= ".UniqueID }}
+            {{ $relatedPosts := shuffle $filteredPosts | first 3 */}}
+
+            {{ $allPosts := where .Site.RegularPages ".Section" "in" (slice "posts" "sections") }}
+            {{ $randomPosts := shuffle $allPosts | first 6 }}
+            {{ $randomPosts := $randomPosts.ByDate.Reverse }}
+
+            {{ range $randomPosts }}
+            {{ partial "suggestion.html" . }}
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+{{ end }}

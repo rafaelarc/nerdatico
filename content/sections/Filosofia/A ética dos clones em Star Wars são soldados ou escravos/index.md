@@ -1,7 +1,7 @@
 ---
 title: "A ética dos clones em Star Wars: são soldados ou escravos?"
 date: 2025-05-06
-tags: ["Filosofia"]
+tags: ["filosofia", "star wars"]
 image: "clone-troopers.webp"
 slug: "a-etica-dos-clones-em-star-wars-sao-soldados-ou-escravos?"
 ---

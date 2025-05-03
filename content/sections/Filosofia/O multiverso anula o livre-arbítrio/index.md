@@ -1,7 +1,7 @@
 ---
 title: "O multiverso anula o livre-arbítrio?"
 date: 2025-04-29
-tags: ["Filosofia"]
+tags: ["filosofia"]
 image: "free-will.webp"
 slug: "o-multiverso-anula-o-livre-arbitrio"
 ---

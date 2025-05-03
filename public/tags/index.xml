@@ -9,10 +9,17 @@
     <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ciência</title>
-      <link>http://localhost:1313/tags/ci%C3%AAncia/</link>
+      <title>Ciencia</title>
+      <link>http://localhost:1313/tags/ciencia/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ci%C3%AAncia/</guid>
+      <guid>http://localhost:1313/tags/ciencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marvel</title>
+      <link>http://localhost:1313/tags/marvel/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/marvel/</guid>
       <description></description>
     </item>
     <item>
@@ -23,6 +30,20 @@
       <description></description>
     </item>
     <item>
+      <title>Quadrinhos</title>
+      <link>http://localhost:1313/tags/quadrinhos/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quadrinhos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dragon Ball</title>
+      <link>http://localhost:1313/tags/dragon-ball/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dragon-ball/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Filosofia</title>
       <link>http://localhost:1313/tags/filosofia/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
@@ -30,10 +51,31 @@
       <description></description>
     </item>
     <item>
+      <title>Gaming</title>
+      <link>http://localhost:1313/tags/gaming/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gaming/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Sabedoria</title>
       <link>http://localhost:1313/tags/sabedoria/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sabedoria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Star Trek</title>
+      <link>http://localhost:1313/tags/star-trek/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/star-trek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Star Wars</title>
+      <link>http://localhost:1313/tags/star-wars/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/star-wars/</guid>
       <description></description>
     </item>
   </channel>

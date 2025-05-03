@@ -1,7 +1,7 @@
 ---
 title: "Os vilões mais mal compreendidos dos games"
 date: 2025-04-29
-tags: ["Nerdverso"]
+tags: ["nerdverso", "gaming"]
 image: "the-boss.webp"
 slug: "os-viloes-mais-mal-compreendidos-dos-games"
 ---

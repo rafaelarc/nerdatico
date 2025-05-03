@@ -1,7 +1,7 @@
 ---
 title: "Matrix é mesmo sobre tecnologia ou sobre religião?"
 date: 2025-04-29
-tags: ["Filosofia"]
+tags: ["filosofia"]
 image: "matrix.webp"
 slug: "matrix-e-mesmo-sobre-tecnologia-ou-sobre-religiao"
 ---
