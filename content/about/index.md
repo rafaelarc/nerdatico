@@ -15,7 +15,7 @@ Se você curte pensar com leveza, rir de paradoxos e imaginar realidades improv�
 
 ## Fale Comigo
 
-Quer trocar uma ideia, sugerir um tema ou apenas me mandar um meme que questione as leis da física em *Pokémon*? Manda ver: **nerdatico@icloud.com**
+Quer trocar uma ideia, sugerir um tema ou apenas me mandar um meme? Manda ver: **nerdatico@icloud.com**
 
 Ou me encontra por aí:
 

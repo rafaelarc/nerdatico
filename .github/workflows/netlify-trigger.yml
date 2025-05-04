@@ -1,0 +1,13 @@
+name: Trigger Netlify Build
+
+on:
+  schedule:
+    - cron: '0 9 * * 2'  # terça-feira às 6h da manhã no Brasil (09:00 UTC)
+    - cron: '0 9 * * 4'  # quinta-feira
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Netlify build hook
+        run: curl -X POST -d '{}' https://api.netlify.com/build_hooks/681776f503b0589497098350
