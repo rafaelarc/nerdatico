@@ -4,7 +4,7 @@ pluralizeListTitles = false
 summaryLength   = 25
 
 theme           = "BlogRa"
-languageCode    = "en-us"
+languageCode    = "pt-br"
 title           = "Nerdático"
 
 [permalinks]
@@ -21,7 +21,7 @@ disqusShortname = "xxx"
     shortname = 'xxx'
 
 [params]
-    description     = "Explorando o lado nerd da vida."
+    description     = "Nerdático é um blog de curiosidades, ciência e filosofia aplicadas à cultura pop."
     contactEmail    = "nerdatico@icloud.com"
     footer          = ""
     googleSearch    = "b6078b7db750a49ab"

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/admin/</link>
     <description>Recent content in Admin on Nerdático</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>pt-br</language>
     <atom:link href="http://localhost:1313/admin/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
