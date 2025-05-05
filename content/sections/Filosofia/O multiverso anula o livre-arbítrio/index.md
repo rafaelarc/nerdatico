@@ -54,8 +54,8 @@ E os erros? Bom, mesmo que outra versão sua tenha feito melhor, **é você quem
 
 ## Quer saber mais sobre esse assunto viajante?
 
-*   **“Universo Elegante”**, de Brian Greene – fala sobre física de forma acessível, incluindo o multiverso.
-*   **Teoria dos Muitos Mundos** – pesquisa sobre Hugh Everett III e seus estudos.
+*   **[Universo Elegante](https://amzn.to/4jOlGvW)**, de Brian Greene – fala sobre física de forma acessível, incluindo o multiverso.
+*   **[Teoria dos Muitos Mundos](https://pt.wikipedia.org/wiki/Interpreta%C3%A7%C3%A3o_de_muitos_mundos)** – pesquisa sobre Hugh Everett III] e seus estudos.
 *   **Filmes como: “Matrix”, “O Show de Truman” e “Donnie Darko”** – todos brincam com a realidade, escolhas e consequências.
 *   **Podcasts e vídeos de ciência pop** – como os do canal Nerdologia ou Ciência Todo Dia.
 

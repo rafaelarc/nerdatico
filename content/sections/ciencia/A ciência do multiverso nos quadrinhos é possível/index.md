@@ -54,10 +54,10 @@ Enquanto a ciência ainda tenta entender se o multiverso é real ou apenas uma i
 
 Se você ficou curioso e quer se aprofundar mais no multiverso, aqui estão algumas dicas de leitura (não precisa ser cientista pra entender!):
 
-*   *O Universo Elegante*, de Brian Greene
-*   Documentário: *What is Reality?* (BBC)
+*   [O Universo Elegante](https://amzn.to/4jOlGvW), de Brian Greene
+*   Documentário: *[What is Reality?](https://topdocumentaryfilms.com/what-is-reality/)* (BBC)
 *   Séries como *Cosmos* (Netflix/Disney+)
-*   HQs clássicas da DC como *Crise nas Infinitas Terras*
+*   HQs clássicas da DC como *[Crise nas Infinitas Terras](https://amzn.to/3GGY51l)*
 *   Quadrinhos *What If?* da Marvel
 
 E aí, qual sua versão favorita do multiverso? Conta pra gente nos comentários! 🌌👾

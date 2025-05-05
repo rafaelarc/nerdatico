@@ -73,6 +73,6 @@ Fica então a provocação: se você tivesse as Joias do Infinito, o que mudaria
 *   “Star Trek: The Next Generation” – série sobre sociedades avançadas
 *   Sobrepopulação e distribuição de recursos – Artigos da ONU e Greenpeace
 *   Youtube: Nerdologia – vídeos sobre energia e soluções sustentáveis
-*   Podcast “Fronteiras da Ciência” – episódios sobre ética e tecnologia
+*   Podcast “[Fronteiras da Ciência](https://open.spotify.com/show/3n2o8vpsRalBeU5U7kWbLX)” – episódios sobre ética e tecnologia
 
-**E aí, achou que o Thanos mandou mal ou você faria o mesmo? Conta pra gente nos comentários!**
+E aí, achou que o Thanos mandou mal ou você faria o mesmo? Conta pra gente nos comentários!
