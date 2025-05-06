@@ -1,6 +1,6 @@
 ---
 title: "O Goku venceria o Superman?"
-date: 2025-05-08
+date: 2025-05-20
 tags: ["nerdverso"]
 image: "goku-superman.webp"
 slug: "o-goku-venceria-o-superman"
