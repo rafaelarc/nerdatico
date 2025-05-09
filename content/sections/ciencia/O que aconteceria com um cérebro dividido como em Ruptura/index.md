@@ -1,7 +1,7 @@
 ---
 title: "O que aconteceria com um cérebro dividido como em Ruptura?"
 date: 2025-05-10
-tags: ["ciencia"]
+tags: ["ciencia", "series"]
 image: "severance.webp"
 slug: "o-que-aconteceria-com-um-cerebro-dividido-como-em-ruptura"
 ---
