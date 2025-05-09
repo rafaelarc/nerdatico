@@ -2,8 +2,9 @@ name: Trigger Netlify Build
 
 on:
   schedule:
-    - cron: '0 9 * * 2'  # terça-feira às 6h da manhã no Brasil (09:00 UTC)
-    - cron: '0 9 * * 4'  # quinta-feira
+    - cron: '0 9 * * 2'  # terça-feira às 6h
+    - cron: '0 9 * * 4'  # quinta-feira às 6h
+    - cron: '0 9 * * 6'  # sábado às 6h
 
 jobs:
   trigger:

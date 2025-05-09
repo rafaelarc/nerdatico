@@ -77,7 +77,7 @@ Então, se você curte games e quer entender de onde vêm as ideias que moldam e
 
 *   **Akira (1988)** – Filme dirigido por Katsuhiro Otomo
 *   **Akira – Mangá**, publicado no Brasil pela JBC
-*   **Cyberpunk 2077 – The World of Cyberpunk 2077** – Livro oficial com arte e bastidores do jogo
+*   **[Cyberpunk 2077](https://amzn.to/450lu84)** – Jogo disponível em várias plataformas
 *   **Anime: Cyberpunk Edgerunners**, disponível na Netflix
 *   **Documentários sobre cultura cyberpunk**, como “The Origins of Cyberpunk” no YouTube
 

@@ -43,6 +43,7 @@ The Witcher é cruel, sim. Mas é exatamente essa crueldade que nos prende, faze
 ### Sugestões de leitura para se aprofundar
 
 *   [**Livros da saga The Witcher**](https://amzn.to/4iNxU6x), de Andrzej Sapkowski
+*   **[The Witcher 3](https://amzn.to/3GPrBSH)** - melhor jogo da série baseado nos livros
 *   **O Mundo de The Witcher** – livro ilustrado com detalhes sobre o universo
 *   **História Medieval** – qualquer material sobre Europa entre os séculos V e XV
 *   Pesquisa sobre **folclore eslavo e polonês**

@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Nerdático</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nerdverso</title>
+      <link>http://localhost:1313/tags/nerdverso/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nerdverso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Last of Us</title>
+      <link>http://localhost:1313/tags/the-last-of-us/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/the-last-of-us/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofia</title>
+      <link>http://localhost:1313/tags/filosofia/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/filosofia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Star Wars</title>
+      <link>http://localhost:1313/tags/star-wars/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/star-wars/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ciencia</title>
       <link>http://localhost:1313/tags/ciencia/</link>
@@ -23,13 +51,6 @@
       <description></description>
     </item>
     <item>
-      <title>Nerdverso</title>
-      <link>http://localhost:1313/tags/nerdverso/</link>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nerdverso/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Quadrinhos</title>
       <link>http://localhost:1313/tags/quadrinhos/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
@@ -41,13 +62,6 @@
       <link>http://localhost:1313/tags/dragon-ball/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/dragon-ball/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofia</title>
-      <link>http://localhost:1313/tags/filosofia/</link>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/filosofia/</guid>
       <description></description>
     </item>
     <item>
@@ -69,13 +83,6 @@
       <link>http://localhost:1313/tags/star-trek/</link>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/star-trek/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Star Wars</title>
-      <link>http://localhost:1313/tags/star-wars/</link>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/star-wars/</guid>
       <description></description>
     </item>
   </channel>

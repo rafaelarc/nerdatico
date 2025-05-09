@@ -1,7 +1,7 @@
 ---
 title: "Como seria o final de The Last of Us se Joel tivesse contado a verdade para Ellie?"
 date: 2025-05-08
-tags: ["nerdverso", "the-last-of-us"]
+tags: ["nerdverso", "the last of us"]
 image: "the-last-of-us.webp"
 slug: "como-seria-o-final-de-the-last-of-us-se-joel-tivesse-contado-a-verdade-para-ellie"
 ---
