@@ -65,4 +65,4 @@ Para nós, fãs de quadrinhos, filmes e ciência, essa é uma daquelas perguntas
 *   "X-Men" (filmes e HQs) – especialmente os arcos com enfoque psicológico em Wolverine.
 *   Documentários sobre dor crônica e sistema nervoso humano.
 *   Entrevistas com escritores da Marvel sobre a criação do personagem.
-*   Livros de neurociência, como "O Cérebro e a Dor", para entender como sentimos.
+*   Livros de neurociência, como "[O corpo guarda as marcas](https://amzn.to/43DUtF9)", e [A Biologia da Crença](https://amzn.to/43TJmJr), para entender como sentimos.

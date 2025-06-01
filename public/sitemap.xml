@@ -3,8 +3,8 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/sections/sabedoria/</loc>
-	    <lastmod>2025-06-05T00:00:00&#43;00:00</lastmod>
+	    <loc>http://localhost:1313/sections/ciencia/</loc>
+	    <lastmod>2025-06-10T00:00:00&#43;00:00</lastmod>
         
 
         
@@ -15,6 +15,17 @@
       
 	  <url>
 	    <loc>http://localhost:1313/sections/</loc>
+	    <lastmod>2025-06-10T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/sections/sabedoria/</loc>
 	    <lastmod>2025-06-05T00:00:00&#43;00:00</lastmod>
         
 
@@ -36,8 +47,52 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/sections/ciencia/</loc>
+	    <loc>http://localhost:1313/tags/ciencia/</loc>
 	    <lastmod>2025-05-31T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/marvel/</loc>
+	    <lastmod>2025-05-31T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/</loc>
+	    <lastmod>2025-05-31T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/wolverine-sentiria-dor-ao-regenerar/</loc>
+	    <lastmod>2025-05-31T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/como-criar-um-codigo-de-etica-para-seres-imortais/</loc>
+	    <lastmod>2025-05-27T00:00:00&#43;00:00</lastmod>
         
 
         
@@ -58,8 +113,63 @@
       
       
 	  <url>
+	    <loc>http://localhost:1313/tags/filosofia/</loc>
+	    <lastmod>2025-05-27T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/como-seria-uma-vacina-contra-o-cordyceps/</loc>
+	    <lastmod>2025-05-24T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/the-last-of-us/</loc>
+	    <lastmod>2025-05-24T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/harry-potter/</loc>
+	    <lastmod>2025-05-22T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
 	    <loc>http://localhost:1313/tags/nerdverso/</loc>
-	    <lastmod>2025-05-20T00:00:00&#43;00:00</lastmod>
+	    <lastmod>2025-05-22T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/se-o-chapeu-seletor-fosse-um-algoritmo-como-ele-classificaria-voce/</loc>
+	    <lastmod>2025-05-22T00:00:00&#43;00:00</lastmod>
         
 
         
@@ -80,29 +190,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/tags/</loc>
-	    <lastmod>2025-05-20T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
 	    <loc>http://localhost:1313/e-se-a-mitologia-nordica-fosse-real/</loc>
-	    <lastmod>2025-05-17T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/filosofia/</loc>
 	    <lastmod>2025-05-17T00:00:00&#43;00:00</lastmod>
         
 
@@ -146,17 +234,6 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/tags/ciencia/</loc>
-	    <lastmod>2025-05-10T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
 	    <loc>http://localhost:1313/o-que-aconteceria-com-um-cerebro-dividido-como-em-ruptura/</loc>
 	    <lastmod>2025-05-10T00:00:00&#43;00:00</lastmod>
         
@@ -180,17 +257,6 @@
       
 	  <url>
 	    <loc>http://localhost:1313/como-seria-o-final-de-the-last-of-us-se-joel-tivesse-contado-a-verdade-para-ellie/</loc>
-	    <lastmod>2025-05-08T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/the-last-of-us/</loc>
 	    <lastmod>2025-05-08T00:00:00&#43;00:00</lastmod>
         
 
@@ -246,17 +312,6 @@
       
 	  <url>
 	    <loc>http://localhost:1313/e-se-o-thanos-tivesse-desejado-energia-infinita-em-vez-de-apagar-metade-do-universo/</loc>
-	    <lastmod>2025-04-30T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/marvel/</loc>
 	    <lastmod>2025-04-30T00:00:00&#43;00:00</lastmod>
         
 
