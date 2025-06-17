@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Nerdático</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nerdverso</title>
+      <link>http://localhost:1313/tags/nerdverso/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nerdverso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quadrinhos</title>
+      <link>http://localhost:1313/tags/quadrinhos/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quadrinhos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofia</title>
+      <link>http://localhost:1313/tags/filosofia/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/filosofia/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ciencia</title>
       <link>http://localhost:1313/tags/ciencia/</link>
@@ -30,24 +51,10 @@
       <description></description>
     </item>
     <item>
-      <title>Nerdverso</title>
-      <link>http://localhost:1313/tags/nerdverso/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nerdverso/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Marvel</title>
       <link>http://localhost:1313/tags/marvel/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/marvel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofia</title>
-      <link>http://localhost:1313/tags/filosofia/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/filosofia/</guid>
       <description></description>
     </item>
     <item>
@@ -76,13 +83,6 @@
       <link>http://localhost:1313/tags/star-wars/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/star-wars/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quadrinhos</title>
-      <link>http://localhost:1313/tags/quadrinhos/</link>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/quadrinhos/</guid>
       <description></description>
     </item>
     <item>
