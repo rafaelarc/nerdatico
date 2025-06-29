@@ -3,8 +3,19 @@
       
       
 	  <url>
+	    <loc>http://localhost:1313/posts/</loc>
+	    <lastmod>2025-07-03T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
 	    <loc>http://localhost:1313/sections/ciencia/</loc>
-	    <lastmod>2025-06-19T00:00:00&#43;00:00</lastmod>
+	    <lastmod>2025-07-01T00:00:00&#43;00:00</lastmod>
         
 
         
@@ -15,6 +26,50 @@
       
 	  <url>
 	    <loc>http://localhost:1313/sections/</loc>
+	    <lastmod>2025-07-01T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/a-ia-dos-inimigos-em-e-mais-humana-do-que-parece/</loc>
+	    <lastmod>2025-06-19T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/ciencia/</loc>
+	    <lastmod>2025-06-19T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/gaming/</loc>
+	    <lastmod>2025-06-19T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/</loc>
 	    <lastmod>2025-06-19T00:00:00&#43;00:00</lastmod>
         
 
@@ -47,29 +102,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/posts/</loc>
-	    <lastmod>2025-06-17T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
 	    <loc>http://localhost:1313/tags/quadrinhos/</loc>
-	    <lastmod>2025-06-17T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/</loc>
 	    <lastmod>2025-06-17T00:00:00&#43;00:00</lastmod>
         
 
@@ -124,17 +157,6 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/tags/ciencia/</loc>
-	    <lastmod>2025-06-10T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
 	    <loc>http://localhost:1313/quanto-custaria-construir-a-estrela-da-morte-hoje/</loc>
 	    <lastmod>2025-06-10T00:00:00&#43;00:00</lastmod>
         
@@ -158,17 +180,6 @@
       
 	  <url>
 	    <loc>http://localhost:1313/como-aplicar-o-modo-stealth-dos-games-na-vida-real/</loc>
-	    <lastmod>2025-06-05T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/gaming/</loc>
 	    <lastmod>2025-06-05T00:00:00&#43;00:00</lastmod>
         
 
