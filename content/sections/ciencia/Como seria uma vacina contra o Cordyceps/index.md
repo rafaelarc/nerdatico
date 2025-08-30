@@ -10,7 +10,7 @@ Se você é fã de **The Last of Us**, com certeza já se perguntou: **seria pos
 
 ## O que é exatamente o Cordyceps?
 
-Antes de tudo, é importante entender com o quê estamos lidando. No mundo real, o **Cordyceps** é um gênero de fungos que ataca insetos — especialmente formigas e lagartas. Ele invade o corpo do hospedeiro e assume o controle do seu sistema nervoso, basicamente “pilotando” o bicho como um zumbi.
+Antes de tudo, é importante entender com o quê estamos lidando. No mundo real, o **Cordyceps** é um gênero de fungos que ataca insetos especialmente formigas e lagartas. Ele invade o corpo do hospedeiro e assume o controle do seu sistema nervoso, basicamente “pilotando” o bicho como um zumbi.
 
 Bem sinistro, né? Mas calma, isso acontece com insetos. O que a série faz é imaginar um cenário onde o Cordyceps sofre uma mutação e começa a infectar humanos. E é aí que a coisa complica de verdade.
 
@@ -22,7 +22,7 @@ Mas e se acontecesse de verdade? Será que a ciência conseguiria dar conta de c
 
 ## Como funciona uma vacina, afinal?
 
-Vacinas funcionam como um treinamento para o nosso sistema de defesa. Elas apresentam ao nosso corpo uma versão enfraquecida ou inofensiva do invasor — seja ele um vírus, bactéria ou até mesmo, em teoria, um fungo — para que o organismo aprenda a combatê-lo caso o inimigo real apareça.
+Vacinas funcionam como um treinamento para o nosso sistema de defesa. Elas apresentam ao nosso corpo uma versão enfraquecida ou inofensiva do invasor seja ele um vírus, bactéria ou até mesmo, em teoria, um fungo para que o organismo aprenda a combatê-lo caso o inimigo real apareça.
 
 Só que criar vacinas contra **fungos** é muito mais complicado do que contra vírus ou bactérias. Isso porque os fungos têm células mais parecidas com as nossas, o que torna mais difícil para o sistema imunológico identificar o inimigo.
 
@@ -48,11 +48,11 @@ Nem tudo está perdido. A biotecnologia atual também caminha para soluções al
 
 *   **Antifúngicos personalizados:** criar remédios que atacam exatamente o tipo de fungo específico, sem afetar o metabolismo humano.
 *   **Terapias com anticorpos:** usar anticorpos sintéticos que reconhecem e neutralizam partes do fungo.
-*   **Modulação genética:** editar genes humanos para aumentar a resistência a infecções — algo que a série até sugere como origem da imunidade da Ellie.
+*   **Modulação genética:** editar genes humanos para aumentar a resistência a infecções algo que a série até sugere como origem da imunidade da Ellie.
 
 ## O caso da Ellie: ficção ou ciência?
 
-Em **The Last of Us**, a personagem Ellie é imune ao Cordyceps. Onde sugere que ela carrega o fungo em uma versão inofensiva, o que engana o fungo verdadeiro e impede uma infecção real. Essa ideia lembra muito o princípio de vacinas com vírus atenuados — algo que usamos para outras doenças reais, como febre amarela ou sarampo.
+Em **The Last of Us**, a personagem Ellie é imune ao Cordyceps. Onde sugere que ela carrega o fungo em uma versão inofensiva, o que engana o fungo verdadeiro e impede uma infecção real. Essa ideia lembra muito o princípio de vacinas com vírus atenuados algo que usamos para outras doenças reais, como febre amarela ou sarampo.
 
 Teoricamente, se isso fosse possível com um fungo, os médicos poderiam estudar o caso dela, **replicar essa “versão inofensiva”** do Cordyceps e transformá-la na base de uma vacina. Coisa de ficção… mas que tem um pezinho na biotecnologia moderna.
 
@@ -62,9 +62,9 @@ Olha, é muito improvável que um Cordyceps humano venha a existir. Mas a discus
 
 Então, mesmo que o apocalipse zumbi de _The Last of Us_ seja (por enquanto) ficção, estudar como combater fungos perigosos pode ser mais importante do que parece.
 
-## Conclusão: a ciência pode ser mais criativa que a ficção
+## A ciência pode ser mais criativa que a ficção
 
-Mesmo que ainda não exista uma vacina contra o Cordyceps — real ou fictício — o avanço da **biotecnologia e da micologia** promete soluções inovadoras contra ameaças do mundo fúngico. E quem sabe? Talvez a resposta para o próximo desafio da humanidade esteja mais nos esporos do que nos vírus.
+Mesmo que ainda não exista uma vacina contra o Cordyceps real ou fictício o avanço da **biotecnologia e da micologia** promete soluções inovadoras contra ameaças do mundo fúngico. E quem sabe? Talvez a resposta para o próximo desafio da humanidade esteja mais nos esporos do que nos vírus.
 
 Enquanto isso, seguimos torcendo por Ellie e agradecendo que, por enquanto, os fungos só dominam as formigas mesmo.
 
@@ -72,7 +72,6 @@ Enquanto isso, seguimos torcendo por Ellie e agradecendo que, por enquanto, os f
 
 Aqui vão algumas sugestões de leitura para quem quer saber mais:
 
-*   **“Fungos: O Quinto Reino”** – documentário incrível sobre o mundo dos fungos
 *   **Instituto Butantan** – publicações sobre vacinas e imunologia
 *   **PubMed** – pesquisas recentes sobre vacinas antifúngicas
 *   **Livro “Mudanças Climáticas e Pandemias”** – como o aquecimento global influencia a saúde pública

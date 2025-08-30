@@ -12,7 +12,7 @@ Essa pergunta parece simples, mas carrega um debate profundo, que mistura **pol�
 
 ## O nascimento de um símbolo
 
-Katinss nunca quis ser o rosto de uma revolução. Ela só queria proteger sua irmã, Prim. Quando se oferece como tributo no lugar dela, não faz isso por idealismo — faz por amor. E aí já começa a complexidade: sua decisão pessoal acaba virando um **ato político poderoso**.
+Katinss nunca quis ser o rosto de uma revolução. Ela só queria proteger sua irmã, Prim. Quando se oferece como tributo no lugar dela, não faz isso por idealismo faz por amor. E aí já começa a complexidade: sua decisão pessoal acaba virando um **ato político poderoso**.
 
 No mundo autoritário de Panem, qualquer gesto de humanidade vira uma ameaça. E foi exatamente isso que aconteceu com Katniss. Ao agir com compaixão, ela se transforma, sem querer, em um **símbolo de resistência**. Tudo bem até aí. Mas o que começa como espontâneo, logo é apropriado e moldado pelos interesses da rebelião.
 
@@ -20,7 +20,7 @@ No mundo autoritário de Panem, qualquer gesto de humanidade vira uma ameaça. E
 
 Lembra dos vídeos de propaganda do Distrito 13, mostrando Katniss como a "Tordo"? Eles precisavam de um **rosto que inspirasse** as massas, e ela servia perfeitamente. Mas será que ela teve escolha?
 
-É como se ela tivesse saído de um reality show mortal direto para o marketing político. A figura de Katniss foi usada para mobilizar as massas — o que, em teoria, é positivo. Mas, ao mesmo tempo, ela foi pressionada a interpretar um papel, mesmo que não acreditasse totalmente nele.
+É como se ela tivesse saído de um reality show mortal direto para o marketing político. A figura de Katniss foi usada para mobilizar as massas o que, em teoria, é positivo. Mas, ao mesmo tempo, ela foi pressionada a interpretar um papel, mesmo que não acreditasse totalmente nele.
 
 Esse tipo de manipulação lembra muito o que vemos na política do mundo real. Quem nunca viu um candidato usar uma causa nobre para ganhar simpatia, mesmo que não represente aquilo de verdade? É como se estivessem vestindo uma camisa que não é deles, só pra agradar a torcida.
 
@@ -28,7 +28,7 @@ Esse tipo de manipulação lembra muito o que vemos na política do mundo real. 
 
 Essa é a grande dúvida. Será que Katniss era realmente livre para tomar suas decisões? Ou foi empurrada, o tempo todo, de um lado para o outro pelos líderes da rebelião e pelo próprio sistema contra o qual lutava?
 
-Por mais que ela tenha momentos de escolha — como no episódio das amoras no primeiro filme — há muitos outros momentos em que ela está claramente sendo usada. Coin, a líder do Distrito 13, por exemplo, usa Katniss como uma ferramenta de propaganda, quase do mesmo jeito que Snow usava a mídia para controlar o povo.
+Por mais que ela tenha momentos de escolha como no episódio das amoras no primeiro filme há muitos outros momentos em que ela está claramente sendo usada. Coin, a líder do Distrito 13, por exemplo, usa Katniss como uma ferramenta de propaganda, quase do mesmo jeito que Snow usava a mídia para controlar o povo.
 
 Isso nos faz pensar: quando estamos lutando contra um sistema, será que não corremos o risco de repetir seus mesmos métodos?
 
@@ -52,9 +52,9 @@ Katinss representa o dilema do herói moderno: alguém que, mesmo sendo usado, m
 
 Em tempos de polarização e fake news, o caso de Katniss nos faz pensar como as narrativas são construídas. Quantas vezes usamos símbolos de luta sem entender a pessoa por trás deles? E será que, em alguma situação, não estamos sendo também manipulados por discursos prontos?
 
-## Conclusão: herói ou peça de xadrez?
+## Herói ou peça de xadrez?
 
-Katniss Everdeen está no meio do caminho. Ela é, sim, um símbolo — mas não por desejo próprio. E também é uma heroína — mas não do tipo clássico, cheio de certezas e glórias. O que a torna especial é justamente sua complexidade. Ela é humana.
+Katniss Everdeen está no meio do caminho. Ela é, sim, um símbolo mas não por desejo próprio. E também é uma heroína mas não do tipo clássico, cheio de certezas e glórias. O que a torna especial é justamente sua complexidade. Ela é humana.
 
 No fundo, todos nós podemos ser Katniss em alguma medida: tentando manter nossos princípios em meio a pressões externas, sendo empurrados para papéis que talvez não tenhamos escolhido. O importante é, como ela, perceber a hora de sair do tabuleiro e fazer a jogada por conta própria.
 

@@ -32,7 +32,7 @@ Tudo isso cria uma ilusão de empatia e realismo. Não são emoções reais, mas
 
 Você já parou no meio de um combate só porque ficou com pena do inimigo? Parece estranho, mas acontece. Quando um jogo dá nome, voz e até laços afetivos a um personagem hostil, ele deixa de ser só um “alvo”.
 
-E isso levanta uma questão ética importante: será que a indústria dos games está querendo que a gente sinta empatia por personagens que estamos prestes a eliminar? A resposta curta é sim — e isso faz parte de uma transformação maior na forma como se contam histórias nos jogos.
+E isso levanta uma questão ética importante: será que a indústria dos games está querendo que a gente sinta empatia por personagens que estamos prestes a eliminar? A resposta curta é sim e isso faz parte de uma transformação maior na forma como se contam histórias nos jogos.
 
 ### Como isso muda a experiência do jogador?
 
@@ -44,7 +44,7 @@ Essa profundidade emocional pode deixar a experiência mais rica, mas também ma
 
 Com a evolução da **inteligência artificial nos games**, os NPCs estão se tornando mais imprevisíveis e “vivos”. Alguns especialistas acreditam que, no futuro, esses personagens poderão reagir de forma ainda mais autônoma. Quem sabe até desenvolver novas estratégias em tempo real, baseadas no nosso estilo de jogo.
 
-Mas calma — eles não vão desenvolver consciência própria, como em um episódio de Black Mirror. Tudo continua sendo resultado de código, testes e muita criatividade humana.
+Mas calma eles não vão desenvolver consciência própria, como em um episódio de Black Mirror. Tudo continua sendo resultado de código, testes e muita criatividade humana.
 
 ### O lado bom (e o lado tenso) disso tudo
 
@@ -61,9 +61,9 @@ Mas também tem o outro lado:
 
 ## O que isso diz sobre a gente?
 
-No fundo, essa questão revela muito mais sobre os jogadores do que sobre a IA. Quando nos sentimos mal por eliminar um inimigo virtual, significa que nosso cérebro foi enganado — e que conseguimos conectar com aquele personagem digital, mesmo sabendo que ele não é real.
+No fundo, essa questão revela muito mais sobre os jogadores do que sobre a IA. Quando nos sentimos mal por eliminar um inimigo virtual, significa que nosso cérebro foi enganado e que conseguimos conectar com aquele personagem digital, mesmo sabendo que ele não é real.
 
-É como assistir a um filme e chorar com a morte de um personagem. Sabemos que é ficção, mas nossas emoções respondem como se fosse real. Isso mostra o poder das histórias nos games — e o quanto os jogos estão cada vez mais próximos do cinema e da literatura.
+É como assistir a um filme e chorar com a morte de um personagem. Sabemos que é ficção, mas nossas emoções respondem como se fosse real. Isso mostra o poder das histórias nos games e o quanto os jogos estão cada vez mais próximos do cinema e da literatura.
 
 ## Inteligência artificial ou arte da ilusão?
 

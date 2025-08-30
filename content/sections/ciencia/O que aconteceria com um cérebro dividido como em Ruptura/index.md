@@ -18,7 +18,7 @@ O objetivo? Garantir foco, produtividade e sigilo total no ambiente profissional
 
 ## Do ponto de vista neurológico: dá pra dividir a mente?
 
-A ideia até parece absurda à primeira vista, mas a neurociência já estudou casos que se aproximam disso. Um fenômeno real se chama **“split-brain”**, ou cérebro dividido. Isso acontece quando o **corpo caloso** – a ponte que liga os dois hemisférios do cérebro – é cortado, geralmente em cirurgias para tratar epilepsia severa.
+A ideia até parece absurda à primeira vista, mas a neurociência já estudou casos que se aproximam disso. Um fenômeno real se chama **“split-brain”**, ou cérebro dividido. Isso acontece quando o **corpo caloso** a ponte que liga os dois hemisférios do cérebro é cortado, geralmente em cirurgias para tratar epilepsia severa.
 
 Sabe o que acontece com essas pessoas? Elas passam a ter respostas diferentes com cada lado do corpo, como se tivessem consciências separadas em cada hemisfério. Por exemplo:
 
@@ -45,21 +45,21 @@ Isso levanta várias questões importantes:
 *   **Direitos:** O “interno” tem direito à liberdade, descanso, interação social?
 *   **Identidade:** Se são duas consciências, são duas pessoas?
 
-Vários especialistas em ética defendem que esse tipo de divisão mental violaria diretamente a noção de **dignidade humana**. Afinal, o que nos torna humanos é exatamente a nossa vivência completa – com lembranças, sentimentos, erros e aprendizados. Separar isso em caixinhas pode ser funcional, mas desumano.
+Vários especialistas em ética defendem que esse tipo de divisão mental violaria diretamente a noção de **dignidade humana**. Afinal, o que nos torna humanos é exatamente a nossa vivência completa com lembranças, sentimentos, erros e aprendizados. Separar isso em caixinhas pode ser funcional, mas desumano.
 
 ## E se um dia essa tecnologia existisse?
 
 Sabemos que ainda estamos longe da tecnologia mostrada em _Ruptura_. Mas com os avanços constantes da neurociência, inteligência artificial e interfaces cérebro-máquina, quem sabe? Empresas já estão testando **chips neurais** e formas de armazenar ou manipular memórias.
 
-Num futuro distante, isso poderia ser usado para finalidades médicas, como tratar traumas graves. Mas também pinta o risco de abuso – como em muitos episódios de _Black Mirror_. A linha entre tratamento e controle é muito fina.
+Num futuro distante, isso poderia ser usado para finalidades médicas, como tratar traumas graves. Mas também pinta o risco de abuso como em muitos episódios de _Black Mirror_. A linha entre tratamento e controle é muito fina.
 
 Além disso, mesmo que pudéssemos dividir memórias, ainda restaria a pergunta mais importante: **deveríamos?**
 
-## Reflexão final: por que isso nos atrai tanto?
+## Por que isso nos atrai tanto?
 
 Talvez _Ruptura_ tenha feito tanto sucesso porque mexe com algo que todos sentimos: o **desejo de separar vida pessoal e profissional**. Quem nunca sonhou em deixar os problemas do trabalho 100% no escritório? Ou desligar a cabeça no fim do expediente?
 
-Mas a série mostra que empurrar sentimentos para “outra versão de nós” não resolve o problema, só o esconde. No fim das contas, somos o que vivemos por inteiro — com nossas alegrias, frustrações e memórias completas. **Dividir a mente pode parecer solucionar o cansaço, mas também divide nossa humanidade.**
+Mas a série mostra que empurrar sentimentos para “outra versão de nós” não resolve o problema, só o esconde. No fim das contas, somos o que vivemos por inteiro com nossas alegrias, frustrações e memórias completas. **Dividir a mente pode parecer solucionar o cansaço, mas também divide nossa humanidade.**
 
 ## Quer saber mais?
 

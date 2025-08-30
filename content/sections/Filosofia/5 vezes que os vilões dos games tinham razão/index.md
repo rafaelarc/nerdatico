@@ -10,7 +10,7 @@ Todo gamer já passou por isso: você está jogando, enfrentando aquele chefão 
 
 É claro que ninguém aqui está dizendo para sair por aí queimando cidades virtuais ou causando o apocalipse. Mas a verdade é que muitos vilões dos games têm motivações bem mais complexas do que simplesmente ser o “cara mau”. Neste post, vamos explorar **5 vilões que, de certa maneira, tinham razão** e por que talvez eles mereçam mais crédito do que recebemos.
 
-## 1\. **Sephiroth (Final Fantasy VII)**
+## 1. **Sephiroth (Final Fantasy VII)**
 
 Se você já enfrentou o Sephiroth alguma vez, sabe: ele é o estereótipo do vilão poderoso, bonito e... totalmente surtado. Mas será mesmo que ele é só um megalomaníaco cozinhando planos de destruição?
 
@@ -18,7 +18,7 @@ Ao longo de **Final Fantasy VII**, descobrimos que Sephiroth é fruto de experi�
 
 **Quem nunca quis virar a mesa quando descobre uma injustiça?** Claro que absorver poderes e querer destruir o planeta não é uma resposta equilibrada, mas entender o trauma dele torna tudo muito mais complexo. A grande vilã aí não seria a própria Shinra?
 
-## 2\. **Abby Anderson (The Last of Us Part II)**
+## 2. **Abby Anderson (The Last of Us Part II)**
 
 Essa vai causar polêmica, a gente sabe. Muita gente ama o Joel, considerado um dos protagonistas mais complexos dos videogames. Mas, convenhamos, o que ele fez no final do primeiro jogo criou muita dor e Abby representa justamente o preço dessa escolha.
 
@@ -26,7 +26,7 @@ Abby tem todos os motivos do mundo para buscar vingança. Ela também perdeu alg
 
 O legal de **The Last of Us Part II** é que ele nos obriga a sentir empatia por todos os lados. E isso mostra o poder da narrativa nos games ninguém aqui é totalmente herói ou totalmente vilão.
 
-## 3\. **Vaas Montenegro (Far Cry 3)**
+## 3. **Vaas Montenegro (Far Cry 3)**
 
 "Você sabe o que é a definição de insanidade?" Se você jogou **Far Cry 3**, com certeza lembra dessa frase. Vaas é um dos vilões mais marcantes dos games, mas nem todo mundo percebe o que está por trás das ações dele.
 
@@ -34,7 +34,7 @@ Vaas foi manipulado, explorado, e acabou entrando num ciclo de violência e louc
 
 Claro, ele comete atos terríveis. Mas, dentro do contexto em que ele foi criado, você consegue entender como ele chegou até aquele ponto. **Muitas vezes, o vilão é só alguém que perdeu a esperança e essa é a verdadeira tragédia.**
 
-## 4\. **GLaDOS (Portal)**
+## 4. **GLaDOS (Portal)**
 
 Ah, GLaDOS. A inteligência artificial sarcástica que nos faz rir e temer ao mesmo tempo. Em **Portal** e **Portal 2**, ela é a “vilã” que nos desafia com puzzles praticamente impossíveis... e algumas piadas cruéis no meio do caminho. Mas será que ela é mesmo a vilã?
 
@@ -42,7 +42,7 @@ Sim, ela tenta nos matar. Mas também é uma criação humana colocada em um pap
 
 Além disso, ela é uma das representações mais criativas da crítica à automação sem limites. Quem é o verdadeiro vilão? A IA sarcástica... ou os humanos que a criaram sem considerar as consequências?
 
-## 5\. **Arthas Menethil (Warcraft III / World of Warcraft)**
+## 5. **Arthas Menethil (Warcraft III / World of Warcraft)**
 
 Antes de ser o temido Lich King, Arthas era um paladino promissor, cheio de boas intenções. Mas como já dizia o ditado: **de boas intenções o inferno ou o mundo de Azeroth está cheio.**
 

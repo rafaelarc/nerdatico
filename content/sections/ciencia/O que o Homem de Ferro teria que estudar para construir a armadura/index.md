@@ -8,7 +8,7 @@ slug: "o-que-o-homem-de-ferro-teria-que-estudar-para-construir-a-armadura?"
 
 Você já parou pra pensar o que o Tony Stark realmente teria que estudar pra criar aquelas armaduras incríveis do Homem de Ferro? Desde a improvisada Mark I, feita em uma caverna com sucata, até a futurista Bleeding Edge, que se molda ao corpo como se fosse mágica... tem muita ciência (e um pouco de imaginação) envolvida aí! Se você já sonhou em ser um inventor como ele, ou simplesmente ficou curioso sobre o que está por trás da tecnologia do herói, vem comigo nessa jornada. Vamos descobrir, de forma realista e bem pé no chão, quais áreas do conhecimento você teria que dominar pra se tornar o próximo gênio, bilionário, playboy, filantropo.
 
-## 1\. Engenharia: o primeiro passo pra virar Tony Stark
+## 1. Engenharia: o primeiro passo pra virar Tony Stark
 
 Pra começar, não tem como fugir: **engenharia é o coração da armadura do Homem de Ferro**. E não é só uma área, não… são várias!
 
@@ -19,7 +19,7 @@ Pra começar, não tem como fugir: **engenharia é o coração da armadura do Ho
 
 Se você já montou um Lego Technic ou brincou com kits de robótica, esse é só o comecinho de um longo caminho. Mas é por aí!
 
-## 2\. Física: a ciência que desafia a gravidade (e a realidade!)
+## 2. Física: a ciência que desafia a gravidade (e a realidade!)
 
 A armadura de Tony Stark não apenas resiste a explosões… ela voa! E pra voar daquele jeito, ele precisa conhecer muito bem os princípios da **física aplicada**. Coisas como:
 
@@ -29,7 +29,7 @@ A armadura de Tony Stark não apenas resiste a explosões… ela voa! E pra voar
 
 Quer um exemplo divertido? Pensa na cena em que ele voa muito alto e a armadura congela. Isso tem a ver com pressão atmosférica e temperatura. Tudo física pura!
 
-## 3\. Ciências da computação: sem programação, sem inteligência artificial
+## 3. Ciências da computação: sem programação, sem inteligência artificial
 
 Não dá pra falar de Tony Stark sem mencionar o J.A.R.V.I.S. (e depois o F.R.I.D.A.Y.). Aqueles assistentes virtuais que deixam qualquer Alexa no chinelo. Por trás disso tudo tem muita **inteligência artificial, aprendizado de máquina e programação**. Ele precisaria dominar:
 
@@ -39,7 +39,7 @@ Não dá pra falar de Tony Stark sem mencionar o J.A.R.V.I.S. (e depois o F.R.I.
 
 Tá aí um bom motivo pra não pular aquela aula de lógica de programação...
 
-## 4\. Química e energia: o segredo por trás do reator Arc
+## 4. Química e energia: o segredo por trás do reator Arc
 
 Você provavelmente já se perguntou de onde vem tanta energia pra fazer aquele traje funcionar, né? O reator Arc, uma invenção revolucionária na história do Tony, vem aí como uma solução futurista… mas tem muito de **química e ciência dos materiais** envolvido. Mesmo que esse tipo de reator seja ficção, na vida real, Stark teria que estudar coisas como:
 
@@ -49,7 +49,7 @@ Você provavelmente já se perguntou de onde vem tanta energia pra fazer aquele 
 
 Não é moleza. Mas quem nunca quis ter uma bateria que nunca acaba, tipo a do Stark?
 
-## 5\. Biomedicina: o lado humano da equação
+## 5. Biomedicina: o lado humano da equação
 
 Tony Stark é um homem dentro de uma máquina. Então, pra garantir que todo esse aparato funcione junto ao corpo humano, tem muita **biomedicina, ergonomia e neurociência** no meio da história.
 

@@ -8,7 +8,7 @@ slug: "qual-seria-a-dieta-ideal-de-um-saiyajin?"
 
 Se você já assistiu **Dragon Ball**, provavelmente se pegou perguntando: como Goku consegue comer tanto e continuar em forma? Ou melhor: **o que um saiyajin com treinos insanos e lutas interplanetárias deveria comer no mundo real** para aguentar o tranco?
 
-Nesse post, vamos brincar um pouco com a ciência e a ficção, e tentar montar uma dieta plausível — e altamente calórica — para um verdadeiro guerreiro saiyajin. Segura essa marmita porque vem coisa grande por aí!
+Nesse post, vamos brincar um pouco com a ciência e a ficção, e tentar montar uma dieta plausível e altamente calórica para um verdadeiro guerreiro saiyajin. Segura essa marmita porque vem coisa grande por aí!
 
 ## O que define o metabolismo de um saiyajin?
 
@@ -37,7 +37,7 @@ Ou seja, o Goku não come por gula. Come por sobrevivência!
 
 Para manter tanto treino e batalha, os macronutrientes são essenciais. Vamos repartir tudo isso de forma balanceada (na medida do possível, claro).
 
-### 1\. Proteínas: o combustível para o músculo
+### 1. Proteínas: o combustível para o músculo
 
 Os saiyajins vivem se recuperando de ferimentos e elevando seus limites físicos. Isso exige um consumo altíssimo de proteínas.
 
@@ -46,7 +46,7 @@ Os saiyajins vivem se recuperando de ferimentos e elevando seus limites físicos
 
 Ah, e se considerarmos aquela lenda de que quanto mais o saiyajin apanha e se recupera, mais forte ele fica… ele também precisa de proteína extra para a regeneração.
 
-### 2\. Carboidratos: energia pura para as lutas
+### 2. Carboidratos: energia pura para as lutas
 
 Carboidratos são a principal fonte de energia rápida. Para um saiyajin sair voando por aí e ainda aguentar um Kamehameha, ele precisa de MUITO arroz!
 
@@ -55,7 +55,7 @@ Carboidratos são a principal fonte de energia rápida. Para um saiyajin sair vo
 
 Inclusive, se Goku crescesse no Brasil, comeria um PF todo dia com alegria!
 
-### 3\. Gorduras saudáveis: para aguentar o tranco
+### 3. Gorduras saudáveis: para aguentar o tranco
 
 Muita gente foge da gordura, mas ela é essencial para funções hormonais, resistência física e até saúde mental (quem nunca ficou irritado de fome?).
 
@@ -96,9 +96,9 @@ Agora, vamos dar uma viajada. Imagina Goku chegando na casa da Chichi e sendo re
 
 Com certeza ele comeria aquele prato de pedreiro com 3 montanhas de arroz e ainda perguntaria: tem repeteco?
 
-## Conclusão: Comer como um guerreiro
+## Comer como um guerreiro
 
-Montar a dieta de um saiyajin pode parecer exagero, mas mostra como a alimentação é fundamental para quem leva o treino a sério. Claro, você não precisa comer 15 mil calorias por dia para ficar forte — **mas entender sua alimentação como parte do seu desempenho é essencial**.
+Montar a dieta de um saiyajin pode parecer exagero, mas mostra como a alimentação é fundamental para quem leva o treino a sério. Claro, você não precisa comer 15 mil calorias por dia para ficar forte **mas entender sua alimentação como parte do seu desempenho é essencial**.
 
 Então, da próxima vez que for treinar pesado e bater aquela fome, lembre-se: até os heróis do Dragon Ball só ficam fortes porque comem bem!
 
@@ -109,4 +109,4 @@ Então, da próxima vez que for treinar pesado e bater aquela fome, lembre-se: a
 *   [A dieta extrema de Michael Phelps](https://exame.com/pop/quanto-comia-michael-phelps-nadador-com-olimpiadas-no-curriculo/)
 *   [Dicas de bulking (ganho de massa)](https://www.bulkingbrasil.com.br/)
 
-**E você, como montaria a dieta ideal para um saiyajin brasileiro? Conta pra gente nos comentários!**
+E você, como montaria a dieta ideal para um saiyajin brasileiro? Conta pra gente nos comentários!

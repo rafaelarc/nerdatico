@@ -6,7 +6,7 @@ image: "gta-4.webp"
 slug: "como-seria-o-imposto-de-renda-no-universo-de-gta"
 ---
 
-Se você já jogou qualquer versão de **Grand Theft Auto** (ou GTA, pros íntimos), já deve ter notado que **a economia trabalha numas regras totalmente fora do padrão**. É como se fosse o Brasil numa Black Friday sem limites: dinheiro entrando fácil, gastando mais fácil ainda — e quase sempre de formas pouco... legais.
+Se você já jogou qualquer versão de **Grand Theft Auto** (ou GTA, pros íntimos), já deve ter notado que **a economia trabalha numas regras totalmente fora do padrão**. É como se fosse o Brasil numa Black Friday sem limites: dinheiro entrando fácil, gastando mais fácil ainda e quase sempre de formas pouco... legais.
 
 Mas já parou pra pensar como seria se o Governo de Los Santos (ou Liberty City, tanto faz) resolvesse regularizar as coisas? Tipo assim: **e se existisse Imposto de Renda no universo de GTA?** Será que o Trevor ia declarar toda grana que ganha explodindo caixas eletrônicos? Ou o CJ ia precisar explicar de onde vem cada centavo das “missões paralelas”?
 
@@ -73,7 +73,7 @@ Quem já jogou GTA sabe que você pode ter uma verdadeira frota de carros, motos
 
 Aliás, no Brasil tem muita gente que comprou carro em nome da avó pra escapar de imposto. Será que no GTA o Michael registraria o jato particular no nome da empregada?
 
-## Conclusão: um GTA com imposto de renda ainda seria divertido?
+## Um GTA com imposto de renda ainda seria divertido?
 
 Apesar da loucura que seria aplicar um sistema fiscal em um jogo onde o caos reina, confesso que **ia ser hilário ver os personagens tendo que pensar em declaração, INSS, IRRF e afins**.
 

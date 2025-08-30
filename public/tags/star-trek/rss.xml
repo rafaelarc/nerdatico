@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Star Trek on Nerdático</title>
+    <link>http://localhost:1313/tags/star-trek/</link>
+    <description>Recent content in Star Trek on Nerdático</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/star-trek/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>7 tecnologias do Star Trek que viraram realidade</title>
+        <link>http://localhost:1313/7-tecnologias-do-star-trek-que-viraram-realidade/</link>
+        <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/7-tecnologias-do-star-trek-que-viraram-realidade/</guid>
+
+        <enclosure url="http://localhost:1313/7-tecnologias-do-star-trek-que-viraram-realidade/star-trek.jpg" length="0" type="image/webp"/><description>&lt;p&gt;Quem curte ficção científica provavelmente já se maravilhou com as aventuras da frota estelar em &lt;strong&gt;Star Trek&lt;/strong&gt;. Mas e se eu te contar que muita coisa que a gente achava impossível lá nos anos 60 virou realidade? Pois é, meu caro nerd, o que antes era só truque de roteiro futurista agora está nos nossos bolsos, nas nossas casas e até nos hospitais.&lt;/p&gt;</description>
+</item>
+    <item>
+        <title>O que você pode aprender sobre liderança com o Capitão Picard</title>
+        <link>http://localhost:1313/o-que-voce-pode-aprender-sobre-lideranca-com-o-capitao-picard/</link>
+        <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/o-que-voce-pode-aprender-sobre-lideranca-com-o-capitao-picard/</guid>
+
+        <enclosure url="http://localhost:1313/o-que-voce-pode-aprender-sobre-lideranca-com-o-capitao-picard/picard.webp" length="0" type="image/webp"/><description>&lt;p&gt;Se você é fã de &lt;strong&gt;Star Trek: The Next Generation&lt;/strong&gt;, com certeza já ouviu Jean-Luc Picard dizer algo que te fez pensar: &amp;ldquo;Esse cara entende tudo de comando!&amp;rdquo;. Mesmo que você nunca tenha visto um episódio, vale a pena conhecer esse personagem afinal, muita gente considera Picard um verdadeiro exemplo de &lt;strong&gt;liderança empática, lógica e inspiradora&lt;/strong&gt;.&lt;/p&gt;</description>
+</item>
+  </channel>
+</rss>

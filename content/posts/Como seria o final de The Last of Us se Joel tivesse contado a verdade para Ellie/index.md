@@ -6,13 +6,13 @@ image: "the-last-of-us.webp"
 slug: "como-seria-o-final-de-the-last-of-us-se-joel-tivesse-contado-a-verdade-para-ellie"
 ---
 
-Se você, assim como a gente, terminou **The Last of Us** com o coração apertado e um milhão de pensamentos na cabeça, já deve ter se perguntado: **e se Joel tivesse dito a verdade para Ellie?** Esse momento final é um dos mais marcantes da história dos videogames — cheio de tensão, emoção e dilemas morais.
+Se você, assim como a gente, terminou **The Last of Us** com o coração apertado e um milhão de pensamentos na cabeça, já deve ter se perguntado: **e se Joel tivesse dito a verdade para Ellie?** Esse momento final é um dos mais marcantes da história dos videogames cheio de tensão, emoção e dilemas morais.
 
 Hoje, vamos brincar com a ideia e imaginar um final alternativo. Não é só uma fanfic, mas uma reflexão sobre o que poderia mudar (ou não) se Joel tivesse agido diferente. Vem com a gente nessa jornada!
 
 ## Relembrando o final de The Last of Us
 
-No final do primeiro jogo, Joel toma uma decisão difícil: ele resgata Ellie do hospital dos Vagalumes, impedindo que façam uma cirurgia que poderia resultar numa cura para o fungo que devastou o mundo. A cirurgia, porém, exigiria a morte de Ellie — algo que Joel simplesmente não aceita.
+No final do primeiro jogo, Joel toma uma decisão difícil: ele resgata Ellie do hospital dos Vagalumes, impedindo que façam uma cirurgia que poderia resultar numa cura para o fungo que devastou o mundo. A cirurgia, porém, exigiria a morte de Ellie algo que Joel simplesmente não aceita.
 
 Depois do resgate, Ellie pergunta se o que os Vagalumes disseram sobre uma possível cura era verdade. E o que Joel faz? Ele mente. Diz que outras pessoas imunes foram encontradas, mas que nenhuma levou a uma cura.
 
@@ -24,7 +24,7 @@ Essa é, talvez, a mudança mais imediata e dolorosa que veríamos.
 
 *   **Confiança abalada:** A relação construída com tanto esforço talvez nunca mais fosse a mesma.
 *   **Ellie tomada por culpa:** Saber que dezenas, talvez centenas de vidas poderiam ser salvas ao custo da sua vida? É um peso gigante pra uma adolescente carregar.
-*   **Um distanciamento inevitável:** Há grandes chances de Ellie se afastar de Joel ao saber o que ele fez — mesmo que fosse por amor.
+*   **Um distanciamento inevitável:** Há grandes chances de Ellie se afastar de Joel ao saber o que ele fez mesmo que fosse por amor.
 
 A verdade pode ser libertadora, mas também destrutiva. E em uma relação tão intensa como a deles, cada palavra pesa toneladas.
 
@@ -34,7 +34,7 @@ Essa é uma daquelas perguntas que dividem opiniões entre os fãs. Muitos acred
 
 Pensa comigo: desde o começo do jogo, ela é motivada pelo desejo de encontrar sentido na própria existência. Ser imune num mundo pós-apocalíptico é quase como uma missão divina. Saber que perdeu essa chance por uma escolha que não foi dela? Dificílimo de engolir, né?
 
-Ao contar a verdade, Joel basicamente coloca essa escolha nas mãos de Ellie. E conhecendo o espírito dela — teimosa, corajosa e, acima de tudo, altruísta — é bem provável que ela teria voltado para os Vagalumes. Mesmo com medo. Mesmo com Joel implorando para não ir.
+Ao contar a verdade, Joel basicamente coloca essa escolha nas mãos de Ellie. E conhecendo o espírito dela teimosa, corajosa e, acima de tudo, altruísta é bem provável que ela teria voltado para os Vagalumes. Mesmo com medo. Mesmo com Joel implorando para não ir.
 
 ## The Last of Us Part II teria sido diferente?
 
@@ -52,7 +52,7 @@ Resumindo: a história mudaria, mas o mundo seguiria sendo cruel. Teríamos meno
 
 A grande sacada de **The Last of Us** está nos tons de cinza. Não existe certo ou errado. Só pessoas tentando sobreviver e proteger quem amam.
 
-Joel fez o que qualquer pai faria. Protegeu Ellie como se fosse sua própria filha. Tomou uma decisão baseada no amor — mas também no medo da perda.
+Joel fez o que qualquer pai faria. Protegeu Ellie como se fosse sua própria filha. Tomou uma decisão baseada no amor mas também no medo da perda.
 
 Por outro lado, a verdade é dura, mas necessária. Tomar decisões por outra pessoa, especialmente quando envolve a vida dela, é questionável no mínimo. Só Ellie poderia escolher se queria morrer por uma possível cura. E essa escolha foi tirada dela.
 
@@ -62,9 +62,7 @@ No fim, o jogo faz com a gente o que só boas histórias fazem: nos transforma e
 
 Difícil, né? Agora pensa: se você fosse Joel, o que faria? E se fosse Ellie, como reagiria?
 
-Talvez você já tenha passado por momentos assim na vida real. Decisões em que a verdade parecia virar do avesso tudo que você construiu com alguém. Ou mentiras contadas por proteção — e injustiça. É por isso que a história toca tanto nosso coração. Porque mesmo num mundo dominado por zumbis, o que mais pesa são os conflitos humanos.
-
-## Conclusão
+Talvez você já tenha passado por momentos assim na vida real. Decisões em que a verdade parecia virar do avesso tudo que você construiu com alguém. Ou mentiras contadas por proteção e injustiça. É por isso que a história toca tanto nosso coração. Porque mesmo num mundo dominado por zumbis, o que mais pesa são os conflitos humanos.
 
 Imaginar um final alternativo para **The Last of Us** não muda a história oficial, mas ajuda a gente a entender melhor os sentimentos por trás dela.
 

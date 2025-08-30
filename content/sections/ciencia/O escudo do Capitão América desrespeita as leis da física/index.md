@@ -14,13 +14,13 @@ Mas peraí... Será que isso faz sentido? Ou será que o escudo do Capitão just
 
 Pra entender o que tá acontecendo aqui, a gente precisa dar uma olhadinha nas **leis da física**, especialmente nas de Newton, conservação de energia e até aerodinâmica. Não precisa surtar! Vamos explicar tudinho de forma simples, como se estivéssemos batendo papo numa roda de amigos.
 
-### 1\. Terceira Lei de Newton: pra cada ação, tem uma reação
+### 1. Terceira Lei de Newton: pra cada ação, tem uma reação
 
 Imagina que você joga uma bola contra a parede. Ela quica de volta, certo? Isso é a **Terceira Lei de Newton** em ação: **“Toda ação gera uma reação de igual intensidade e em sentido contrário.”**
 
 Quando o Capitão joga o escudo, ele também aplica uma força. E o escudo, por sua vez, ao colidir com objetos ou inimigos, recebe uma força contrária. Mas isso não quer dizer que ele vai voltar pro ponto de origem direitinho como acontece nos filmes. É aí que entra o mistério...
 
-### 2\. Conservação de energia: nada se perde, tudo se transforma
+### 2. Conservação de energia: nada se perde, tudo se transforma
 
 Outro conceito importante é o da **conservação de energia**. Basicamente, a energia que o Capitão coloca ao lançar o escudo é distribuída entre:
 
@@ -30,7 +30,7 @@ Outro conceito importante é o da **conservação de energia**. Basicamente, a e
 
 A pergunta é: como o escudo mantém tanta energia ao bater em várias coisas e ainda volta limpinho pra mão do Capitão? Milagre? Talvez seja melhor olhar pra nossa próxima parte.
 
-### 3\. Aerodinâmica e o Segredo do Bumerangue
+### 3. Aerodinâmica e o Segredo do Bumerangue
 
 A forma como o escudo é lançado lembra até um bumerangue. Tem quem compare com um frisbee também, daqueles que a gente joga no parque com os amigos. Esses objetos têm um **design aerodinâmico** que permite que eles façam curvas e voltem ao ponto de origem mas isso requer um arremesso específico, com o ângulo e força certos.
 
@@ -64,7 +64,7 @@ Brincadeiras à parte, na vida real, físicos e engenheiros teriam que criar um 
 
 Ou seja, teria que ser feito por Wakanda e manuseado por um super-herói. Simples assim!
 
-## Conclusão: física pode até reclamar, mas no cinema tudo é possível
+## Física pode até reclamar, mas no cinema tudo é possível
 
 O escudo do Capitão América pode até desafiar todas as leis da **física real**, mas ele entrega algo muito mais valioso: **emoção, ação e carisma**. A gente se emociona quando ele volta pra mão do herói no último segundo, ou quando derruba uma fileira de vilões em câmera lenta.
 

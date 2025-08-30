@@ -67,7 +67,7 @@ Mesmo décadas depois do lançamento de Akira, Katsuhiro Otomo continua sendo um
 
 Quer um exemplo atual? A série **“Edgerunners”**, também ambientada no universo de Cyberpunk 2077, carrega fortemente esse espírito japonês de contar histórias distópicas com emoção intensa e personagens marcantes. Mais uma prova de como as sementes plantadas por Otomo florescem até hoje.
 
-## Conclusão: Akira correu para que Cyberpunk 2077 pudesse andar de moto
+## Akira correu para que Cyberpunk 2077 pudesse andar de moto
 
 Fica claro que **sem Akira, talvez Cyberpunk 2077 nem existisse** como conhecemos. E tudo isso graças à visão única de Katsuhiro Otomo, que uniu crítica social, ficção científica e uma estética futurista que continua influenciando até hoje.
 

@@ -8,7 +8,7 @@ slug: "wolverine-sentiria-dor-ao-regenerar"
 
 Se você já assistiu algum filme dos X-Men ou leu quadrinhos da Marvel, com certeza se impressionou com o poder de regeneração do Wolverine. O cara leva tiro, facada, explosão... e volta como se nada tivesse acontecido. Mas aí vem uma pergunta que intriga fãs há anos: **Wolverine sente dor ao se regenerar?**
 
-Parece simples, mas essa dúvida abre espaço para uma discussão cheia de ciência, filosofia e curiosidades sobre o corpo humano — e o sobre-humano também. Bora explorar esse tema juntos?
+Parece simples, mas essa dúvida abre espaço para uma discussão cheia de ciência, filosofia e curiosidades sobre o corpo humano e o sobre-humano também. Bora explorar esse tema juntos?
 
 ## Regeneração: um presente ou maldição?
 
@@ -24,7 +24,7 @@ Para entender se o Wolverine sente dor, precisamos entender **como a dor funcion
 *   Esses sinais são enviados para o cérebro.
 *   Lá, o cérebro interpreta essas informações como dor.
 
-Ou seja, **sentir dor não acontece no local do machucado, mas no cérebro**. E como o Wolverine possui um corpo humano — com cérebro e tudo mais — é lógico assumir que ele também sente dor.
+Ou seja, **sentir dor não acontece no local do machucado, mas no cérebro**. E como o Wolverine possui um corpo humano com cérebro e tudo mais é lógico assumir que ele também sente dor.
 
 ### Mas se ele regenera tão rápido, dá tempo de sentir alguma coisa?
 
@@ -54,11 +54,11 @@ Se você tivesse o poder de Wolverine, usaria de boa? Pensar nisso é quase um e
 
 Esse tipo de detalhe é o que transforma personagens como o Logan em algo mais do que simples super-heróis. Eles viram espelhos da nossa própria experiência humana, exagerada ao extremo, mas cheia de significado.
 
-## Conclusão: Wolverine sente dor, sim — e isso faz dele mais humano
+## Wolverine sente dor, sim e isso faz dele mais humano
 
 Depois de tudo isso, a resposta curta é: **sim, Wolverine sente dor ao se regenerar**. E talvez seja justamente isso que torne o personagem tão cativante. Apesar de seus superpoderes, sua **dor constante o aproxima de nossa realidade**. Ele se machuca, sofre, mas continua lutando. E isso inspira.
 
-Para nós, fãs de quadrinhos, filmes e ciência, essa é uma daquelas perguntas que fazem o universo geek ser tão encantador. Uma mistura de ficção, ciência e humanidade. Tudo na medida certa.
+Para nós, fãs, essa é uma daquelas perguntas que fazem o universo geek ser tão encantador. Uma mistura de ficção, ciência e humanidade. Tudo na medida certa.
 
 ### Fontes e leituras recomendadas:
 

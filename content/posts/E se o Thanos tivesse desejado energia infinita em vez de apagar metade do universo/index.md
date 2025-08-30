@@ -59,11 +59,11 @@ Aliás, no Brasil, temos **riquezas naturais imensas**. Se existisse uma forma d
 
 Às vezes, o que falta não é energia. É vontade.
 
-## Conclusão: um estalo de ideias melhores
+## Um estalo de ideias melhores
 
 A pergunta “e se Thanos tivesse desejado energia infinita?” abre um debate importante: será que estamos presos a soluções radicais justamente por falta de **imaginação e empatia**?
 
-A história do Titã Louco serve como metáfora pra muitas decisões humanas: cortar na raiz em vez de **buscar soluções sustentáveis**. Em vez de impor sofrimento, poderíamos usar nosso conhecimento — ou uma Manopla mágica, se rolasse — para criar novos caminhos.
+A história do Titã Louco serve como metáfora pra muitas decisões humanas: cortar na raiz em vez de **buscar soluções sustentáveis**. Em vez de impor sofrimento, poderíamos usar nosso conhecimento ou uma Manopla mágica, se rolasse para criar novos caminhos.
 
 Fica então a provocação: se você tivesse as Joias do Infinito, o que mudaria no mundo?
 

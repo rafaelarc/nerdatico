@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nerdático</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Nerdático</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>Filosofia</title>
+        <link>http://localhost:1313/tags/filosofia/</link>
+        <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/filosofia/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Sabedoria</title>
+        <link>http://localhost:1313/tags/sabedoria/</link>
+        <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/sabedoria/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Ciencia</title>
+        <link>http://localhost:1313/tags/ciencia/</link>
+        <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/ciencia/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Nerdverso</title>
+        <link>http://localhost:1313/tags/nerdverso/</link>
+        <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/nerdverso/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Ciência</title>
+        <link>http://localhost:1313/tags/ci%C3%AAncia/</link>
+        <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/ci%C3%AAncia/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Marvel</title>
+        <link>http://localhost:1313/tags/marvel/</link>
+        <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/marvel/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Gaming</title>
+        <link>http://localhost:1313/tags/gaming/</link>
+        <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/gaming/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Quadrinhos</title>
+        <link>http://localhost:1313/tags/quadrinhos/</link>
+        <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/quadrinhos/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>The Last of Us</title>
+        <link>http://localhost:1313/tags/the-last-of-us/</link>
+        <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/the-last-of-us/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Harry-Potter</title>
+        <link>http://localhost:1313/tags/harry-potter/</link>
+        <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/harry-potter/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Series</title>
+        <link>http://localhost:1313/tags/series/</link>
+        <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/series/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Star Wars</title>
+        <link>http://localhost:1313/tags/star-wars/</link>
+        <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/star-wars/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Dragon Ball</title>
+        <link>http://localhost:1313/tags/dragon-ball/</link>
+        <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/dragon-ball/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Star Trek</title>
+        <link>http://localhost:1313/tags/star-trek/</link>
+        <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/star-trek/</guid>
+
+        <description></description>
+</item>
+  </channel>
+</rss>

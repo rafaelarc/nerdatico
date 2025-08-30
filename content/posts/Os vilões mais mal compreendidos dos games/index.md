@@ -18,7 +18,7 @@ Nos games, assim como na vida real, muitos "antagonistas" têm histórias profun
 
 ## Sephiroth (Final Fantasy VII): O guerreiro que perdeu tudo
 
-Quem jogou **Final Fantasy VII** provavelmente nunca esqueceu Sephiroth — especialmente aquela cena marcante no final do primeiro disco (sim, você sabe qual).
+Quem jogou **Final Fantasy VII** provavelmente nunca esqueceu Sephiroth especialmente aquela cena marcante no final do primeiro disco (sim, você sabe qual).
 
 Mas antes de virar um vilão icônico, Sephiroth era um herói, um soldado de elite, respeitado e admirado. O que deu errado?
 
@@ -35,7 +35,7 @@ Ele descobre que na verdade foi criado em laboratório, usando células de uma a
 
 No mundo de **Warcraft**, Arthas começa como um jovem príncipe dedicado a proteger seu povo da ameaça dos mortos-vivos. Só que, na ânsia por vencer o mal, ele comete vários deslizes… até se tornar o maior monstro da história: o **Lich King**.
 
-Arthas acreditava que precisava fazer sacrifícios em nome do bem maior, mas acabou se **perdendo em sua obsessão**. Ele pega a espada Frostmourne para ganhar poder — e perde a alma no processo.
+Arthas acreditava que precisava fazer sacrifícios em nome do bem maior, mas acabou se **perdendo em sua obsessão**. Ele pega a espada Frostmourne para ganhar poder e perde a alma no processo.
 
 O triste? Ele nunca foi um vilão de coração. Foi alguém que **pretendia proteger, mas não soube quando parar**.
 
@@ -65,11 +65,11 @@ The Boss é uma das personagens mais marcantes de **Metal Gear Solid**. Vista in
 
 Ao longo do jogo descobrimos que ela **sacrificou sua própria honra e imagem** como inimiga da pátria em prol de uma missão secreta para evitar uma guerra ainda maior.
 
-Ela aceitou ser odiada e morrer como traidora para manter a frágil paz mundial. Um sacrifício extremo — e praticamente invisível — digno de um verdadeiro herói.
+Ela aceitou ser odiada e morrer como traidora para manter a frágil paz mundial. Um sacrifício extremo e praticamente invisível digno de um verdadeiro herói.
 
 ### A tragédia da The Boss nos relembra:
 
-*   **Nem tudo é preto no branco — o cinza costuma ter mais verdade**
+*   **Nem tudo é preto no branco o cinza costuma ter mais verdade**
 *   **Um “vilão” pode ser o herói mais corajoso de todos**
 
 ## Mas por que amamos odiar esses personagens?
@@ -84,9 +84,9 @@ Quantas vezes, ao terminar um jogo com uma narrativa forte, você se pegou refle
 
 Assim como séries, filmes e livros, os jogos têm se tornado ferramentas para discutir moralidade, empatia e os limites do que consideramos heróico ou maligno.
 
-## Conclusão: talvez os vilões só precisem ser ouvidos
+## Talvez os vilões só precisem ser ouvidos
 
-Quem diria que por trás de tantos planos malignos estariam dores, traumas e até esperança? Ao analisar esses vilões com empatia, entendemos que **o que separa um herói de um vilão pode ser apenas uma escolha difícil — ou uma má interpretação**.
+Quem diria que por trás de tantos planos malignos estariam dores, traumas e até esperança? Ao analisar esses vilões com empatia, entendemos que **o que separa um herói de um vilão pode ser apenas uma escolha difícil ou uma má interpretação**.
 
 Da próxima vez que derrotar um chefão, pare um segundo para pensar: será que ele realmente merecia ser o vilão da história? Ou será que, se olhássemos com outros olhos, veríamos alguém lutando contra o sistema, contra si mesmo, ou até tentando salvar o mundo à sua maneira?
 

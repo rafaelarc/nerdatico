@@ -48,8 +48,6 @@ Entender essas conexões não diminui Star Wars, pelo contrário. Mostra como a 
 
 Com as novas adaptações de Duna dirigidas por Denis Villeneuve, muita gente que só conhecia Star Wars está descobrindo agora o poder e a grandiosidade do universo criado por Frank Herbert. Inclusive, muitos fãs dizem que a nova estética de Duna lembra muito o visual de Star Wars mesmo que, na ordem cronológica da criação, tenha sido o contrário.
 
-## Conclusão
-
 Duna e Star Wars são dois pilares da **ficção científica**. Um influenciou o outro, mas ambos conquistaram seus próprios legados. Se você é fã das forças Jedi, vale a pena conhecer o universo de Duna com olhos mais atentos e vice-versa. Afinal, quem não curte uma boa história sobre **poder, destino e resistência**, ambientada em desertos infinitos e galáxias distantes?
 
 ### Quer saber mais?

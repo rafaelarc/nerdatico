@@ -10,7 +10,7 @@ Você já parou pra pensar por que personagens como Yoda, Gandalf e Dumbledore c
 
 Hoje, vamos explorar o que esses três grandes mentores têm em comum e o que podemos aprender com eles. Seja você fã de Jedi, magos ou bruxos, tem uma pitada de sabedoria que pode fazer diferença na sua vida também.
 
-## 1\. **Mentores que ensinam com mais do que palavras**
+## 1. **Mentores que ensinam com mais do que palavras**
 
 Uma coisa que logo chama atenção em Yoda, Gandalf e Dumbledore é que eles não são daqueles que ficam dando sermão. Ao invés disso, preferem ensinar pelos exemplos, pelas escolhas e até mesmo pelo silêncio.
 
@@ -18,7 +18,7 @@ Yoda, por exemplo, ensina Luke Skywalker sobre a Força muito mais por meio de e
 
 Esses mestres mostram que o verdadeiro aprendizado acontece quando a gente erra, tenta de novo e confia em si mesmo. Eles confiam que seus pupilos vão tropeçar e tudo bem. É parte do caminho.
 
-## 2\. **Sabedoria baseada em empatia**
+## 2. **Sabedoria baseada em empatia**
 
 Todos os três mestres valorizam a empatia como uma virtude essencial. Não é à toa que eles acreditam no potencial de heróis aparentemente fracos ou inexperientes.
 
@@ -28,7 +28,7 @@ Todos os três mestres valorizam a empatia como uma virtude essencial. Não é �
 
 No fundo, eles sabem que poder de verdade não vem da força ou da magia, mas do coração. A empatia é a força que conecta os personagens aos outros e a nós também.
 
-## 3\. **Liderança sem sede de controle**
+## 3. **Liderança sem sede de controle**
 
 Yoda, Gandalf e Dumbledore são líderes, sim. Mas não aqueles autoritários que querem mandar em tudo. Eles preferem guiar do que comandar. Eles ensinam a importância do livre-arbítrio.
 
@@ -36,7 +36,7 @@ Por exemplo, Dumbledore deixa Harry tomar decisões difíceis mesmo sabendo dos 
 
 Aliás, quantas vezes você já teve um chefe ou professor que mais atrapalhava do que ajudava por não confiar em você? Esses personagens nos ensinam como a confiança transforma.
 
-## 4\. **Todos enfrentaram suas próprias sombras**
+## 4. **Todos enfrentaram suas próprias sombras**
 
 Um detalhe muito importante sobre esses mentores é que nenhum deles é perfeito. Muito pelo contrário. Todos enfrentaram erros, dúvidas e até escolhas erradas no passado.
 
@@ -46,13 +46,13 @@ Um detalhe muito importante sobre esses mentores é que nenhum deles é perfeito
 
 Sabedoria, portanto, não vem da perfeição, mas da capacidade de aprender com os erros. É uma baita lição pra todos nós, que muitas vezes temos medo de errar.
 
-## 5\. **A importância do amor e da esperança**
+## 5. **A importância do amor e da esperança**
 
 Mesmo nos momentos mais sombrios, esses mestres insistem em deixar uma vela acesa. Yoda fala sobre como o medo leva ao lado sombrio, ensinando que devemos focar na esperança. Dumbledore não cansa de repetir que o amor salva. E Gandalf diz, numa das frases mais lindas da literatura: _“Mesmo a menor das pessoas pode mudar o curso do futuro.”_
 
 Em tempos difíceis, ouvir isso nos dá um alívio, não dá? Eles mostram que esperança não é ingenuidade. É resistência.
 
-## 6\. **Lições que fazem sentido fora das telas**
+## 6. **Lições que fazem sentido fora das telas**
 
 Você já aplicou alguma lição de um desses personagens na vida real? Mesmo sem perceber, seguimos esses conselhos diariamente. Quando damos uma segunda chance a alguém, quando escolhemos o caminho difícil, mas certo, ou quando acreditamos em alguém que todo mundo já desistiu. É naquele momento que o mestre interior se manifesta.
 

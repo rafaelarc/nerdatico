@@ -14,13 +14,13 @@ Vamos mergulhar nessas teorias e entender melhor o que realmente aconteceu e o q
 
 ## George entregou o final ou segurou o jogo?
 
-George R. R. Martin sempre foi conhecido por seu cuidado com os detalhes e por criar um universo riquíssimo em **As Crônicas de Gelo e Fogo**. Mas com o avanço da série da HBO — que ultrapassou os livros a partir da sexta temporada — surgiram dúvidas: será que foi ele quem contou todo o final para os produtores David Benioff e D.B. Weiss?
+George R. R. Martin sempre foi conhecido por seu cuidado com os detalhes e por criar um universo riquíssimo em **As Crônicas de Gelo e Fogo**. Mas com o avanço da série da HBO que ultrapassou os livros a partir da sexta temporada surgiram dúvidas: será que foi ele quem contou todo o final para os produtores David Benioff e D.B. Weiss?
 
 Em entrevistas antigas, Martin afirmou que deu um **"esboço geral"** de como a história terminaria. Mas isso não significa que tudo que vimos na tela era exatamente o que ele escreveria. Pense assim: é como dar um mapa com os pontos principais, mas deixar cada viajante escolher o caminho. E os showrunners da HBO definitivamente escolheram rotas bem diferentes.
 
 ## O autor se arrependeu?
 
-Ninguém pode afirmar com certeza o que se passa na cabeça de George R. R. Martin, mas algumas pistas indicam um certo arrependimento — ou, no mínimo, uma vontade de deixar claro que os livros terão um desfecho diferente. Em uma postagem no seu blog pessoal, Martin disse que estava "voltando aos caminhos divergentes" em relação à série. Coincidência?
+Ninguém pode afirmar com certeza o que se passa na cabeça de George R. R. Martin, mas algumas pistas indicam um certo arrependimento ou, no mínimo, uma vontade de deixar claro que os livros terão um desfecho diferente. Em uma postagem no seu blog pessoal, Martin disse que estava "voltando aos caminhos divergentes" em relação à série. Coincidência?
 
 **Aliás, se ele estivesse 100% satisfeito com o final da série, será que ainda estaria escrevendo?**
 
@@ -48,7 +48,7 @@ Além disso, Martin é daqueles escritores que gostam de ver a lógica interna d
 
 Uma pergunta que muito fã faz é: **o final dos livros será igual ao da série?** Ou melhor: **Bran vai mesmo ser o rei?**
 
-Martin já disse que alguns eventos importantes vão se repetir, mas também deixou claro que o caminho até lá será diferente. Isso quer dizer que talvez até o final mude — ou se apresente de uma forma que realmente faça sentido. Porque, convenhamos, aquele conselho final com o Sam sugerindo uma democracia... parecia mais um meme do que um desfecho sério, né?
+Martin já disse que alguns eventos importantes vão se repetir, mas também deixou claro que o caminho até lá será diferente. Isso quer dizer que talvez até o final mude ou se apresente de uma forma que realmente faça sentido. Porque, convenhamos, aquele conselho final com o Sam sugerindo uma democracia... parecia mais um meme do que um desfecho sério, né?
 
 Nos livros, a construção política é muito mais complexa e cheia de nuances. Não dá pra imaginar que tudo vá se resolver com meia dúzia de nobres escolhendo um rei em 10 minutos de conversa.
 
@@ -58,7 +58,7 @@ Nos livros, a construção política é muito mais complexa e cheia de nuances. 
 
 Claro, isso não significa que os livros vão agradar todo mundo afinal, com Game of Thrones, é impossível deixar todos satisfeitos. Mas pelo menos teremos o final idealizado pelo criador da obra, e não uma versão “fast-food” feita para caber em seis episódios finais.
 
-### Conclusão: o verdadeiro final ainda está por vir
+### O verdadeiro final ainda está por vir
 
 No fim das contas, tudo indica que George R. R. Martin **nunca entregou 100% do final** para HBO. Ele deu direcionamentos, sim, mas guardou muitos segredos pro próprio final nos livros. E, ao que tudo indica, está se dedicando para entregar algo com profundidade, coerência e impacto emocional do jeitinho que a gente se apaixonou lá no começo da saga.
 

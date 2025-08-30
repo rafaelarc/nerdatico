@@ -20,7 +20,7 @@ Mas se pararmos pra pensar com a cabeça de alguém apaixonado por ciência (sim
 
 Pensando como um bom fã de ficção científica, uma das explicações mais aceitas é que as Pokébolas funcionem como uma **tecnologia de compressão de matéria**. Ou seja, quando um Pokémon é capturado, ele tem sua forma física "compactada" em uma versão mais densa, ocupando menos espaço.
 
-Seria mais ou menos como pegar um colchão gigante e conseguir dobrá-lo até caber dentro de uma mochila. Só que, nesse caso, estamos falando de uma criatura viva — o que já deixaria qualquer físico ou biólogo com a cabeça explodindo.
+Seria mais ou menos como pegar um colchão gigante e conseguir dobrá-lo até caber dentro de uma mochila. Só que, nesse caso, estamos falando de uma criatura viva o que já deixaria qualquer físico ou biólogo com a cabeça explodindo.
 
 ### Hipótese 2: Conversão para energia
 
@@ -46,11 +46,11 @@ Tem até um episódio no anime em que o Snorlax entala em um caminho e ninguém 
 
 Outra dúvida que bate é: como os Pokémon se sentem lá dentro? Será que ficam conscientes ou adormecem automaticamente?
 
-O anime mostra situações diferentes — tem Pokémon que claramente não gostam de ficar na Pokébola (olha o Pikachu aí!), enquanto outros parecem estar de boa. É possível que **o ambiente interno varie conforme a preferência do Pokémon**, deixando a tecnologia ainda mais flexível. Uma verdadeira suíte personalizada portátil!
+O anime mostra situações diferentes tem Pokémon que claramente não gostam de ficar na Pokébola (olha o Pikachu aí!), enquanto outros parecem estar de boa. É possível que **o ambiente interno varie conforme a preferência do Pokémon**, deixando a tecnologia ainda mais flexível. Uma verdadeira suíte personalizada portátil!
 
 ### Comparando com a tecnologia atual
 
-Não temos nada parecido com Pokébolas no mundo real — ainda. Mas algumas tecnologias apontam para caminhos interessantes:
+Não temos nada parecido com Pokébolas no mundo real ainda. Mas algumas tecnologias apontam para caminhos interessantes:
 
 *   **Armazenamento digital em larga escala** (como big data ou nuvem)
 *   **Realidade virtual e aumentada**, criando espaços imersivos em microambientes
@@ -60,13 +60,13 @@ Claro, estamos longe de guardar um animal dentro de um objeto de bolso, mas a id
 
 ## O que essa questão nos ensina?
 
-Refletir sobre a lógica das Pokébolas e do Snorlax é mais do que uma viagem geek — é uma aula divertida sobre física, biologia e até filosofia da consciência. Afinal, onde começa e termina um ser vivo? Ele pode ser transformado, armazenado e transportado sem perder sua essência?
+Refletir sobre a lógica das Pokébolas e do Snorlax é mais do que uma viagem geek é uma aula divertida sobre física, biologia e até filosofia da consciência. Afinal, onde começa e termina um ser vivo? Ele pode ser transformado, armazenado e transportado sem perder sua essência?
 
-**Pokémon vai muito além de batalhas e insígnias. Ele estimula a imaginação, a curiosidade e o amor pela ciência e tecnologia – mesmo que nem todas as respostas estejam ali, explicadas.**
+**Pokémon vai muito além de batalhas e insígnias. Ele estimula a imaginação, a curiosidade e o amor pela ciência e tecnologia mesmo que nem todas as respostas estejam ali, explicadas.**
 
-## Conclusão: Snorlax, você me desafia
+## Snorlax, você me desafia
 
-No final das contas, a ideia de carregar um Snorlax em uma Pokébola é mais uma licença poética do universo Pokémon — e tudo bem! Faz parte da magia, do encantamento que a franquia tem desde os anos 90 e que, até hoje, continua despertando perguntas e teorias entre fãs de todas as idades.
+No final das contas, a ideia de carregar um Snorlax em uma Pokébola é mais uma licença poética do universo Pokémon e tudo bem! Faz parte da magia, do encantamento que a franquia tem desde os anos 90 e que, até hoje, continua despertando perguntas e teorias entre fãs de todas as idades.
 
 Então, na próxima vez que jogar Pokémon ou assistir um episódio do anime, tente ver além da batalha. Pode ser um ótimo momento para se perguntar: **“isso faria sentido no mundo real?”** E mais importante: e se fizesse?
 

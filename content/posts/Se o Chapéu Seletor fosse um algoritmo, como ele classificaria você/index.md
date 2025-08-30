@@ -44,7 +44,7 @@ Para cumprir essa missão mágica, o algoritmo precisaria de um banco de dados b
 *   **Respostas a testes de personalidade** (como o MBTI ou até o famoso questionário do Pottermore);
 *   **Feedback humano** para ajustar decisões duvidosas.
 
-Com esse material, o Chapéu aplicaria modelos como **classificação supervisionada** — tipo o algoritmo que descobre se um e-mail é spam ou não — para encaixar cada pessoa na casa certa.
+Com esse material, o Chapéu aplicaria modelos como **classificação supervisionada** tipo o algoritmo que descobre se um e-mail é spam ou não para encaixar cada pessoa na casa certa.
 
 ### Grifinória seria a casa dos impulsivos?
 
@@ -68,7 +68,7 @@ Aqui entra uma questão importante que até o próprio Chapéu considera: **e se
 
 No caso dos algoritmos, isso é parecido com quando um usuário corrige o sistema. Sabe quando você marca um e-mail como “não é spam”? Isso é uma forma de mostrar para a IA que ela errou e ajudá-la a aprender com isso.
 
-Assim como Harry Potter insistiu em não ir para Sonserina, você também teria o poder de influenciar a decisão do Chapéu-Algo — especialmente se ele for programado com **feedback humano** como parte do processo.
+Assim como Harry Potter insistiu em não ir para Sonserina, você também teria o poder de influenciar a decisão do Chapéu-Algo especialmente se ele for programado com **feedback humano** como parte do processo.
 
 ## E se Hogwarts fosse uma startup?
 
@@ -82,13 +82,13 @@ Enquanto o Chapéu Seletor digital não vira realidade de verdade, a gente pode 
 
 Seja nos quizzes do Buzzfeed ou no teste oficial do Wizarding World, cada pergunta serve para mapear traços da sua personalidade e te “encaixar” onde você se identifica.
 
-Claro, tudo depende do quanto você responde com sinceridade — ou se só está tentando cair na casa que mais gosta!
+Claro, tudo depende do quanto você responde com sinceridade ou se só está tentando cair na casa que mais gosta!
 
-## Conclusão: magia e tecnologia podem andar juntas
+## Magia e tecnologia podem andar juntas
 
 Por mais que a tecnologia ainda não tenha criado um Chapéu Seletor real, dá para dizer que não estamos tão longe assim. Com muito dado, aprendizado de máquina e ética, talvez um dia consigamos criar sistemas tão sábios quanto ele (só espero que com menos opinião própria!).
 
-No fim das contas, o que mais importa — seja na magia ou na IA — é entender quem somos, nossas motivações e o que faz nossa personalidade única.
+No fim das contas, o que mais importa seja na magia ou na IA é entender quem somos, nossas motivações e o que faz nossa personalidade única.
 
 Afinal, como diria Dumbledore: _“São nossas escolhas que revelam o que realmente somos, muito mais do que nossas habilidades.”_
 
@@ -97,6 +97,6 @@ Afinal, como diria Dumbledore: _“São nossas escolhas que revelam o que realme
 *   **[Harry Potter: Hogwarts Mystery](https://harrypotterhogwartsmystery.com/)** – jogo mobile com mecânicas de escolhas e personalização;
 *   **[Pottermore/Wizarding World](https://www.harrypotter.com/)** – teste oficial das casas de Hogwarts;
 *   **Introdução ao Machine Learning** – vídeos no YouTube, como os do canal Curso em Vídeo;
-*   **Documentário “The Social Dilemma”** (Netflix) – para entender como algoritmos moldam nosso comportamento online.
+*   **Documentário “O Dilema das Redes”** (Netflix) – para entender como algoritmos moldam nosso comportamento online.
 
 Qual casa o Chapéu Seletor digital te colocaria? Conta pra gente nos comentários!

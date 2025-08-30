@@ -6,7 +6,7 @@ image: "elden-ring.webp"
 slug: "os-easter-eggs-mais-filosoficos-dos-jogos-da-fromsoftware"
 ---
 
-Você já jogou algum game da FromSoftware e ficou com aquela sensação de que tem algo mais por trás de cada fala enigmática, cada cenário destruído ou monstro bizarro? Se você respondeu sim, bem-vindo ao clube. Jogos como **Dark Souls**, **Bloodborne** e **Elden Ring** não são só conhecidos pela dificuldade insana, mas também por esconder ideias profundas sobre **morte, tempo, identidade** – e tudo isso de um jeito bem sutil, quase como se fossem easter eggs filosóficos. Neste post, vamos mergulhar nesses universos sombrios para entender como esses jogos nos fazem pensar sobre a vida (e a morte) de formas que nem sempre percebemos de primeira.
+Você já jogou algum game da FromSoftware e ficou com aquela sensação de que tem algo mais por trás de cada fala enigmática, cada cenário destruído ou monstro bizarro? Se você respondeu sim, bem-vindo ao clube. Jogos como **Dark Souls**, **Bloodborne** e **Elden Ring** não são só conhecidos pela dificuldade insana, mas também por esconder ideias profundas sobre **morte, tempo, identidade** e tudo isso de um jeito bem sutil, quase como se fossem easter eggs filosóficos. Neste post, vamos mergulhar nesses universos sombrios para entender como esses jogos nos fazem pensar sobre a vida (e a morte) de formas que nem sempre percebemos de primeira.
 
 ## Por que FromSoftware é diferente?
 
@@ -18,15 +18,15 @@ Vamos dar uma olhada em algumas dessas reflexões escondidas nos mundos da FromS
 
 ### **Morte: o eterno ciclo em Dark Souls**
 
-Dark Souls é praticamente um tratado sobre a morte disfarçado de RPG. Você morre – muito – e cada vez que isso acontece, a história mostra que a morte não é o fim, mas um ciclo sem fim. O próprio conceito de "Hollow" (quando o personagem perde sua humanidade) reflete a perda de propósito ou identidade. Você já parou pra pensar quantas vezes se sentiu perdido depois de uma derrota, não só no jogo, mas na vida mesmo? Isso nos leva a uma questão filosófica clássica: **o que acontece quando perdemos nosso propósito?** Em Dark Souls, os personagens acabam enlouquecendo. Será que a gente também não corre esse risco na vida real?
+Dark Souls é praticamente um tratado sobre a morte disfarçado de RPG. Você morre muito e cada vez que isso acontece, a história mostra que a morte não é o fim, mas um ciclo sem fim. O próprio conceito de "Hollow" (quando o personagem perde sua humanidade) reflete a perda de propósito ou identidade. Você já parou pra pensar quantas vezes se sentiu perdido depois de uma derrota, não só no jogo, mas na vida mesmo? Isso nos leva a uma questão filosófica clássica: **o que acontece quando perdemos nosso propósito?** Em Dark Souls, os personagens acabam enlouquecendo. Será que a gente também não corre esse risco na vida real?
 
 ### **Tempo: distorcido e fragmentado em Bloodborne**
 
-Se Dark Souls é sobre morte, **Bloodborne brinca com a ideia de tempo** e consciência. O jogo se passa num mundo que mistura realidade, sonhos e pesadelos – e muitas vezes, tudo isso ao mesmo tempo. Você já sonhou que estava preso num lugar estranho e sem lógica? Em Bloodborne, isso é constante. Nas entrelinhas, o jogo sugere que nossa percepção da realidade pode estar condicionada ao que somos capazes de entender – e que existem verdades tão grandes que podem nos enlouquecer. O próprio uso de "insight" (um tipo de recurso do jogo) mostra isso: quanto mais você sabe, mais o mundo muda. Mas saber demais também tem um preço. **Conhecimento pode ser libertador... ou enlouquecedor.**
+Se Dark Souls é sobre morte, **Bloodborne brinca com a ideia de tempo** e consciência. O jogo se passa num mundo que mistura realidade, sonhos e pesadelos e muitas vezes, tudo isso ao mesmo tempo. Você já sonhou que estava preso num lugar estranho e sem lógica? Em Bloodborne, isso é constante. Nas entrelinhas, o jogo sugere que nossa percepção da realidade pode estar condicionada ao que somos capazes de entender e que existem verdades tão grandes que podem nos enlouquecer. O próprio uso de "insight" (um tipo de recurso do jogo) mostra isso: quanto mais você sabe, mais o mundo muda. Mas saber demais também tem um preço. **Conhecimento pode ser libertador... ou enlouquecedor.**
 
 ### **Identidade: reconstruída em Elden Ring**
 
-Elden Ring aprofunda ainda mais esse papo filosófico. Aqui, você é o Ternished, alguém que perdeu seu status e é convidado a buscar um novo propósito. Mas o legal é perceber como o jogo coloca em questão **quem você é** em um mundo em ruínas. Há uma vibe existencialista no ar – como se o jogo perguntasse: **você vai seguir os caminhos que estão definidos ou vai construir sua própria história?** Você pode escolher apoiar diferentes ideologias e finais, cada um refletindo uma forma de encarar sua existência. Não tem um final "bom ou ruim" – tem o que você escolheu ser.
+Elden Ring aprofunda ainda mais esse papo filosófico. Aqui, você é o Ternished, alguém que perdeu seu status e é convidado a buscar um novo propósito. Mas o legal é perceber como o jogo coloca em questão **quem você é** em um mundo em ruínas. Há uma vibe existencialista no ar como se o jogo perguntasse: **você vai seguir os caminhos que estão definidos ou vai construir sua própria história?** Você pode escolher apoiar diferentes ideologias e finais, cada um refletindo uma forma de encarar sua existência. Não tem um final "bom ou ruim" tem o que você escolheu ser.
 
 ## Os pequenos grandes detalhes
 
@@ -40,7 +40,7 @@ A combinação de imagens, simbolismos e narrativas nos faz pensar sobre muitas 
 
 ## Mas por que isso tudo importa?
 
-Pode parecer exagero, mas tem algo de muito humano nesses jogos. Eles falam sobre nossos medos mais profundos – a morte, o vazio, o destino – e colocam o jogador no controle (ou melhor, na ilusão de controle) de como enfrentar tudo isso. Além disso, eles mostram que a jornada importa mais que o final. Assim como na vida, a gente toma decisões com as informações que tem e enfrenta as consequências.
+Pode parecer exagero, mas tem algo de muito humano nesses jogos. Eles falam sobre nossos medos mais profundos a morte, o vazio, o destino e colocam o jogador no controle (ou melhor, na ilusão de controle) de como enfrentar tudo isso. Além disso, eles mostram que a jornada importa mais que o final. Assim como na vida, a gente toma decisões com as informações que tem e enfrenta as consequências.
 
 ## E você, já refletiu enquanto jogava?
 

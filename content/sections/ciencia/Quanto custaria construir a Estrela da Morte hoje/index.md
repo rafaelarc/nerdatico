@@ -18,7 +18,7 @@ Agora, vamos combinar: construir algo desse tamanho não deve sair barato, né?
 
 Vamos começar do começo: os materiais.
 
-A Estrela da Morte, segundo estimativas baseadas nos filmes, teria **cerca de 160 km de diâmetro** — mais do que a distância entre São Paulo e Campinas! Isso significa um volume colossal, e mesmo que ela não fosse maciça (afinal, teria muitos corredores, compartimentos, hangares e salas de reunião do Império), sua estrutura exigiria uma quantidade brutal de metal.
+A Estrela da Morte, segundo estimativas baseadas nos filmes, teria **cerca de 160 km de diâmetro** mais do que a distância entre São Paulo e Campinas! Isso significa um volume colossal, e mesmo que ela não fosse maciça (afinal, teria muitos corredores, compartimentos, hangares e salas de reunião do Império), sua estrutura exigiria uma quantidade brutal de metal.
 
 ### Mas quanto exatamente?
 
@@ -39,11 +39,9 @@ Isso tudo só em aço. Sem contar sistemas de propulsão, armamento planetário,
 
 ### E se usássemos outros materiais?
 
-Claro, materiais como tungstênio ou titânio seriam muito mais resistentes — e muito mais caros também. O preço do titânio, por exemplo, pode ultrapassar US$ 6.000 por tonelada. Imagine multiplicar isso por trilhões...
+Claro, materiais como tungstênio ou titânio seriam muito mais resistentes e muito mais caros também. O preço do titânio, por exemplo, pode ultrapassar US$ 6.000 por tonelada. Imagine multiplicar isso por trilhões...
 
 **Tradução:** a conta passa dos **171 trilhões de dolares**, na conversão atual. É mais do que o PIB de todos os países do mundo somados, que ano passado era de 105 trilhões, ou seja, só o aço da Estrela da Morte custaria mais que 1,6 vezes o PIB global. Isso sem contar: tecnologia, mão de obra intergaláctica, energia (estelar!), sistema de propulsão e armamento planetário.
-
-**Tradução:** a conta passa dos **171 trilhões de dólares**, na cotação atual. Só pra você ter uma ideia, o PIB mundial em 2024 foi de cerca de **105 trilhões**. Ou seja: só o aço da Estrela da Morte custaria mais de 1,6 vezes tudo que o planeta produz em um ano.
 
 E isso sem contar: tecnologia, mão de obra intergaláctica, energia (estelar, claro!), sistema de propulsão e aquele canhãozinho que destrói planetas.
 
@@ -80,7 +78,7 @@ Nem se o Jeff Bezos, Elon Musk, Bill Gates e todos os bilionários da Terra reso
 
 ## Vale a pena?
 
-Brincadeiras à parte, a Estrela da Morte é um símbolo do poder absoluto — e de como ele pode ser perigoso. Na ficção, ela foi usada como instrumento de controle e medo. Mas na vida real, o investimento numa megaestrutura dessas poderia ser redirecionado pra coisas muito mais úteis, como:
+Brincadeiras à parte, a Estrela da Morte é um símbolo do poder absoluto e de como ele pode ser perigoso. Na ficção, ela foi usada como instrumento de controle e medo. Mas na vida real, o investimento numa megaestrutura dessas poderia ser redirecionado pra coisas muito mais úteis, como:
 
 *   Criar colônias sustentáveis na Lua ou em Marte
 *   Avançar na exploração espacial e telescópios mais potentes
@@ -88,7 +86,7 @@ Brincadeiras à parte, a Estrela da Morte é um símbolo do poder absoluto — e
 
 No fim das contas, construir a Estrela da Morte talvez não seja uma questão de "poderíamos?" e sim: **por que faríamos isso?**
 
-## Conclusão: melhor continuar como ficção
+## Melhor continuar como ficção
 
 A Estrela da Morte é incrível nos cinemas, mas continua sendo uma fantasia impossível com a tecnologia (e orçamento!) atual. Vai além da engenharia, é uma ideia que pertence ao universo da imaginação. E talvez esse seja exatamente o charme dela.
 

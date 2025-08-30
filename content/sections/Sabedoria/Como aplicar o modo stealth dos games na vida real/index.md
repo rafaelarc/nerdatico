@@ -6,7 +6,7 @@ image: "snake.webp"
 slug: "como-aplicar-o-modo-stealth-dos-games-na-vida-real"
 ---
 
-Você já jogou Metal Gear Solid ou Assassin’s Creed e pensou: “Caramba, seria bom usar essa habilidade na vida real!”? Acredite, dá pra trazer um pouquinho desse **modo stealth** dos games pro dia a dia. E não, não estamos falando de se vestir de preto e sair se esgueirando pelas sombras — embora, convenhamos, seria bem estiloso. 
+Você já jogou Metal Gear Solid ou Assassin’s Creed e pensou: “Caramba, seria bom usar essa habilidade na vida real!”? Acredite, dá pra trazer um pouquinho desse **modo stealth** dos games pro dia a dia. E não, não estamos falando de se vestir de preto e sair se esgueirando pelas sombras embora, convenhamos, seria bem estiloso. 
 
 Neste post, vamos mostrar como aplicar o **modo furtivo** com bom humor, praticidade e um toque de sabedoria gamer em situações cotidianas, como o trabalho, estudos e até na vida social. Preparado? Então, silencie o celular (modo stealth ativado) e vem com a gente!
 
@@ -51,7 +51,7 @@ Você já tentou criar um “esconderijo” de produtividade? Pode ser uma mesa 
 
 ## Passo 4: Execute com elegância (sem fazer alarde)
 
-Solid Snake não sai gritando “Deu certo!”. Ele simplesmente cumpre a missão e some. Leve isso pra sua vida também. **Fez algo importante? Guarde pra você ou compartilhe com quem realmente importa.** Esse hábito evita inveja, críticas desnecessárias e te dá mais paz pra focar no próximo objetivo. Imagina só: você terminou uma certificação, mas ainda está buscando oportunidades. Em vez de postar um textão na rede social falando "em busca de novos desafios", continue se preparando. Quando surgir uma oportunidade concreta, aí sim você compartilha — com classe.
+Solid Snake não sai gritando “Deu certo!”. Ele simplesmente cumpre a missão e some. Leve isso pra sua vida também. **Fez algo importante? Guarde pra você ou compartilhe com quem realmente importa.** Esse hábito evita inveja, críticas desnecessárias e te dá mais paz pra focar no próximo objetivo. Imagina só: você terminou uma certificação, mas ainda está buscando oportunidades. Em vez de postar um textão na rede social falando "em busca de novos desafios", continue se preparando. Quando surgir uma oportunidade concreta, aí sim você compartilha com classe.
 
 ## Passo 5: Lide com imprevistos como um true gamer
 

@@ -42,7 +42,7 @@ E o mais impressionante: Goku parece não ter limite. Sempre que ele encontra um
 
 ## Comparando os mundos: universos diferentes, regras diferentes
 
-Aqui a conversa esquenta. Os dois heróis vivem em realidades com leis físicas e morais próprias. Por isso, **comparar diretamente pode ser injusto** — tipo comparar futebol com vôlei. Ambos têm bola, mas funcionam de maneira bem diferente.
+Aqui a conversa esquenta. Os dois heróis vivem em realidades com leis físicas e morais próprias. Por isso, **comparar diretamente pode ser injusto** tipo comparar futebol com vôlei. Ambos têm bola, mas funcionam de maneira bem diferente.
 
 ### No mundo do Superman (DC Comics)
 
@@ -60,7 +60,7 @@ Tá, mas vamos ao que interessa: **quem ganharia essa luta?**
 
 Se formos frios e calculistas, medindo a força bruta, talvez Superman leve vantagem. Ele é literalmente um deus com energia ilimitada do Sol. Goku, por mais forte que seja, ainda depende de energia física e pode se cansar.
 
-Porém, nunca dá pra subestimar Goku. Ele já passou por transformações que quebram qualquer lógica. O Ultra Instinct, por exemplo, permite que ele se mova sem pensar — puro instinto. Isso deixaria ele perigosíssimo até mesmo para alguém tão poderoso quanto o Superman.
+Porém, nunca dá pra subestimar Goku. Ele já passou por transformações que quebram qualquer lógica. O Ultra Instinct, por exemplo, permite que ele se mova sem pensar puro instinto. Isso deixaria ele perigosíssimo até mesmo para alguém tão poderoso quanto o Superman.
 
 ### Do ponto de vista moral
 
@@ -74,7 +74,7 @@ Ninguém gosta dessa resposta, mas... **depende**. Em um crossover oficial, nada
 
 Essa discussão é tão interessante porque vai além de músculos e poderes. Ela envolve **filosofia, moral e até ciência**. Além disso, nos faz pensar no que realmente define um herói: é a força? A coragem? Ou a capacidade de inspirar?
 
-Num churrasco com os amigos, esse debate vira facilmente uma das conversas mais animadas. E a graça é justamente saber que não existe uma resposta definitiva — só muitas teorias e bons argumentos.
+Num churrasco com os amigos, esse debate vira facilmente uma das conversas mais animadas. E a graça é justamente saber que não existe uma resposta definitiva só muitas teorias e bons argumentos.
 
 ## Curiosidades que merecem menção
 
@@ -82,11 +82,11 @@ Num churrasco com os amigos, esse debate vira facilmente uma das conversas mais 
 *   **Superman já enfrentou Deuses, como Darkseid, e saiu vitorioso.**
 *   **Em um crossover da DC com a Shonen Jump, Superman ganhou do Goku**. Mas nem todo mundo achou justo.
 
-## Conclusão: a batalha sem fim
+## A batalha sem fim
 
 Goku e Superman representam **mais do que apenas força e poderes**. Eles simbolizam esperanças diferentes: Goku é o guerreiro que nunca para de crescer, mesmo depois da derrota. Superman é o protetor absoluto, que carrega o peso do mundo nos ombros sem perder a fé na humanidade.
 
-No fim das contas, a resposta mais honesta é: **não importa quem venceria**. O que importa é que os dois são heróis que marcaram gerações e continuam inspirando milhões — seja lutando nas estrelas ou voando pelos céus de Metropolis.
+No fim das contas, a resposta mais honesta é: **não importa quem venceria**. O que importa é que os dois são heróis que marcaram gerações e continuam inspirando milhões seja lutando nas estrelas ou voando pelos céus de Metropolis.
 
 ### Quer continuar mergulhando nesse universo?
 

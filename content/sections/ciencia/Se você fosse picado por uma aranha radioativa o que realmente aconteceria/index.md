@@ -66,7 +66,7 @@ Na verdade, já temos **"poderes" muito impressionantes**, só que de jeitos dif
 
 Talvez não consigamos soltar teias ou escalar prédios, mas já passamos do nível “humano comum” em várias áreas. A verdadeira transformação acontece nas mãos da ciência e sem precisar de picadas misteriosas.
 
-## Conclusão: superpoderes ficam melhor na ficção
+## Superpoderes ficam melhor na ficção
 
 No final das contas, se uma aranha radioativa te picasse de verdade, o mais provável seria uma infecção, sintomas desagradáveis e uma ida ao pronto-socorro não virar um super-herói.
 

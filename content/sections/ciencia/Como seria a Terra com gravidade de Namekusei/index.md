@@ -52,7 +52,7 @@ Vale lembrar que o oposto também causaria mudanças radicais. Se a Terra tivess
 
 Boa pergunta! No mundo de Dragon Ball Z, os namekuseijins parecem viver tranquilamente naquela gravidade. Isso sugere que eles são **criados biologicamente para isso**, com músculos, ossos e órgãos adaptados. É o que aconteceria com a humanidade se passasse milênios vivendo nessa condição: nosso corpo mudaria pouco a pouco até conseguir lidar com as exigências talvez viraríamos quase Saiyajins!
 
-## Conclusão: viver na gravidade de Namekusei não seria moleza
+## Viver na gravidade de Namekusei não seria moleza
 
 Então, se você sempre sonhou em visitar o planeta de Piccolo e seus amigos verdes, preste atenção: **uma gravidade 10x maior não é brincadeira não!** Nosso corpo, nossos prédios e até nossos cachorros teriam que se reinventar completamente. Mas isso não quer dizer que não é divertido imaginar essas possibilidades. O legal da ficção é justamente isso: nos fazer pensar como seria um mundo completamente diferente do nosso. Quem sabe, num futuro não tão distante, a ciência nos mostre como realmente seria viver fora da Terra, com ou sem gravidade de Namekusei.
 
