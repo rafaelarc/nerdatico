@@ -31,7 +31,7 @@ disqusShortname = "xxx"
     mermaid         = false   # best to enable this in the front matter of a page
 
     # Social Media Params
-    facebook   = "https://www.facebook.com/#"
+    facebook   = "https://www.facebook.com/people/Nerdático/61579992813043/"
     twitter    = "https://x.com/nerdatico"
     youtube    = "https://www.youtube.com/#"
     instagram  = "https://www.instagram.com/nerdatico/"
@@ -83,6 +83,9 @@ disqusShortname = "xxx"
 # Don't touch this
 [markup.goldmark.renderer]
     unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
 
 [outputFormats.RSS]
   mediaType = "application/rss+xml"
