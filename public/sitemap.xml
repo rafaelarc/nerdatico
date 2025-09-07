@@ -4,7 +4,7 @@
       
 	  <url>
 	    <loc>http://localhost:1313/sections/filosofia/</loc>
-	    <lastmod>2025-09-06T00:00:00&#43;00:00</lastmod>
+	    <lastmod>2025-09-18T00:00:00&#43;00:00</lastmod>
         
 
         
@@ -15,7 +15,7 @@
       
 	  <url>
 	    <loc>http://localhost:1313/sections/</loc>
-	    <lastmod>2025-09-06T00:00:00&#43;00:00</lastmod>
+	    <lastmod>2025-09-18T00:00:00&#43;00:00</lastmod>
         
 
         
@@ -26,6 +26,83 @@
       
 	  <url>
 	    <loc>http://localhost:1313/posts/</loc>
+	    <lastmod>2025-09-09T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/nerdverso/</loc>
+	    <lastmod>2025-09-07T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/star-trek-vs-star-wars-quem-tem-a-melhor-utopia/</loc>
+	    <lastmod>2025-09-07T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/</loc>
+	    <lastmod>2025-09-07T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/filosofia/</loc>
+	    <lastmod>2025-09-06T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/magneto-ja-salvou-a-humanidade/</loc>
+	    <lastmod>2025-09-06T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/marvel/</loc>
+	    <lastmod>2025-09-06T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/darth-vader-poderia-ser-julgado-por-crimes-de-guerra/</loc>
 	    <lastmod>2025-09-04T00:00:00&#43;00:00</lastmod>
         
 
@@ -36,7 +113,51 @@
       
       
 	  <url>
+	    <loc>http://localhost:1313/tags/star-wars/</loc>
+	    <lastmod>2025-09-04T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/o-aprendizado-com-lorraine-warren/</loc>
+	    <lastmod>2025-09-02T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
 	    <loc>http://localhost:1313/sections/sabedoria/</loc>
+	    <lastmod>2025-09-02T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/sabedoria/</loc>
+	    <lastmod>2025-09-02T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/terror/</loc>
 	    <lastmod>2025-09-02T00:00:00&#43;00:00</lastmod>
         
 
@@ -58,40 +179,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/tags/filosofia/</loc>
-	    <lastmod>2025-08-30T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/sabedoria/</loc>
-	    <lastmod>2025-08-30T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
 	    <loc>http://localhost:1313/snape-e-heroi-vilao-ou-martir/</loc>
-	    <lastmod>2025-08-30T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/</loc>
 	    <lastmod>2025-08-30T00:00:00&#43;00:00</lastmod>
         
 
@@ -190,29 +278,7 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/tags/nerdverso/</loc>
-	    <lastmod>2025-07-19T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
 	    <loc>http://localhost:1313/tags/ci%C3%AAncia/</loc>
-	    <lastmod>2025-07-17T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/marvel/</loc>
 	    <lastmod>2025-07-17T00:00:00&#43;00:00</lastmod>
         
 
@@ -554,17 +620,6 @@
       
 	  <url>
 	    <loc>http://localhost:1313/a-etica-dos-clones-em-star-wars-sao-soldados-ou-escravos/</loc>
-	    <lastmod>2025-05-06T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/star-wars/</loc>
 	    <lastmod>2025-05-06T00:00:00&#43;00:00</lastmod>
         
 

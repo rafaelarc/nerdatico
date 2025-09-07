@@ -6,21 +6,53 @@
     <description>Recent content in Tags on Nerdático</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>Nerdverso</title>
+        <link>http://localhost:1313/tags/nerdverso/</link>
+        <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/nerdverso/</guid>
+
+        <description></description>
+</item>
     <item>
         <title>Filosofia</title>
         <link>http://localhost:1313/tags/filosofia/</link>
-        <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
         <guid>http://localhost:1313/tags/filosofia/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Marvel</title>
+        <link>http://localhost:1313/tags/marvel/</link>
+        <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/marvel/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Star Wars</title>
+        <link>http://localhost:1313/tags/star-wars/</link>
+        <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/star-wars/</guid>
 
         <description></description>
 </item>
     <item>
         <title>Sabedoria</title>
         <link>http://localhost:1313/tags/sabedoria/</link>
-        <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
         <guid>http://localhost:1313/tags/sabedoria/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Terror</title>
+        <link>http://localhost:1313/tags/terror/</link>
+        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/terror/</guid>
 
         <description></description>
 </item>
@@ -33,26 +65,10 @@
         <description></description>
 </item>
     <item>
-        <title>Nerdverso</title>
-        <link>http://localhost:1313/tags/nerdverso/</link>
-        <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/nerdverso/</guid>
-
-        <description></description>
-</item>
-    <item>
         <title>Ciência</title>
         <link>http://localhost:1313/tags/ci%C3%AAncia/</link>
         <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
         <guid>http://localhost:1313/tags/ci%C3%AAncia/</guid>
-
-        <description></description>
-</item>
-    <item>
-        <title>Marvel</title>
-        <link>http://localhost:1313/tags/marvel/</link>
-        <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/marvel/</guid>
 
         <description></description>
 </item>
@@ -93,14 +109,6 @@
         <link>http://localhost:1313/tags/series/</link>
         <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
         <guid>http://localhost:1313/tags/series/</guid>
-
-        <description></description>
-</item>
-    <item>
-        <title>Star Wars</title>
-        <link>http://localhost:1313/tags/star-wars/</link>
-        <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/star-wars/</guid>
 
         <description></description>
 </item>
