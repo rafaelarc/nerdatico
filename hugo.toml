@@ -91,3 +91,12 @@ disqusShortname = "xxx"
   mediaType = "application/rss+xml"
   baseName = "rss"  # <---- ESTA É A LINHA CHAVE
   isPlainText = false
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = false
+
+[[related.indices]]
+name = "tags"
+weight = 80
