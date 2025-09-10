@@ -1,7 +1,7 @@
 ---
 title: "Snape é herói, vilão ou mártir?"
 date: 2025-08-30
-tags: ["filosofia"]
+tags: ["filosofia", "harry-potter"]
 image: "snape.webp"
 slug: "snape-e-heroi-vilao-ou-martir"
 ---
@@ -23,6 +23,8 @@ O mais impressionante é que Snape manteve esse papel **por anos**, mesmo sabend
 Talvez o maior gesto de heroísmo de Snape tenha sido esse: proteger o filho da mulher que amava, mesmo odiando o pai dele. Difícil, né?
 
 Mas será que isso basta pra torná-lo um herói? A resposta não é tão simples. Ele fez muitas escolhas duvidosas, tratou alunos com crueldade e **não era exatamente um exemplo de gentileza**. Então, vamos explorar os outros lados dessa moeda.
+
+**+ Leia mais::** [Snape é herói, vilão ou mártir?](https://nerdatico.com.br/snape-e-heroi-vilao-ou-martir/)
 
 ## O professor cruel e rancoroso
 

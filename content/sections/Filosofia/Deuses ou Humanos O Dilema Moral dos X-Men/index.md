@@ -1,9 +1,10 @@
 ---
 title: "Deuses ou Humanos? O Dilema Moral dos X-Men"
 date: 2025-07-08
-tags: ["filosofia"]
+tags: ["filosofia", "marvel"]
 image: "xmen.webp"
 slug: "deuses-ou-humanos-o-dilema-moral-dos-x-men"
+keywords: ["xmen"]
 ---
 
 Quem curte histórias em quadrinhos já se deparou com esse dilema: **os X-Men são heróis ou ameaças?** Superpoderosos, eles enfrentam não apenas vilões, mas também o preconceito da própria sociedade que juram proteger.
@@ -23,6 +24,8 @@ Desde a primeira revista lançada pela Marvel em 1963, os X-Men foram criados co
 Se você já se sentiu excluído por ser diferente, dá pra se identificar fácil com personagens como o Noturno ou a Vampira. Eles vivem o dilema de **ocultar quem são** pra se encaixar. Ou enfrentam diretamente o preconceito.
 
 Mas aí começa o dilema maior: **quando você sofre discriminação, como deve reagir?** Buscar o diálogo, como faz o Professor Xavier? Ou se defender com força, como prefere o Magneto?
+
+**+ Leia mais::** [Magneto já salvou a humanidade (mais de uma vez)](https://nerdatico.com.br/magneto-ja-salvou-a-humanidade/)
 
 ## Entre Xavier e Magneto: duas filosofias em conflito
 
@@ -71,7 +74,7 @@ Em tempos de polarização, intolerância e discussões acaloradas, talvez a mai
 
 Se você é fã dos X-Men ou só está começando a mergulhar nesse universo, vale conferir obras que aprofundam essas questões. Afinal, quadrinhos são muito mais do que entretenimento. Às vezes, eles espelham o mundo real melhor do que muita notícia por aí.
 
-### Leituras e fontes recomendadas:
+### Leituras recomendadas:
 
 *   [Claremont, Chris – Fase clássica dos X-Men nos anos 80](https://amzn.to/4kqP8Ym) (início das grandes reflexões morais)
 *   _[X-Men: Deus Ama, o Homem Mata](https://panini.com.br/x-men-deus-ama-o-homem-mata-marvel-graphic-novel)_ – HQ essencial sobre preconceito e fé

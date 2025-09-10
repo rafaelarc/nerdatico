@@ -1,7 +1,9 @@
 ---
-title: "O aprendizado com Lorraine Warren"
+title: "Lições de coragem de Lorraine Warren para superar o medo"
 date: 2025-09-02
+description: "Descubra as lições de coragem, fé e intuição de Lorraine Warren e como aplicá-las para superar o medo."
 tags: ["sabedoria", "terror"]
+keywords: ["Lorraine Warren", "coragem", "medo", "intuição", "fé"]
 image: "lorraine-warren.webp"
 slug: "o-aprendizado-com-lorraine-warren"
 ---
@@ -16,7 +18,7 @@ Antes de qualquer coisa, vale lembrar: [Lorraine Warren](https://en.wikipedia.or
 
 Embora seus métodos fossem espirituais, as lições que ela deixou podem ser aplicadas até por quem não acredita em fantasmas. Na verdade, muitos dos ensinamentos de Lorraine giram em torno da **fé, intuição e coragem** ingredientes que todos nós precisamos para lidar com situações difíceis na vida.
 
-## 1. **Medo nem sempre é inimigo**
+## 1. **Medo nem sempre é inimigo – lições de Lorraine Warren para a coragem**
 
 Lorraine lidava com presenças assustadoras e atividades paranormais pesadas. Ela tinha todo direito de viver em constante pânico, mas ela escolhia outra saída. Segundo ela, o medo é uma reação natural, humana. O segredo está em **não deixar o medo nos controlar**.
 
@@ -30,7 +32,7 @@ Quem nunca teve medo de mudar de emprego, terminar um relacionamento ou começar
 *   **Use a fé (seja religiosa ou em você mesmo) para seguir em frente.**
 *   **Lembre-se do seu propósito:** quando o objetivo é maior, o medo diminui.
 
-## 2. **Valorize sua intuição**
+## 2. **Valorize sua intuição como Lorraine Warren ensinou**
 
 Não é à toa que Lorraine era conhecida por sua sensibilidade psíquica. Ela confiava plenamente na própria intuição para tomar decisões e perceber o que não estava visível aos olhos. Essa percepção, muitas vezes ignorada por nós, pode ser uma ferramenta poderosíssima.
 
@@ -44,7 +46,7 @@ Na correria do dia a dia, tendemos a ignorar nossos sentidos mais sutis. Mas com
 *   **Escreva:** quando algo te incomodar ou parecer estranho, anote. Isso ajuda a identificar padrões.
 *   **Confie mais em você:** muitas vezes, a resposta que procuramos já está dentro da gente.
 
-## 3. **Fé como alicerce em tempos difíceis**
+## 3. **Fé como alicerce em tempos difíceis — inspiração de Lorraine Warren**
 
 Um dos pilares da força de Lorraine era sua fé. Independentemente da religião, ela acreditava profundamente em um propósito maior e que o bem sempre venceria o mal. Essa fé era sua armadura nos momentos mais tenebrosos.
 

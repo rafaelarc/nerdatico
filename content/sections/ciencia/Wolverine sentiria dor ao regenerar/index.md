@@ -4,6 +4,7 @@ date: 2025-05-31
 tags: ["ciencia", "marvel"]
 image: "wolverine.webp"
 slug: "wolverine-sentiria-dor-ao-regenerar"
+keywords: ["xmen"]
 ---
 
 Se você já assistiu algum filme dos X-Men ou leu quadrinhos da Marvel, com certeza se impressionou com o poder de regeneração do Wolverine. O cara leva tiro, facada, explosão... e volta como se nada tivesse acontecido. Mas aí vem uma pergunta que intriga fãs há anos: **Wolverine sente dor ao se regenerar?**
@@ -25,6 +26,8 @@ Para entender se o Wolverine sente dor, precisamos entender **como a dor funcion
 *   Lá, o cérebro interpreta essas informações como dor.
 
 Ou seja, **sentir dor não acontece no local do machucado, mas no cérebro**. E como o Wolverine possui um corpo humano com cérebro e tudo mais é lógico assumir que ele também sente dor.
+
+**+ Leia mais::** [Deuses ou Humanos? O Dilema Moral dos X-Men](https://nerdatico.com.br/deuses-ou-humanos-o-dilema-moral-dos-x-men/)
 
 ### Mas se ele regenera tão rápido, dá tempo de sentir alguma coisa?
 

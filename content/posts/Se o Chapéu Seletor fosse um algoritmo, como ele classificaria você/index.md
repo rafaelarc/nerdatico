@@ -22,6 +22,8 @@ Esses algoritmos funcionam mais ou menos assim:
 
 É como ensinar uma criança a reconhecer um cachorro mostrando várias fotos de cães. Com o tempo, ela vai pegar o jeito e identificar um doguinho sem precisar de ajuda.
 
+**+ Leia mais::** [Se o Chapéu Seletor fosse um algoritmo, como ele classificaria você?](https://nerdatico.com.br/se-o-chapeu-seletor-fosse-um-algoritmo-como-ele-classificaria-voce/)
+
 ## O Chapéu Seletor analítico
 
 No universo de Harry Potter, o Chapéu Seletor **lê a mente dos alunos** e tenta entender sua essência: coragem, ambição, lealdade ou sabedoria? Com base nisso, coloca o estudante na casa certa.

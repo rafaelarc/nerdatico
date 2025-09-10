@@ -1,9 +1,11 @@
 ---
-title: "Thanos era um ecologista radical ou só um vilão com um bom discurso?"
+title: "Thanos: ecologista radical ou vilão com discurso ecológico?"
 date: 2025-09-09
 tags: ["nerdverso", "marvel"]
 image: "Thanos.webp"
 slug: "thanos-e-um-ecologista-radical-ou-so-vilao-com-um-bom-discurso"
+description: "Descubra se Thanos é um ecologista radical ou apenas um vilão com discurso ecológico e por que esse mito é perigoso."
+keywords: ["Thanos", "Ambientalismo", "Eco-Malthusianismo", "Vilão filosófico"]
 ---
 
 Se você assistiu a **Vingadores: Guerra Infinita** e **Ultimato**, com certeza ficou se perguntando: **será que Thanos estava mesmo tentando salvar o universo?** Ele parecia tão confiante de que o que fazia era certo. Mas será que isso faz dele um herói incompreendido? Um ambientalista hardcore? Ou só um vilão racionalizando sua obsessão por controle e destruição? Vamos bater um papo sobre isso e explorar se Thanos tinha realmente boas intenções ou se tudo não passava de uma desculpa bonita pra fazer o que queria.
