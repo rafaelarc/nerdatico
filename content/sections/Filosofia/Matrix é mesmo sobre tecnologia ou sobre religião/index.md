@@ -72,7 +72,7 @@ Matrix é, sim, um clássico da ficção científica, mas também é um filme ch
 
 E aí, pronto para rever Matrix com outros olhos?
 
-### Leituras recomendadas:
+### Quer saber mais?
 
 *   **“Simulacros e Simulação”** – Jean Baudrillard (inspirou as irmãs Wachowski)
 *   **Evangelho de Tomé** – Texto gnóstico com ensinamentos profundos sobre autoconhecimento

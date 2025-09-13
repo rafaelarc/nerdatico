@@ -38,6 +38,8 @@ Quem já entrou num shopping ou supermercado e foi recebido por **portas que se 
 
 Parece simples hoje, mas nos anos 60 isso era tecnologia de outro planeta! Aliás, na série, essas portas muitas vezes eram empurradas por pessoas fora de cena porque a automação ainda não existia. Tá aí um caso em que a ficção deu um empurrãozinho na engenharia.
 
+**+ Leia mais:** [Matrix é mesmo sobre tecnologia ou sobre religião?](https://nerdatico.com.br/matrix-e-mesmo-sobre-tecnologia-ou-sobre-religiao/)
+
 ## 5. **Inteligência Artificial médica** – O “Doutor Holográfico” cada vez mais real
 
 Se você viu _Star Trek: Voyager_, deve lembrar do famoso Doutor, a IA holográfica do setor médico. Ele fazia diagnósticos, tratava doenças e dava bronca como um médico de verdade (às vezes até melhor).
@@ -78,7 +80,7 @@ A tecnologia pode até demorar, mas ela sempre dá um jeito de transformar a fic
 
 **Vida longa e próspera, nerds!**
 
-## Leituras e conteúdos recomendados:
+### Quer saber mais?
 
 *   [Site oficial de Star Trek (em inglês)](https://www.startrek.com)
 *   [IBM Watson Health](https://www.ibm.com/watson-health)

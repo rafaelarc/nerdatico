@@ -56,7 +56,7 @@ Boa pergunta! No mundo de Dragon Ball Z, os namekuseijins parecem viver tranquil
 
 Então, se você sempre sonhou em visitar o planeta de Piccolo e seus amigos verdes, preste atenção: **uma gravidade 10x maior não é brincadeira não!** Nosso corpo, nossos prédios e até nossos cachorros teriam que se reinventar completamente. Mas isso não quer dizer que não é divertido imaginar essas possibilidades. O legal da ficção é justamente isso: nos fazer pensar como seria um mundo completamente diferente do nosso. Quem sabe, num futuro não tão distante, a ciência nos mostre como realmente seria viver fora da Terra, com ou sem gravidade de Namekusei.
 
-### Leitura recomendada:
+### Quer saber mais?
 
 *   [O que é gravidade? — Wikipédia](https://pt.wikipedia.org/wiki/Gravidade)
 *   [Exploração espacial — NASA](https://www.nasa.gov)

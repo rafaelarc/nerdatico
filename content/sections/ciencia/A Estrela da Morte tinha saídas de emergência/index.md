@@ -78,7 +78,7 @@ Enquanto isso, seguimos por aqui, torcendo pra que o próximo projeto imperial c
 
 Se você gosta de ver o universo geek sob uma lente mais lógica, realista e bem-humorada, cola com a gente! Tem muito mais conteúdo assim vindo por aí.
 
-## Leituras recomendadas:
+### Quer saber mais?
 
 *   **[How Star Wars Conquered the Universe](https://archive.org/details/howstarwarsconqu0000tayl)** – Chris Taylor
 

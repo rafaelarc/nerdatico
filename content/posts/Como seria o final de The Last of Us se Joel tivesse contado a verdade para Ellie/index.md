@@ -70,7 +70,7 @@ Quando Joel mente, ele nos obriga a enfrentar questões complicadas: **Até onde
 
 A resposta, como sempre, está nos olhos de quem joga. E isso é o mais bonito deste jogo: ele não dá respostas, só mais perguntas.
 
-## Quer saber mais?
+### Quer saber mais?
 
 *   [The Last of Us – Jogo oficial](https://www.playstation.com/pt-br/games/the-last-of-us-part-i/)
 *   [Os melhores jogos da Naughty Dog](https://nerdatico.com.br/melhores-jogos-da-naughty-dog)

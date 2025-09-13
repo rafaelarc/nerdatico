@@ -81,7 +81,7 @@ Talvez até rendesse um modo história alternativo: “GTA – Auditor Fiscal Ed
 
 No fim das contas, o universo de GTA é justamente divertido por estar fora do sistema, mas imaginar regras reais aplicadas a ele rende boas risadas e muita crítica social. Porque, convenhamos: **já tem muito figurão na vida real que se comporta como NPC de GTA e não declara nem um centavo!**
 
-## Quer saber mais?
+### Quer saber mais?
 
 *   [Site oficial do GTA](https://rockstargames.com)
 *   Dossiês sobre economia em mundos abertos – diversas análises disponíveis em sites especializados

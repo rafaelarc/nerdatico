@@ -52,7 +52,7 @@ São questões que ultrapassam a tela e batem direto na nossa realidade. A ficç
 
 No fim das contas, os clones são os dois: **soldados e escravos**. Guerreiros valentes, com coragem e lealdade. Mas também vítimas de um sistema que nunca se preocupou com o que eles queriam. Eles não tiveram a chance de escolher seu destino. Foram programados pra lutar – e só. É por isso que histórias como _The Clone Wars_ são tão importantes. Elas nos fazem olhar pros bastidores da guerra e enxergar quem realmente perdeu nessa disputa. E nos desafiam a pensar: no nosso mundo, quem são os "clones"?
 
-## Quer saber mais?
+### Quer saber mais?
 
 Se você curtiu esse papo cabeça sobre ética e Star Wars, dá uma olhada nessas dicas:
 

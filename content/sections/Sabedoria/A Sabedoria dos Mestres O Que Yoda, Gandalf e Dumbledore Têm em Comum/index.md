@@ -36,6 +36,8 @@ Por exemplo, Dumbledore deixa Harry tomar decisões difíceis mesmo sabendo dos 
 
 Aliás, quantas vezes você já teve um chefe ou professor que mais atrapalhava do que ajudava por não confiar em você? Esses personagens nos ensinam como a confiança transforma.
 
+**+ Leia mais:** [O que você pode aprender sobre liderança com o Capitão Picard](https://nerdatico.com.br/o-que-voce-pode-aprender-sobre-lideranca-com-o-capitao-picard/)
+
 ## 4. **Todos enfrentaram suas próprias sombras**
 
 Um detalhe muito importante sobre esses mentores é que nenhum deles é perfeito. Muito pelo contrário. Todos enfrentaram erros, dúvidas e até escolhas erradas no passado.
@@ -64,7 +66,7 @@ No final das contas, esses mestres nos lembram de algo essencial: **ninguém ven
 
 Então, da próxima vez que rever um filme ou reler um livro com esses personagens, pare por um instante e preste atenção não só no que eles fazem… mas no que eles ensinam apenas por estar ali.
 
-### Quer se aprofundar mais?
+### Quer saber mais?
 
 Aqui vai uma lista de sugestões pra continuar refletindo:
 

@@ -44,6 +44,8 @@ Na vida real, **é praticamente impossível replicar o que o escudo do Capitão 
 
 Mas calma! Isso não quer dizer que os roteiristas erraram ou que os filmes perderam a graça. Muito pelo contrário! Esse toque quase mágico do escudo é justamente o que faz o personagem ser tão icônico.
 
+**+ Leia mais:** [Quanto pesa o Mjolnir na Terra (e em outros planetas)?](https://nerdatico.com.br/quanto-pesa-o-mjolnir-na-terra/)
+
 ### Mas e o Vibranium, ajuda nisso tudo?
 
 Claro! O “material” do escudo, o famoso **Vibranium**, é um metal fictício que absorve e redistribui energia. Isso explicaria como o escudo resiste a ataques violentos sem quebrar e pode justificar parte da energia mantida nos impactos. Cada vez que ele bate em algo, absorve parte da força e "devolve" com mais eficiência.
@@ -72,7 +74,7 @@ No fim das contas, o escudo não segue as leis da física… mas segue as leis d
 
 E cá entre nós: quem nunca quis ter um escudo desses só pra brincar no quintal ou impressionar os amigos?
 
-## Quer saber mais?
+### Quer saber mais?
 
 Se você curte mergulhar em ciência, quadrinhos e ação, aqui vão algumas dicas pra continuar nessa vibe:
 

@@ -68,7 +68,7 @@ Olha só por onde começar:
 
 Jean-Luc Picard pode ser um personagem de ficção, mas as lições que ele deixa são tão reais quanto nossos desafios de todo dia. Ele mostra que um líder de verdade não comanda pelo medo, mas pelo **respeito e pela inspiração**.
 
-## Leituras recomendadas para quem quer se aprofundar
+### Quer saber mais?
 
 *   _Star Trek: The Next Generation (série) – Especialmente episódios como “Darmok”, “The Measure of a Man” e “The Drumhead”_
 *   _Liderança com Empatia: artigos da Harvard Business Review e TED Talks sobre escuta ativa e liderança compassiva_

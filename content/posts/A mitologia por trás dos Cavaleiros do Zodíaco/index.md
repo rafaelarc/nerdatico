@@ -90,7 +90,7 @@ Cavaleiros do Zodíaco é muito mais do que um anime de luta. É uma obra rica e
 
 Então, se você é fã ou ainda não conhece essa pérola, vale revisitar ou assistir com outros olhos. Você pode se surpreender com a quantidade de **referências mitológicas e astrológicas** escondidas em cada episódio.
 
-### Leituras e fontes recomendadas:
+### Quer saber mais?
 
 *   Livros sobre mitologia grega – Edith Hamilton e Joseph Campbell são ótimos começos
 *   Ligações entre astrologia e comportamento dos signos

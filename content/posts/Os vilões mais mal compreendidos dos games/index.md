@@ -90,7 +90,7 @@ Quem diria que por trás de tantos planos malignos estariam dores, traumas e at�
 
 Da próxima vez que derrotar um chefão, pare um segundo para pensar: será que ele realmente merecia ser o vilão da história? Ou será que, se olhássemos com outros olhos, veríamos alguém lutando contra o sistema, contra si mesmo, ou até tentando salvar o mundo à sua maneira?
 
-### Quer mergulhar mais nesse assunto?
+### Quer saber mais?
 
 *   [Final Fantasy Wiki - Sephiroth](https://finalfantasy.fandom.com/wiki/Sephiroth)
 *   [WoW Lore - Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil)

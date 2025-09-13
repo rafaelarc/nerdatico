@@ -64,7 +64,7 @@ No fim das contas, tudo indica que George R. R. Martin **nunca entregou 100% do 
 
 Então, se você também ficou com aquele gosto meio amargo depois do fim da série, a boa notícia é: **a história ainda não acabou**. Os livros podem virar o jogo, e talvez, só talvez, nos façam fazer as pazes com Westeros.
 
-## Quer saber mais?
+### Quer saber mais?
 
 Enquanto a gente espera que **The Winds of Winter** veja a luz do dia, que tal mergulhar em conteúdos que ajudam a entender melhor o universo de George R. R. Martin?
 

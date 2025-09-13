@@ -21,7 +21,10 @@ Mas como isso funcionaria na prática?
 Boa tentativa, jovem padawan. Quando pensamos em "luz", logo vem o laser na cabeça. De fato, seriam a primeira aposta científica. Mas já começa aí o primeiro problema. Apesar de o **laser** ser um feixe de luz coerente e concentrada, ele tem algumas limitações:*   **Não tem fim "sólido" visível:** um feixe de laser vai até o infinito (ou até bater em algo), então ele não para em 1 metro de comprimento como um sabre faria.
 *   **Não interage com outros feixes:** dois lasers cruzando-se não se bloqueiam nem se empurram como os sabres fazem nos duelos de Jedi.
 *   **Não emite som.** (Infelizmente... o famoso "vuuum" só existe graças aos efeitos de som.)
+
 Então, só com laser a coisa já começa a perder aquele glamour.
+
+**+ Leia mais::** [O que o Homem de Ferro teria que estudar para construir a armadura?](https://nerdatico.com.br/o-que-o-homem-de-ferro-teria-que-estudar-para-construir-a-armadura/)
 
 ## O tal do plasma: esperança para os nerds?
 
@@ -56,7 +59,7 @@ Sabia que parte dos avanços em lâminas de corte térmico e cirurgias a laser v
 
 Por enquanto, criar um sabre de luz real como o dos Jedi está fora do nosso alcance. A complexidade de gerar, conter e alimentar um feixe de energia como aquele ainda é um desafio para nossa tecnologia. Por outro lado, os avanços nas áreas de **plasma, engenharia térmica e campos magnéticos** mostram que, talvez, no futuro quem sabe daqui a algumas gerações a galáxia não esteja tão distante assim. Então, enquanto eles não chegam, continuamos com nossos sabres de brinquedo porque, sinceramente, eles já são épicos o suficiente para bons duelos no quintal com os amigos!
 
-## Quer saber mais?
+### Quer saber mais?
 
 Confira algumas sugestões para se aprofundar no assunto:
 

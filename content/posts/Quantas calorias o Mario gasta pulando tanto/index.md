@@ -1,9 +1,9 @@
 ---
-title: "Quantas calorias o Mario gasta pulando tanto?"
+title: "Quantas calorias o Mario gasta em uma fase do jogo?"
 date: 2025-09-23
 tags: ["nerdverso", "gaming"]
 image: "Mario-Bros.webp"
-slug: "quantas-calorias-o-mario-gasta-pulando-tanto"
+slug: "quantas-calorias-o-mario-gasta-em-fase-jogo"
 ---
 
 Se você já passou algumas horinhas saltando por aí com o Mario, deve ter se perguntado: **“Será que esse encanador que vive pulando e correndo queima muitas calorias no seu dia a dia?”** Vamos dar uma olhada mais de perto e fazer umas contas bem curiosas!
@@ -32,7 +32,7 @@ Em média, uma fase em um jogo clássico como **Super Mario Bros.** leva de 90 s
 
 Mario provavelmente gasta umas **16 a 24 calorias por fase**, se considerarmos o esforço de correr e pular (algo entre o gasto de uma atividade ente moderada e intensa). Se ele joga por uma hora (como muita gente faz), a estimativa de gasto calórico pode chegar a **500 a 700 calorias ou mais**! É como uma boa sessão de spinning na academia.
 
-**+ Leia mais::** [Qual seria a dieta ideal de um saiyajin?](https://nerdatico.com.br/qual-seria-a-dieta-ideal-de-um-saiyajin/)
+**+ Leia mais:** [Qual seria a dieta ideal de um saiyajin?](https://nerdatico.com.br/qual-seria-a-dieta-ideal-de-um-saiyajin/)
 
 ## A matemática do pulo do Mario
 

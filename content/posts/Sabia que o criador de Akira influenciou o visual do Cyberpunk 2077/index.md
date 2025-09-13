@@ -73,7 +73,7 @@ Fica claro que **sem Akira, talvez Cyberpunk 2077 nem existisse** como conhecemo
 
 Então, se você curte games e quer entender de onde vêm as ideias que moldam esse universo, vale (re)assistir Akira. Quem sabe, depois disso, sua próxima jogatina em Night City ganhe outro significado?
 
-### Leituras e recomendações para quem quer ir além:
+### Quer saber mais?
 
 *   **Akira (1988)** – Filme dirigido por Katsuhiro Otomo
 *   **Akira – Mangá**, publicado no Brasil pela JBC

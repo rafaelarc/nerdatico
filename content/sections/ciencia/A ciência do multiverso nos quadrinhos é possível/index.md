@@ -14,11 +14,13 @@ A palavra “multiverso” parece coisa de ficção, mas alguns cientistas de ve
 
 ### Como essa teoria funciona?
 
-Vamos simplificar: imagina que você está jogando uma partida de futebol com seus amigos. No instante em que você decide chutar para o gol ou passar a bola, o universo “se divide”. Em um, você fez o gol; em outro, mandou a bola pra fora. Essas duas possibilidades se realizam em universos diferentes. 🤯 A ciência ainda não sabe provar se esses outros universos existem de fato, mas a ideia é levada a sério por físicos respeitados.
+Vamos simplificar: imagina que você está jogando uma partida de futebol com seus amigos. No instante em que você decide chutar para o gol ou passar a bola, o universo “se divide”. Em um, você fez o gol; em outro, mandou a bola pra fora. Essas duas possibilidades se realizam em universos diferentes. A ciência ainda não sabe provar se esses outros universos existem de fato, mas a ideia é levada a sério por físicos respeitados.
 
 ## Marvel e o multiverso: o que é real e o que é viagem?
 
 Nos filmes da Marvel, como em **Doutor Estranho no Multiverso da Loucura**, o multiverso é retratado como uma série de realidades que coexistem e podem até se misturar. Tem universo zumbi, universo onde o Tony Stark vive, o Thanos é bonzinho e por aí vai. Mas será que isso tem alguma base científica? Bom, mais ou menos. A ideia de realidades alternativas bate com a teoria de Hugh Everett, mas o modo como essas interações acontecem nos filmes é bem fantasioso. Viagens entre universos, portais e versões alternativas se encontrando têm mais a ver com liberdade criativa do que com ciência real. Mas a verdade é que, **como ainda não conseguimos provar nem que existem universos paralelos**, não dá pra dizer que é impossível.
+
+**+ Leia mais:** [O multiverso anula o livre-arbítrio?](https://nerdatico.com.br/o-multiverso-anula-o-livre-arbitrio/)
 
 ## DC Comics: o multiverso sempre foi parte da casa
 

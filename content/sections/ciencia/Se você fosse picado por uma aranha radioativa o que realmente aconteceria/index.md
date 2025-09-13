@@ -26,6 +26,8 @@ Agora, junte a isso a **exposição à radiação**. O que acontece se uma aranh
 
 Ou seja: **você não vai escalar paredes**. A realidade mais provável seria… uma bela visita ao hospital.
 
+**+ Leia mais:** [Wolverine sentiria dor ao regenerar?](https://nerdatico.com.br/wolverine-sentiria-dor-ao-regenerar/)
+
 ## O que a radiação realmente faz no corpo
 
 Vamos entender melhor o papel da radiação nessa história. Quando você é exposto à radiação principalmente em níveis altos o que acontece no seu corpo **é perigoso**. Em vez de dar poderes, ela pode causar:
@@ -74,7 +76,7 @@ Mas não precisa ficar triste! A vida real tem seus próprios superpoderes. Eles
 
 Então, enquanto o mundo da ciência caminha devagar (e com responsabilidade), a gente segue sonhando com superpoderes... mas com os dois pés no chão e uma bela dose de protetor solar (e talvez um repelente também).
 
-## Leituras recomendadas:
+### Quer saber mais?
 
 *   [Fundação Oswaldo Cruz (Fiocruz)](https://www.org.br/) – Informações sobre venenos e picadas
 *   [Comissão Nacional de Energia Nuclear (CNEN)](https://www.cnen.gov.br/) – Tudo sobre radiação e segurança

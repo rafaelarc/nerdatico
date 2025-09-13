@@ -72,7 +72,7 @@ Talvez seja por isso que o universo dos quadrinhos nos fascina tanto: porque ele
 
 Então, da próxima vez que você abrir uma HQ do Batman ou assistir a mais um filme cheio de perseguições e bombas, lembre que, por trás da capa e da sombra, **existe um homem tentando navegar grandes dilemas morais** como todos nós.
 
-## Quer saber mais?
+### Quer saber mais?
 
 Se curtiu essa discussão, dá uma olhada nessas referências para se aprofundar:
 

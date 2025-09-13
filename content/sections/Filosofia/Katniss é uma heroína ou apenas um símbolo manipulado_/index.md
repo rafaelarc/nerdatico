@@ -24,6 +24,8 @@ Lembra dos vídeos de propaganda do Distrito 13, mostrando Katniss como a "Tordo
 
 Esse tipo de manipulação lembra muito o que vemos na política do mundo real. Quem nunca viu um candidato usar uma causa nobre para ganhar simpatia, mesmo que não represente aquilo de verdade? É como se estivessem vestindo uma camisa que não é deles, só pra agradar a torcida.
 
+**+ Leia mais:** [Snape é herói, vilão ou mártir?](https://nerdatico.com.br/snape-e-heroi-vilao-ou-martir/)
+
 ## Katniss tinha agência ou foi só uma marionete?
 
 Essa é a grande dúvida. Será que Katniss era realmente livre para tomar suas decisões? Ou foi empurrada, o tempo todo, de um lado para o outro pelos líderes da rebelião e pelo próprio sistema contra o qual lutava?
@@ -58,7 +60,7 @@ Katniss Everdeen está no meio do caminho. Ela é, sim, um símbolo mas não por
 
 No fundo, todos nós podemos ser Katniss em alguma medida: tentando manter nossos princípios em meio a pressões externas, sendo empurrados para papéis que talvez não tenhamos escolhido. O importante é, como ela, perceber a hora de sair do tabuleiro e fazer a jogada por conta própria.
 
-### Leituras recomendadas:
+### Quer saber mais?
 
 *   _[Jogos Vorazes](https://amzn.to/4d5lxS8)_ – Suzanne Collins
 *   _[A Sociedade do Espetáculo](https://amzn.to/4iUZZZN)_ – Guy Debord (para refletir sobre a manipulação de imagens e símbolos)

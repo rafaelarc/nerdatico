@@ -1,5 +1,5 @@
 ---
-title: "A IA dos inimigos em é mais humana do que parece?"
+title: "A IA dos inimigos em jogos é mais humana do que parece?"
 date: 2025-06-19
 tags: ["ciencia", "gaming"]
 image: "ai-npc.webp"

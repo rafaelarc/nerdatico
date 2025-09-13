@@ -88,7 +88,7 @@ Goku e Superman representam **mais do que apenas força e poderes**. Eles simbol
 
 No fim das contas, a resposta mais honesta é: **não importa quem venceria**. O que importa é que os dois são heróis que marcaram gerações e continuam inspirando milhões seja lutando nas estrelas ou voando pelos céus de Metropolis.
 
-### Quer continuar mergulhando nesse universo?
+### Quer saber mais?
 
 *   **HQs clássicas da DC Comics** – especialmente “All-Star Superman” e "Kingdom Come".
 *   **Assista Dragon Ball Super** para entender a evolução de Goku até o Ultra Instinct.

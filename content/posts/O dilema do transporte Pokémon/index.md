@@ -70,7 +70,7 @@ No final das contas, a ideia de carregar um Snorlax em uma Pokébola é mais uma
 
 Então, na próxima vez que jogar Pokémon ou assistir um episódio do anime, tente ver além da batalha. Pode ser um ótimo momento para se perguntar: **“isso faria sentido no mundo real?”** E mais importante: e se fizesse?
 
-## Quer saber mais?
+### Quer saber mais?
 
 *   **“The Science of Pokémon”** - livro que explora temas científicos no universo da série
 *   **Pokémon: A Evolução de uma Franquia** - documentários e vídeos no YouTube sobre a criação e crescimento do fenômeno

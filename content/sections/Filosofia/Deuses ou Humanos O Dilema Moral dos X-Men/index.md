@@ -74,7 +74,7 @@ Em tempos de polarização, intolerância e discussões acaloradas, talvez a mai
 
 Se você é fã dos X-Men ou só está começando a mergulhar nesse universo, vale conferir obras que aprofundam essas questões. Afinal, quadrinhos são muito mais do que entretenimento. Às vezes, eles espelham o mundo real melhor do que muita notícia por aí.
 
-### Leituras recomendadas:
+### Quer saber mais?
 
 *   [Claremont, Chris – Fase clássica dos X-Men nos anos 80](https://amzn.to/4kqP8Ym) (início das grandes reflexões morais)
 *   _[X-Men: Deus Ama, o Homem Mata](https://panini.com.br/x-men-deus-ama-o-homem-mata-marvel-graphic-novel)_ – HQ essencial sobre preconceito e fé

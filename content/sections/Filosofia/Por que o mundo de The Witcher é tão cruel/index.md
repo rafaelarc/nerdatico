@@ -40,7 +40,7 @@ No fim das contas, o que torna o universo de The Witcher tão fascinante é just
 
 The Witcher é cruel, sim. Mas é exatamente essa crueldade que nos prende, fazendo com que a gente se reconheça nos dilemas de um bruxo de cabelos brancos e olhar cansado. A série, os livros e os jogos mostram que, mesmo em um mundo fantástico, os maiores monstros continuam sendo os humanos e que a verdadeira magia talvez seja encontrar alguma bondade no meio do caos.
 
-### Sugestões de leitura para se aprofundar
+### Quer saber mais?
 
 *   [**Livros da saga The Witcher**](https://amzn.to/4iNxU6x), de Andrzej Sapkowski
 *   **[The Witcher 3](https://amzn.to/3GPrBSH)** - melhor jogo da série baseado nos livros

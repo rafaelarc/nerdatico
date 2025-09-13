@@ -64,7 +64,7 @@ O dia a dia das pessoas mudaria muito. Talvez ao sair de casa, em vez de olhar a
 
 Pensar em um mundo onde a mitologia nórdica fosse real é uma viagem e tanto! Além de mudar toda a nossa história, mudaria também nossa forma de viver, se vestir, amar e até de procurar sentido para a vida. Mas talvez o mais interessante seja perceber o quanto essas histórias ainda mexem com a gente hoje. Elas nos inspiram a sonhar, criar e refletir sobre o bem, o mal, o destino… e até sobre ~ser digno~ de levantar o Mjölnir. Então, mesmo que os deuses nórdicos não caminhem entre nós, suas lendas continuam vivas. E quem sabe? Talvez eles só estejam esperando o momento certo pra se revelar. 😉
 
-## Quer saber mais?
+### Quer saber mais?
 
 Se esse tipo de conteúdo te interessa, aqui vão algumas sugestões de leitura e entretenimento:
 

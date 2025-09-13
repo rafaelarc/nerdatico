@@ -72,7 +72,7 @@ Ao olhar para sua história, vemos que os monstros que enfrentamos hoje, no noss
 
 Então, da próxima vez que sentir medo, lembre-se da lição de Lorraine: _“Não é ausência de medo que nos torna fortes, mas a escolha de continuar apesar dele.”_
 
-### Fontes e leituras recomendadas:
+### Quer saber mais?
 
 *   [Ed and Lorraine Warren: Demonologists](https://bit.ly/4g2eieZ) – Gerald Brittle
 *   Entrevistas e aparições públicas de Lorraine Warren

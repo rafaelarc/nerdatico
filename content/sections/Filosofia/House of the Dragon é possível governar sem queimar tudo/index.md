@@ -68,7 +68,7 @@ Talvez sim. Mas, no universo dos Targaryen, isso exige mais do que vontade. Exig
 
 E você, o que faria se tivesse um dragão e um trono em jogo? Será que resistiria à tentação ou também deixaria tudo em chamas?
 
-## Leitura recomendada
+### Quer saber mais?
 
 *   [Página oficial de House of the Dragon na HBO](https://www.hbo.com/house-of-the-dragon)
 *   [Site oficial de George R. R. Martin](https://www.georgerrmartin.com/)

@@ -18,6 +18,8 @@ Antes de falar dos feitos heroicos de Magneto, vale entender quem ele é. Magnet
 
 Mas diferentemente de vilões unidimensionais, **Magneto acredita que suas ações são justificadas que está apenas protegendo sua raça**, os mutantes, de um mundo que os teme. Isso faz dele um personagem com uma moral cinzenta, alguém que transita entre o bem e o mal.
 
+**+ Leia mais:** [Darth Vader poderia ser julgado por crimes de guerra?](https://nerdatico.com.br/darth-vader-poderia-ser-julgado-por-crimes-de-guerra/)
+
 ## As vezes em que Magneto salvou o mundo
 
 Mesmo com todas as suas atitudes questionáveis, Magneto já foi o herói da história em diversas situações. Quer ver alguns exemplos?

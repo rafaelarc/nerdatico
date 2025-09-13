@@ -67,7 +67,7 @@ A história do Titã Louco serve como metáfora pra muitas decisões humanas: co
 
 Fica então a provocação: se você tivesse as Joias do Infinito, o que mudaria no mundo?
 
-### Leituras e referências recomendadas:
+### Quer saber mais?
 
 *   “Os Vingadores: Guerra Infinita” e “Ultimato” – Filmes Marvel Studios
 *   “Star Trek: The Next Generation” – série sobre sociedades avançadas

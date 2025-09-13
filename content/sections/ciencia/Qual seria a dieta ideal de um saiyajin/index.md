@@ -102,7 +102,7 @@ Montar a dieta de um saiyajin pode parecer exagero, mas mostra como a alimentaç
 
 Então, da próxima vez que for treinar pesado e bater aquela fome, lembre-se: até os heróis do Dragon Ball só ficam fortes porque comem bem!
 
-## Quer saber mais?
+### Quer saber mais?
 
 *   [Alimentos ricos em proteína](https://draxe.com/nutrition/high-protein-foods/)
 *   [Quantas calorias você realmente precisa?](https://www.healthline.com/nutrition/how-many-calories-per-day)

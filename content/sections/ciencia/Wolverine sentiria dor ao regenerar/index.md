@@ -63,7 +63,7 @@ Depois de tudo isso, a resposta curta é: **sim, Wolverine sente dor ao se regen
 
 Para nós, fãs, essa é uma daquelas perguntas que fazem o universo geek ser tão encantador. Uma mistura de ficção, ciência e humanidade. Tudo na medida certa.
 
-### Fontes e leituras recomendadas:
+### Quer saber mais?
 
 *   "X-Men" (filmes e HQs) – especialmente os arcos com enfoque psicológico em Wolverine.
 *   Documentários sobre dor crônica e sistema nervoso humano.

@@ -94,7 +94,7 @@ No fim das contas, o que mais importa seja na magia ou na IA é entender quem so
 
 Afinal, como diria Dumbledore: _“São nossas escolhas que revelam o que realmente somos, muito mais do que nossas habilidades.”_
 
-## Quer saber mais?
+### Quer saber mais?
 
 *   **[Harry Potter: Hogwarts Mystery](https://harrypotterhogwartsmystery.com/)** – jogo mobile com mecânicas de escolhas e personalização;
 *   **[Pottermore/Wizarding World](https://www.harrypotter.com/)** – teste oficial das casas de Hogwarts;

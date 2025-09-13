@@ -88,7 +88,7 @@ Ficção científica serve não só pra entreter, mas também pra nos fazer **re
 
 Independentemente do universo que você prefere, ambos nos ensinam que o futuro não é apenas uma questão de tecnologia é sobre as **escolhas que fazemos hoje**.
 
-### Leituras recomendadas:
+### Quer saber mais?
 
 *   [Memory Alpha – Wiki de Star Trek](https://memory-alpha.fandom.com/wiki/Main_Page)
 *   [Star Wars Wiki – Universo expandido](https://starwars.fandom.com/pt/wiki/P%C3%A1gina_principal)

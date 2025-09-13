@@ -20,6 +20,8 @@ Um ser imortal que decide manipular civilizações para seu próprio benefício,
 
 É aí que entra a ideia de um **código de ética imortal** um conjunto de princípios que guiem seres eternos por milênios, mesmo que o contexto histórico e social mude completamente.
 
+**+ Leia mais:** []()
+
 ## Como começar a criar esse código? Vamos por partes:
 
 ### 1. **Respeito à vida (mesmo sendo mortal)**
@@ -84,7 +86,7 @@ Ser imortal pode parecer uma bênção... ou uma maldição, dependendo do ponto
 
 No fim das contas, talvez o verdadeiro desafio da imortalidade seja não se tornar indiferente. E criar um **código de ética é uma forma de lembrar que, mesmo com todo o tempo do mundo, o que a gente faz com ele é o que importa**.
 
-## Quer saber mais?
+### Quer saber mais?
 
 Se esse tema te deixou reflexivo(a), aqui vão algumas dicas de leitura e referências que valem a pena:
 

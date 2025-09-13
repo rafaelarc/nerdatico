@@ -50,7 +50,7 @@ Pode parecer exagero, mas tem algo de muito humano nesses jogos. Eles falam sobr
 
 Os jogos da FromSoftware não são só sobre espadas, monstros e labirintos. Eles são espelhos sombrios onde, se prestarmos atenção, conseguimos enxergar partes da nossa própria alma. Da próxima vez que estiver vagando por uma catedral abandonada em Bloodborne ou enfrentando um dragão colossal em Elden Ring, lembre-se: por trás de todo esse desafio, existe uma conversa silenciosa sobre o que significa ser humano.
 
-### Para quem quiser se aprofundar:
+### Quer saber mais?
 
 *   Vídeos do canal [VaatiVidya](https://www.youtube.com/@VaatiVidya) no YouTube (em inglês, mas vale muito!)
 *   Livros de filosofia existencialista como "[O Ser e o Nada](https://amzn.to/43fXnAR)", de Sartre

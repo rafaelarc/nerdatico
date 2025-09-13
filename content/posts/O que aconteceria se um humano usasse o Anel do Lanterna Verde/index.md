@@ -66,7 +66,7 @@ Usar o anel do Lanterna Verde não seria como ganhar superpoderes num passe de m
 
 E aí, você acha que se sairia bem com um anel desses no dedo?
 
-### Para quem quiser se aprofundar:
+### Quer saber mais?
 
 *   HQs da saga "[Lanterna Verde: Renascimento](https://amzn.to/3SRDdYf)" (DC Comics)
 *   Série animada "Lanterna Verde: A Série Animada" (DC Universe)

@@ -76,7 +76,7 @@ No fim das contas, a série só reforça um recado que deveríamos carregar semp
 
 E você, já se identificou com um personagem "fora do padrão"? Conta pra gente nos comentários! Vamos continuar esse papo.
 
-## Leituras e conteúdos para se aprofundar:
+### Quer saber mais?
 
 *   **Série:** "Atypical" (Netflix) – sobre autismo e convivência familiar
 *   **Documentário:** "Mind Explained: Transtornos Mentais" (Netflix)

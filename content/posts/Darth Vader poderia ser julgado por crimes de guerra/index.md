@@ -51,6 +51,8 @@ No Tribunal de Nuremberg, após a Segunda Guerra Mundial, vários oficiais nazis
 
 Ou seja, se Darth Vader fosse levado a julgamento, a desculpa de “estava só cumprindo ordens” **não ia colar**.
 
+**+ Leia mais:** [5 vezes que os vilões dos games tinham razão](https://nerdatico.com.br/5-vezes-que-os-viloes-dos-games-tinham-razao/)
+
 ## Mas e a redenção no final?
 
 ![dart-vader](dart1.webp)
@@ -79,7 +81,7 @@ No fundo, fica aquela lição Jedi clássica: com grande poder, vem uma grande r
 
 Mas claro, essa é só uma brincadeira usando o universo de Star Wars como pano de fundo pra discutir temas sérios do nosso mundo.
 
-## Quer saber mais?
+### Quer saber mais?
 
 Confira essas sugestões de leitura pra se aprofundar:
 

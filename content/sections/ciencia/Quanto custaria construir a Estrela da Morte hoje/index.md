@@ -37,6 +37,8 @@ Em 2025, o preço do aço gira em torno de:
 
 Isso tudo só em aço. Sem contar sistemas de propulsão, armamento planetário, escudos de energia ou o salário dos stormtroopers.
 
+**+ Leia mais:** [A Estrela da Morte tinha saídas de emergência?](https://nerdatico.com.br/a-estrela-da-morte-tinha-saidas-de-emergencia/)
+
 ### E se usássemos outros materiais?
 
 Claro, materiais como tungstênio ou titânio seriam muito mais resistentes e muito mais caros também. O preço do titânio, por exemplo, pode ultrapassar US$ 6.000 por tonelada. Imagine multiplicar isso por trilhões...
@@ -92,7 +94,7 @@ A Estrela da Morte é incrível nos cinemas, mas continua sendo uma fantasia imp
 
 Enquanto isso, seguimos encantados com nosso telescópio James Webb e as descobertas da NASA… sem destruir nenhum planeta por enquanto.
 
-### Quer saber mais? Dá uma olhada nestes conteúdos:
+### Quer saber mais?
 
 *   [Site oficial da NASA](https://www.nasa.gov/)
 *   [Projetos da SpaceX](https://www.spacex.com/)

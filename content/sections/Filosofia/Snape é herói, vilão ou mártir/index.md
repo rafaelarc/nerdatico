@@ -24,8 +24,6 @@ Talvez o maior gesto de heroísmo de Snape tenha sido esse: proteger o filho da 
 
 Mas será que isso basta pra torná-lo um herói? A resposta não é tão simples. Ele fez muitas escolhas duvidosas, tratou alunos com crueldade e **não era exatamente um exemplo de gentileza**. Então, vamos explorar os outros lados dessa moeda.
 
-**+ Leia mais::** [Snape é herói, vilão ou mártir?](https://nerdatico.com.br/snape-e-heroi-vilao-ou-martir/)
-
 ## O professor cruel e rancoroso
 
 ![severus](severus.webp)
@@ -37,6 +35,8 @@ Mesmo que ele estivesse fingindo diante dos Comensais da Morte, certas atitudes 
 E vamos combinar: se Snape realmente se importava com Harry, como ele permitiu que o menino sofresse tanto? O amor por Lílian não poderia ter gerado mais empatia?
 
 Snape carregou mágoas da adolescência por décadas. É como aquele colega que guarda ressentimento desde o colégio e revive essas tretas para sempre. A diferença é que ele tinha uma varinha nas mãos e manipulava poções perigosas...
+
+**+ Leia mais:** [Thanos: ecologista radical ou vilão com discurso ecológico?](https://nerdatico.com.br/thanos-e-um-ecologista-radical-ou-so-vilao-com-um-bom-discurso/)
 
 ## O sacrifício em nome de um ideal
 

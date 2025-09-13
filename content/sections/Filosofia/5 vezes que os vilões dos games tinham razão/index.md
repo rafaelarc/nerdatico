@@ -34,6 +34,8 @@ Vaas foi manipulado, explorado, e acabou entrando num ciclo de violência e louc
 
 Claro, ele comete atos terríveis. Mas, dentro do contexto em que ele foi criado, você consegue entender como ele chegou até aquele ponto. **Muitas vezes, o vilão é só alguém que perdeu a esperança e essa é a verdadeira tragédia.**
 
+**+ Leia mais:** [Os vilões mais mal compreendidos dos games](https://nerdatico.com.br/os-viloes-mais-mal-compreendidos-dos-games/)
+
 ## 4. **GLaDOS (Portal)**
 
 Ah, GLaDOS. A inteligência artificial sarcástica que nos faz rir e temer ao mesmo tempo. Em **Portal** e **Portal 2**, ela é a “vilã” que nos desafia com puzzles praticamente impossíveis... e algumas piadas cruéis no meio do caminho. Mas será que ela é mesmo a vilã?
@@ -62,7 +64,7 @@ Os games estão cada vez mais maduros, e parte dessa evolução vem da forma com
 
 E aí, qual vilão que “tinha razão” você incluiria nessa lista? Conta pra gente nos comentários!
 
-### Leituras recomendadas:
+### Quer saber mais?
 
 *   **Documentário**: “High Score” (Netflix) — mostra a evolução dos jogos e das narrativas
 *   **Livro**: “The Psychology of Video Games” de Jamie Madigan

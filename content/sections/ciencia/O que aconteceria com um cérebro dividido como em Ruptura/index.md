@@ -61,7 +61,7 @@ Talvez _Ruptura_ tenha feito tanto sucesso porque mexe com algo que todos sentim
 
 Mas a série mostra que empurrar sentimentos para “outra versão de nós” não resolve o problema, só o esconde. No fim das contas, somos o que vivemos por inteiro com nossas alegrias, frustrações e memórias completas. **Dividir a mente pode parecer solucionar o cansaço, mas também divide nossa humanidade.**
 
-## Quer saber mais?
+### Quer saber mais?
 
 Se esse papo te deixou com a cabeça fervendo (no bom sentido), aqui vão algumas sugestões para continuar explorando o tema:
 

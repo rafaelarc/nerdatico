@@ -25,6 +25,8 @@ Não estamos dizendo que você precisa virar um agente secreto da vida. Mas em c
 
 Sabe aquela expressão “comer quieto”? Então, ela é puro modo stealth!
 
+**+ Leia mais:** [Como aplicar o método Jedi de foco no dia a dia](https://nerdatico.com.br/como-aplicar-o-metodo-jedi-de-foco-no-dia-a-dia/)
+
 ## Passo 1: Observe como um verdadeiro gamer
 
 Antes de agir, o personagem stealth observa. Olha os padrões de comportamento dos guardas, vê rotas de fuga, memoriza horários. No mundo real, é mais ou menos assim. Antes de tomar uma decisão importante, observe:
@@ -70,11 +72,11 @@ Muita gente acha que ser discreto é “medo” ou “falta de ousadia”. Mas n
 
 E então, bora colocar o capuz do Ezio mentalmente e encarar a vida com stealth, estratégia e estilo?
 
-## Leituras recomendadas e referências:
+### Quer saber mais?
 
 *   [Metal Gear Solid – Konami](https://www.konami.com/games/metalgear/)
 *   [Assassin’s Creed – Ubisoft](https://www.ubisoft.com/pt-br/game/assassins-creed)
 *   Livro: "[O Poder do Silêncio](https://amzn.to/43wdXf3)", de Eckhart Tolle
 *   Livro: "[O Poder do Quieto](https://amzn.to/4ky9LCk)", de Susan Cain
 
-Ficou animado pra ativar o modo furtivo e transformar sua vida? Compartilha com aquele amigo barulhento que vive anunciando mudanças pelas redes e diga: “Aprende com o Snake, meu caro.” 😄
+Ficou animado pra ativar o modo furtivo e transformar sua vida? Compartilha com aquele amigo barulhento que vive anunciando mudanças pelas redes e diga: “Aprende com o Snake, meu caro.”

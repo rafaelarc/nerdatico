@@ -68,7 +68,7 @@ Mesmo que ainda não exista uma vacina contra o Cordyceps real ou fictício o av
 
 Enquanto isso, seguimos torcendo por Ellie e agradecendo que, por enquanto, os fungos só dominam as formigas mesmo.
 
-### Curtiu esse mergulho na ciência por trás da ficção?
+### Quer saber mais?
 
 Aqui vão algumas sugestões de leitura para quem quer saber mais:
 

@@ -70,7 +70,7 @@ Se colocarmos as práticas da Lumon sob a lupa dos **direitos humanos**, fica di
 *   Você acredita que, no futuro, tecnologias como a da Lumon podem existir?
 *   O que você faria se soubesse que seu “eu profissional” vive uma vida separada e sem liberdade?
 
-## Leituras recomendadas
+### Quer saber mais?
 
 *   _Ruptura (Severance)_ – Série disponível na Apple TV+
 *   Documentário “O Dilema das Redes” – Netflix, sobre ética e tecnologia

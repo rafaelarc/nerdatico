@@ -32,6 +32,8 @@ Calma, não precisa se assustar com o termo! Vamos explicar:
 
 Por exemplo: o herói, a mãe, o sábio, a sombra. Esses personagens aparecem em quase todas as culturas e histórias. E em Sandman? Estão por toda parte.
 
+**+ Leia mais:** [Matrix é mesmo sobre tecnologia ou sobre religião?](https://nerdatico.com.br/matrix-e-mesmo-sobre-tecnologia-ou-sobre-religiao/)
+
 ## Sandman: um mergulho nos arquétipos
 
 Morpheus **é literalmente o Senhor dos Sonhos**, e isso já é uma baita metáfora junguiana. Mas cada personagem e evento da história carrega arquétipos poderosos. Veja só:
@@ -58,7 +60,7 @@ Em Sandman, isso é literal! Morpheus gerencia os sonhos das pessoas. Muitas his
 
 Quem nunca teve um sonho estranho que ficou na cabeça o dia todo? Às vezes parece só uma loucura, mas, segundo Jung (e o Gaiman parece concordar), aquilo diz mais sobre a gente do que a gente pensa.
 
-## Reflexão: o que Sandman e Jung nos ensinam?
+## O que Sandman e Jung nos ensinam?
 
 Ler Sandman não é só curtir uma ótima história em quadrinhos é **se encontrar naquela mistura de fantasia e reflexão**. A ligação com a psicologia junguiana convida a gente a olhar para dentro e a questionar:
 
@@ -80,7 +82,7 @@ Sandman é mais do que uma HQ cult. É uma jornada pelo inconsciente humano, che
 
 Então, na próxima vez que você tiver um sonho doido, ou reler uma HQ cheia de simbolismo, lembre-se: pode ser o seu inconsciente tentando te contar algo. E talvez o próprio Morpheus esteja atrás disso.
 
-### Leituras recomendadas
+### Quer saber mais?
 
 *  [Neil Gaiman – Sandman](https://amzn.to/3UPQ7qz)
 *  [Carl Gustav Jung – O Homem e Seus Símbolos](https://amzn.to/3UOxu6u)

@@ -111,7 +111,7 @@ A verdade é que, mesmo com esse investimento surreal, pouca gente teria o prepa
 
 E aí, se você ganhasse na Mega da Virada, você montaria sua Batcaverna? Ou é melhor deixar isso pro Bruce mesmo?
 
-## Leitura complementar e curiosidades
+### Quer saber mais?
 
 *   [Site oficial da DC Comics](https://www.dc.com)
 *   Vídeos no YouTube com breakdowns dos equipamentos do Batman

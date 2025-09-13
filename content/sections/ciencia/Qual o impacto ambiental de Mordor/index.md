@@ -6,7 +6,7 @@ image: "mordor.webp"
 slug: "qual-o-impacto-ambiental-de-mordor"
 ---
 
-Você já parou pra pensar como seria o impacto ambiental de Mordor se aquele lugar sombrio existisse no nosso mundo real? 🤔 A gente sempre vê em **O Senhor dos Anéis** aquele cenário escuro, cheio de fumaça, lava e nenhuma vegetação, mas será que um ambiente como Mordor poderia realmente existir? E o que isso causaria ao planeta se estivesse localizado, por exemplo, no meio da Amazônia, no Cerrado ou até na Caatinga? Neste post, vamos fazer uma análise ecológica e bem divertida do que significa ter um Sauron como vizinho. Segura essa viagem e bora descobrir!
+Você já parou pra pensar como seria o impacto ambiental de Mordor se aquele lugar sombrio existisse no nosso mundo real? A gente sempre vê em **O Senhor dos Anéis** aquele cenário escuro, cheio de fumaça, lava e nenhuma vegetação, mas será que um ambiente como Mordor poderia realmente existir? E o que isso causaria ao planeta se estivesse localizado, por exemplo, no meio da Amazônia, no Cerrado ou até na Caatinga? Neste post, vamos fazer uma análise ecológica e bem divertida do que significa ter um Sauron como vizinho. Segura essa viagem e bora descobrir!
 
 ## Como é Mordor, afinal?
 
@@ -66,11 +66,11 @@ Pra resumir, se Mordor existisse no nosso mundo, os impactos seriam:
 *   Ar fatalmente poluído, prejudicando a saúde
 *   Colapso de cadeias alimentares
 
-Parece exagerado? Pois saiba que tudo isso acontece, em menor escala, quando há desmatamento intenso, mineração desalinhada e poluição industrial sem freio em vários lugares do planeta. Sauron pode até ser ficção... mas os impactos que ele representa são muito reais por aqui. 🌍🔥
+Parece exagerado? Pois saiba que tudo isso acontece, em menor escala, quando há desmatamento intenso, mineração desalinhada e poluição industrial sem freio em vários lugares do planeta. Sauron pode até ser ficção... mas os impactos que ele representa são muito reais por aqui.
 
-Mordor é o retrato extremo da destruição ambiental. Uma metáfora poderosa e infelizmente, bem atual do que acontece quando o poder ignora o equilíbrio com a natureza. Se a Terra-Média precisou da coragem de Frodo, Sam e toda a Sociedade do Anel para enfrentar o mal, talvez nosso mundo também precise de heróis do cotidiano lutando contra a degradação ambiental. A boa notícia? Você pode ser um deles. 🌱✨
+Mordor é o retrato extremo da destruição ambiental. Uma metáfora poderosa e infelizmente, bem atual do que acontece quando o poder ignora o equilíbrio com a natureza. Se a Terra-Média precisou da coragem de Frodo, Sam e toda a Sociedade do Anel para enfrentar o mal, talvez nosso mundo também precise de heróis do cotidiano lutando contra a degradação ambiental. A boa notícia? Você pode ser um deles.
 
-## Leituras recomendadas:
+### Quer saber mais?
 
 *   Documentário “[Before the Flood](https://youtu.be/zbEnOYtsXHA?si=ZrhahExVULVso6NY)” (Antes do Dilúvio) – disponível em plataformas de streaming
 *   [Relatórios do IPCC](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/sirene/publicacoes/relatorios-do-ipcc) (Painel Intergovernamental sobre Mudanças Climáticas)
