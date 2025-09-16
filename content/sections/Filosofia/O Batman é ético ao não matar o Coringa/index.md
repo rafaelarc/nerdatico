@@ -1,7 +1,7 @@
 ---
 title: "O Batman é ético ao não matar o Coringa?"
 date: 2025-09-13
-tags: ["filosofia"] 
+tags: ["filosofia", "DC"] 
 image: "coringa.webp"
 slug: "o-batman-e-etico-ao-nao-matar-o-coringa"
 ---

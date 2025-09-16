@@ -2,6 +2,7 @@
 title: "Como seria o imposto de renda no universo de GTA?"
 date: 2025-06-03
 tags: ["nerdverso", "gaming"]
+keywords: ["gta", "grand theft auto"]
 image: "gta-4.webp"
 slug: "como-seria-o-imposto-de-renda-no-universo-de-gta"
 ---

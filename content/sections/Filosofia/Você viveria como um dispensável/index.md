@@ -1,7 +1,7 @@
 ---
 title: "Você viveria como um dispensável?"
 date: 2025-09-18
-tags: ["filosofia"]
+tags: ["filosofia", "filmes"]
 image: "mickey-17.webp"
 slug: "voce-viveria-como-um-dispensavel"
 ---

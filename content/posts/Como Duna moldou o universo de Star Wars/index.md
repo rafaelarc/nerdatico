@@ -1,12 +1,12 @@
 ---
 title: "Como Duna moldou o universo de Star Wars"
 date: 2025-07-10
-tags: ["nerdverso"]
+tags: ["nerdverso", "filmes"]
 image: "dune.webp"
 slug: "como-duna-moldou-o-universo-de-star-wars"
 ---
 
-Você já teve aquela sensação de que já viu uma história antes, mesmo sendo um mundo completamente diferente? Se você é fã de **Star Wars** e já teve contato com **Duna**, pode ter percebido algumas semelhanças curiosas. Acredite, isso não é coincidência. George Lucas, criador do universo de Star Wars, se inspirou bastante no livro de **Frank Herbert** para moldar sua famosa galáxia muito, muito distante. Vamos entender como esses dois universos se conectam?
+Já teve aquela sensação de que já viu uma história antes, mesmo sendo um mundo completamente diferente? Se você é fã de **Star Wars** e já teve contato com **Duna**, pode ter percebido algumas semelhanças curiosas. Acredite, isso não é coincidência. George Lucas, criador do universo de Star Wars, se inspirou bastante no livro de **Frank Herbert** para moldar sua famosa galáxia muito, muito distante. Vamos entender como esses dois universos se conectam?
 
 ## Do deserto nasceu um império
 

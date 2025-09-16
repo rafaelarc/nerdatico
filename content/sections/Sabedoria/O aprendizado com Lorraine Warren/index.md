@@ -1,11 +1,11 @@
 ---
 title: "Lições de coragem de Lorraine Warren para superar o medo"
 date: 2025-09-02
-description: "Descubra as lições de coragem, fé e intuição de Lorraine Warren e como aplicá-las para superar o medo."
-tags: ["sabedoria", "terror"]
-keywords: ["Lorraine Warren", "coragem", "medo", "intuição", "fé"]
+tags: ["sabedoria", "filmes"]
+keywords: ["Lorraine Warren", "coragem", "medo", "intuição", "terror"]
 image: "lorraine-warren.webp"
 slug: "o-aprendizado-com-lorraine-warren"
+description: "Descubra as lições de coragem, fé e intuição de Lorraine Warren e como aplicá-las para superar o medo."
 ---
 
 Quem nunca se pegou com medo do escuro, daquele barulho estranho em casa ou mesmo de situações da vida que parecem maiores do que nós? Se tem uma pessoa que enfrentou o medo de frente e em muitos casos, literalmente foi Lorraine Warren. Conhecida mundialmente por seu trabalho como investigadora paranormal ao lado do marido Ed Warren, Lorraine nos deixou um legado que vai além dos filmes de terror. Ela nos ensinou lições valiosas sobre como enfrentar nossos próprios fantasmas, sejam eles reais ou internos.

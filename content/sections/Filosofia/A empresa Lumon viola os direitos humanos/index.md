@@ -1,7 +1,7 @@
 ---
 title: "A empresa Lumon viola os direitos humanos?"
 date: 2025-09-11
-tags: ["filosofia"]
+tags: ["filosofia", "series"]
 image: "Mr-Milchick-Severance.webp"
 slug: "a-empresa-lumon-viola-os-direitos-humanos"
 ---

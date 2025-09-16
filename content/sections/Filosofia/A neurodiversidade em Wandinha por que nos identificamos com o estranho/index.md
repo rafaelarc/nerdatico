@@ -1,7 +1,7 @@
 ---
 title: "A neurodiversidade em Wandinha: por que nos identificamos com o estranho?"
 date: 2025-08-28
-tags: ["filosofia"]
+tags: ["filosofia", "series"]
 image: "Wednesday.webp"
 slug: "a-neurodiversidade-em-wandinha-por-que-nos-identificamos-com-o-estranho"
 ---

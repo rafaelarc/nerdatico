@@ -1,7 +1,7 @@
 ---
 title: "O escudo do Capitão América desrespeita as leis da física?"
 date: 2025-07-17
-tags: ["ciência", "marvel"]
+tags: ["ciencia", "marvel"]
 image: "captain-america.webp"
 slug: "o-escudo-do-capitao-america-desrespeita-as-leis-da-fisica"
 ---

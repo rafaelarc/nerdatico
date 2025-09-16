@@ -1,7 +1,7 @@
 ---
 title: "House of the Dragon: é possível governar sem queimar tudo?"
 date: 2025-06-12
-tags: ["filosofia"]
+tags: ["filosofia", "series"]
 image: "vermithor.webp"
 slug: "house-of-the-dragon-e-possivel-governar-sem-queimar-tudo"
 ---

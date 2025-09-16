@@ -1,7 +1,7 @@
 ---
 title: "Katniss é uma heroína ou apenas um símbolo manipulado?"
 date: 2025-05-13
-tags: ["filosofia"]
+tags: ["filosofia", "filmes"]
 image: "katniss-everdeen.webp"
 slug: "katniss-e-uma-heroina-ou-apenas-um-simbolo-manipulado"
 ---

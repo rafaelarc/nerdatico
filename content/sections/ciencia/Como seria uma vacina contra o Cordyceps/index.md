@@ -50,6 +50,8 @@ Nem tudo está perdido. A biotecnologia atual também caminha para soluções al
 *   **Terapias com anticorpos:** usar anticorpos sintéticos que reconhecem e neutralizam partes do fungo.
 *   **Modulação genética:** editar genes humanos para aumentar a resistência a infecções algo que a série até sugere como origem da imunidade da Ellie.
 
+**+ Leia mais:** [Como seria o final de The Last of Us se Joel tivesse contado a verdade para Ellie?](https://nerdatico.com.br/como-seria-o-final-de-the-last-of-us-se-joel-tivesse-contado-a-verdade-para-ellie/)
+
 ## O caso da Ellie: ficção ou ciência?
 
 Em **The Last of Us**, a personagem Ellie é imune ao Cordyceps. Onde sugere que ela carrega o fungo em uma versão inofensiva, o que engana o fungo verdadeiro e impede uma infecção real. Essa ideia lembra muito o princípio de vacinas com vírus atenuados algo que usamos para outras doenças reais, como febre amarela ou sarampo.

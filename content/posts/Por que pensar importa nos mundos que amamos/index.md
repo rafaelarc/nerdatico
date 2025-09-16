@@ -10,7 +10,7 @@ Entre viagens no tempo, sabres de luz, clones e dragões, há algo que sempre me
 
 Criei o Nerdático porque acredito que a cultura nerd é mais do que entretenimento: é um parque de diversões para o pensamento. Aqui, a gente explora mundos fictícios com ferramentas reais ciência, filosofia, lógica mas sem perder o senso de humor, o espírito lúdico, nem a curiosidade de quem cresceu se perguntando “e se...?”.
 
-Este site é para quem se diverte quebrando as regras de um universo só para ver se ele ainda se sustenta. Para quem quer discutir moralidade em *The Last of Us* e, no minuto seguinte, calcular quantas calorias o Goku precisaria ingerir por dia. É pra quem leva ideias a sério, mas não se leva tanto assim.
+Este blog é para quem se diverte quebrando as regras de um universo só para ver se ele ainda se sustenta. Para quem quer discutir moralidade em *The Last of Us* e, no minuto seguinte, calcular quantas calorias o Goku precisaria ingerir por dia. É pra quem leva ideias a sério, mas não se leva tanto assim.
 
 O Nerdático não promete respostas definitivas promete perguntas boas e viagens interessantes. Brincar com lógica, imaginar realidades, desafiar o roteiro com um olhar mais atento.
 

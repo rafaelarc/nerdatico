@@ -2,9 +2,9 @@
 title: "Deuses ou Humanos? O Dilema Moral dos X-Men"
 date: 2025-07-08
 tags: ["filosofia", "marvel"]
+keywords: ["xmen"]
 image: "xmen.webp"
 slug: "deuses-ou-humanos-o-dilema-moral-dos-x-men"
-keywords: ["xmen"]
 ---
 
 Quem curte histórias em quadrinhos já se deparou com esse dilema: **os X-Men são heróis ou ameaças?** Superpoderosos, eles enfrentam não apenas vilões, mas também o preconceito da própria sociedade que juram proteger.

@@ -1,7 +1,7 @@
 ---
 title: "5 vezes que os vilões dos games tinham razão"
 date: 2025-08-12
-tags: ["filosofia"]
+tags: ["filosofia", "gaming"]
 image: "ArthasSpotlight.webp"
 slug: "5-vezes-que-os-viloes-dos-games-tinham-razao"
 ---

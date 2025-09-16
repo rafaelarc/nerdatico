@@ -80,4 +80,4 @@ Mesmo sem levantar peso ou fazer flexão, **Mario é um verdadeiro exemplo de pr
 
 Agora você já sabe: jogar Mario não é só nostalgia é quase uma aula de fisiologia em movimento… pelo menos se for o próprio encanador que estiver fazendo todo esse esforço!
 
-Até a próxima fase! 🎮💪
+Até a próxima fase!

@@ -1,7 +1,7 @@
 ---
 title: "George R. R. Martin entregou o final ou se arrependeu?"
 date: 2025-07-03
-tags: ["nerdverso"]
+tags: ["nerdverso", "series"]
 image: "game-of-thrones.webp"
 slug: "george-martin-entregou-o-final-ou-se-arrependeu"
 ---
