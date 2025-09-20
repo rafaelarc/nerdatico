@@ -89,5 +89,4 @@ Que você escolha o caminho do foco, jovem Padawan. E que a Força te acompanhe 
 ### Quer saber mais?
 
 *   **[O Poder do Agora – Eckhart Tolle](https://amzn.to/4d2PqSZ)**
-*   **“A Arte da Guerra para Não Guerreiros” – Taisen Deshimaru**
 *   **[Headspace: app de meditação guiada](https://www.headspace.com/pt)**

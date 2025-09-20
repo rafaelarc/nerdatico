@@ -74,7 +74,6 @@ Jean-Luc Picard pode ser um personagem de ficção, mas as lições que ele deix
 
 ### Quer saber mais?
 
-*   _Star Trek: The Next Generation (série) – Especialmente episódios como “Darmok”, “The Measure of a Man” e “The Drumhead”_
-*   _Liderança com Empatia: artigos da Harvard Business Review e TED Talks sobre escuta ativa e liderança compassiva_
+*   Star Trek: The Next Generation (série) – Especialmente episódios como “Darmok”, “The Measure of a Man” e “The Drumhead”
 
 E você, já aplicou alguma dessas lições na sua vida? Que outro personagem geek inspira o seu jeito de liderar? **Conta pra gente nos comentários!**
