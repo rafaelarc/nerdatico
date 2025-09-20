@@ -84,7 +84,7 @@ Então, enquanto o mundo da ciência caminha devagar (e com responsabilidade), a
 
 ### Quer saber mais?
 
-*   [Fundação Oswaldo Cruz (Fiocruz)](https://www.org.br/) – Informações sobre venenos e picadas
+*   Fundação Oswaldo Cruz (Fiocruz) – Informações sobre venenos e picadas
 *   [Comissão Nacional de Energia Nuclear (CNEN)](https://www.cnen.gov.br/) – Tudo sobre radiação e segurança
 *   [Sociedade Brasileira de Genética](https://www.sbg.org.br/) – Genética de forma simples
 *   [Brasil Escola – Aranhas: tipos e curiosidades](https://brasilescola.uol.com.br/biologia/aranhas.htm)

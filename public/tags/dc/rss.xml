@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC on Nerdático</title>
+    <link>http://localhost:1313/tags/dc/</link>
+    <description>Recent content in DC on Nerdático</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dc/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>O Batman é ético ao não matar o Coringa?</title>
+        <link>http://localhost:1313/o-batman-e-etico-ao-nao-matar-o-coringa/</link>
+        <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/o-batman-e-etico-ao-nao-matar-o-coringa/</guid>
+
+        <enclosure url="http://localhost:1313/o-batman-e-etico-ao-nao-matar-o-coringa/coringa.webp" length="0" type="image/webp"/><description>&lt;p&gt;Essa é uma pergunta que já tirou o sono de muitos fãs de quadrinhos, filósofos e até psicólogos: &lt;strong&gt;será que o Batman está certo em nunca matar o Coringa?&lt;/strong&gt; Mesmo depois de tantas mortes, tentativas de destruição em massa e sofrimento causado? Será que essa insistência em não tirar uma vida é moralmente justa ou na verdade é uma forma de negligência disfarçada de justiça?&lt;/p&gt;</description>
+</item>
+  </channel>
+</rss>
