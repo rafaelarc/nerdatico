@@ -42,7 +42,7 @@ Quem já entrou num shopping ou supermercado e foi recebido por **portas que se 
 
 Parece simples hoje, mas nos anos 60 isso era tecnologia de outro planeta! Aliás, na série, essas portas muitas vezes eram empurradas por pessoas fora de cena porque a automação ainda não existia. Tá aí um caso em que a ficção deu um empurrãozinho na engenharia.
 
-**+ Leia mais:** [Matrix é mesmo sobre tecnologia ou sobre religião?](https://nerdatico.com.br/matrix-e-mesmo-sobre-tecnologia-ou-sobre-religiao/)
+**+ Leia mais:** [Matrix é mesmo sobre tecnologia ou sobre religião?](/matrix-e-mesmo-sobre-tecnologia-ou-sobre-religiao/)
 
 ## 5. A IA Médica e o Doutor Holográfico
 

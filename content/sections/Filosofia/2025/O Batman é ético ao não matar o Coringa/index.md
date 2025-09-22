@@ -20,7 +20,7 @@ A base de todo o debate sobre a ética do Batman está em sua regra de ouro: **e
 
 A lógica do Batman é clara: **ele acredita na justiça, não na vingança**. Para ele, quebrar esse código significaria cruzar uma linha que ele talvez nunca mais consiga desfazer. É como se o símbolo do morcego deixasse de representar esperança e virasse só mais um justiceiro violento.
 
-**+ Leia mais::** [Quanto custa ser o Batman?](https://nerdatico.com.br/quanto-custa-ser-o-batman/)
+**+ Leia mais:** [Quanto custa ser o Batman?](/quanto-custa-ser-o-batman/)
 
 ## O Dilema Ético: Deontologia vs. Utilitarismo
 

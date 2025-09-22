@@ -50,4 +50,4 @@ Estes termos são regidos pelas leis da República Federativa do Brasil.
 
 ## 7. Contato
 
-Se você tiver qualquer dúvida sobre estes Termos de Uso, por favor, entre em contato conosco através da nossa página de [Contato](https://nerdatico.com.br/contact).
+Se você tiver qualquer dúvida sobre estes Termos de Uso, por favor, entre em contato conosco através da nossa página de [Contato](/contact).

@@ -31,7 +31,7 @@ Imagina só se Thanos tivesse usado as Joias do Infinito para criar uma **fonte 
 
 Ou seja, ao invés de remover metade da população, Thanos poderia ter removido o **problema principal: a escassez**.
 
-**+ Leia mais:** [Thanos: ecologista radical ou vilão com discurso ecológico?](https://nerdatico.com.br/thanos-e-um-ecologista-radical-ou-so-vilao-com-um-bom-discurso/)
+**+ Leia mais:** [Thanos: ecologista radical ou vilão com discurso ecológico?](/thanos-e-um-ecologista-radical-ou-so-vilao-com-um-bom-discurso/)
 
 ## A Mentalidade de Thanos: Por que Destruir em Vez de Criar?
 

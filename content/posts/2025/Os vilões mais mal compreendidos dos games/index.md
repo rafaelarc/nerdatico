@@ -48,7 +48,7 @@ O triste? Ele nunca foi um vilão de coração. Foi alguém que **pretendia prot
 *   **Boas intenções nem sempre justificam os meios**
 *   **Às vezes, o medo de falhar pode ser o que destrói um herói**
 
-**+ Leia mais:** [Os easter eggs mais filosóficos dos jogos da FromSoftware](https://nerdatico.com.br/os-easter-eggs-mais-filosoficos-dos-jogos-da-fromsoftware/)
+**+ Leia mais:** [Os easter eggs mais filosóficos dos jogos da FromSoftware](/os-easter-eggs-mais-filosoficos-dos-jogos-da-fromsoftware/)
 
 ## GLaDOS (Portal): A IA que é Produto de Seus Criadores
 
@@ -78,7 +78,7 @@ Ela aceitou ser odiada e morrer como traidora para manter a frágil paz mundial.
 *   **Nem tudo é preto no branco o cinza costuma ter mais verdade**
 *   **Um “vilão” pode ser o herói mais corajoso de todos**
 
-**+ Leia mais:** [Como aplicar o “modo stealth” dos games na vida real](https://nerdatico.com.br/como-aplicar-o-modo-stealth-dos-games-na-vida-real/)
+**+ Leia mais:** [Como aplicar o “modo stealth” dos games na vida real](/como-aplicar-o-modo-stealth-dos-games-na-vida-real/)
 
 ## Por que nos Conectamos com Vilões Complexos?
 

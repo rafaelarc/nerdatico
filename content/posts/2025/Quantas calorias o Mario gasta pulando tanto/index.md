@@ -38,7 +38,7 @@ Em média, uma fase em um jogo clássico como **Super Mario Bros.** leva de 90 s
 
 Mario provavelmente gasta umas **16 a 24 calorias por fase**, se considerarmos o esforço de correr e pular (algo entre o gasto de uma atividade ente moderada e intensa). Se ele joga por uma hora (como muita gente faz), a estimativa de gasto calórico pode chegar a **500 a 700 calorias ou mais**! É como uma boa sessão de spinning na academia.
 
-**+ Leia mais:** [Qual seria a dieta ideal de um saiyajin?](https://nerdatico.com.br/qual-seria-a-dieta-ideal-de-um-saiyajin/)
+**+ Leia mais:** [Qual seria a dieta ideal de um saiyajin?](/qual-seria-a-dieta-ideal-de-um-saiyajin/)
 
 ## A Matemática por Trás dos Pulos do Mario
 

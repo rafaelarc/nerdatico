@@ -28,7 +28,7 @@ Lembra dos vídeos de propaganda do Distrito 13, mostrando Katniss como a "Tordo
 
 Esse tipo de manipulação lembra muito o que vemos na política do mundo real. Quem nunca viu um candidato usar uma causa nobre para ganhar simpatia, mesmo que não represente aquilo de verdade? É como se estivessem vestindo uma camisa que não é deles, só pra agradar a torcida.
 
-**+ Leia mais:** [Snape é herói, vilão ou mártir?](https://nerdatico.com.br/snape-e-heroi-vilao-ou-martir/)
+**+ Leia mais:** [Snape é herói, vilão ou mártir?](/snape-e-heroi-vilao-ou-martir/)
 
 ## Agência vs. Manipulação: Katniss Tinha Escolha?
 

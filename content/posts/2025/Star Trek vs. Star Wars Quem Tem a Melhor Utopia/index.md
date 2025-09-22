@@ -33,7 +33,7 @@ Star Trek se passa centenas de anos no futuro, quando a Terra já não tem probl
 
 Ou seja, Star Trek aposta na ideia de que, apesar de todos os nossos problemas atuais, a humanidade pode evoluir e construir um futuro em que o **conhecimento, a empatia e a colaboração são os pilares da sociedade**.
 
-**+ Leia mais::** [7 tecnologias do Star Trek que viraram realidade](https://nerdatico.com.br/7-tecnologias-do-star-trek-que-viraram-realidade/)
+**+ Leia mais:** [7 tecnologias do Star Trek que viraram realidade](/7-tecnologias-do-star-trek-que-viraram-realidade/)
 
 ### Mas nem tudo são flores…
 
@@ -61,7 +61,7 @@ Na real, **não é uma utopia**. O universo de Star Wars é cheio de **autoritar
 
 Muitos fãs gostam dessa abordagem mais "realista" e cheia de altos e baixos. Mas convenhamos: viver lá não seria nada tranquilo.
 
-**+ Leia mais::** [A ética dos clones em Star Wars: são soldados ou escravos?](https://nerdatico.com.br/a-etica-dos-clones-em-star-wars-sao-soldados-ou-escravos/)
+**+ Leia mais:** [A ética dos clones em Star Wars: são soldados ou escravos?](/a-etica-dos-clones-em-star-wars-sao-soldados-ou-escravos/)
 
 ## O Duelo das Utopias: Star Trek vs. Star Wars, Ponto a Ponto
 

@@ -30,7 +30,7 @@ Para entender se **Wolverine sente dor ao se regenerar**, precisamos primeiro co
 
 Ou seja, **sentir dor não acontece no local do machucado, mas no cérebro**. E como o Wolverine possui um corpo humano com cérebro e tudo mais é lógico assumir que ele também sente dor.
 
-**+ Leia mais::** [Deuses ou Humanos? O Dilema Moral dos X-Men](https://nerdatico.com.br/deuses-ou-humanos-o-dilema-moral-dos-x-men/)
+**+ Leia mais:** [Deuses ou Humanos? O Dilema Moral dos X-Men](/deuses-ou-humanos-o-dilema-moral-dos-x-men/)
 
 ### Mas se ele regenera tão rápido, dá tempo de sentir alguma coisa?
 

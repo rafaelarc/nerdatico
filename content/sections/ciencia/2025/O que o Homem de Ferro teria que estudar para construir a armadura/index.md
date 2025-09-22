@@ -45,7 +45,7 @@ Não dá pra falar de Tony Stark sem mencionar o J.A.R.V.I.S. (e depois o F.R.I.
 
 Tá aí um bom motivo pra não pular aquela aula de lógica de programação...
 
-**+ Leia mais:** [O escudo do Capitão América desrespeita as leis da física?](https://nerdatico.com.br/o-escudo-do-capitao-america-desrespeita-as-leis-da-fisica/)
+**+ Leia mais:** [O escudo do Capitão América desrespeita as leis da física?](/o-escudo-do-capitao-america-desrespeita-as-leis-da-fisica/)
 
 ## 4. Química e nanotecnologia: a energia do Homem de Ferro
 

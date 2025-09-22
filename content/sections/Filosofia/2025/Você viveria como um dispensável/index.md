@@ -22,7 +22,7 @@ Assim como em **Mickey 17**, o mundo gamer está repleto de experiências que no
 
 No jogo de Hideo Kojima, você é Sam Porter Bridges, um entregador num mundo pós-apocalíptico, solitário e destruído. Apesar de parecer mais um "simulador de carregar caixas" à primeira vista, o jogo narra o peso de cada vida e de cada conexão. A morte aqui tem consequências físicas e sociais, afetando o ambiente e a narrativa. E quando você morre... seu corpo vira uma bomba. Literalmente. Não dá pra ser substituído. Cada um é único. Mas dá pra sentir o contraste: em Mickey 17, morrer faz parte do cronograma. Já em Death Stranding, morrer tem um impacto devastador.
 
-**+ Leia mais::** [Como criar um código de ética para seres imortais?](https://nerdatico.com.br/como-criar-um-codigo-de-etica-para-seres-imortais/)
+**+ Leia mais:** [Como criar um código de ética para seres imortais?](/como-criar-um-codigo-de-etica-para-seres-imortais/)
 
 ### NieR: Automata e a Crise de Identidade dos Clones
 
@@ -44,7 +44,7 @@ Em **Returnal**, você é a piloto Selene, presa num ciclo tenso de morte e reco
 
 A ficção científica serve como um espelho, e **Mickey 17** é uma metáfora poderosa sobre a busca por identidade e propósito em um mundo que nos desvaloriza. Mickey 17 é uma metáfora poderosa sobre **autoestima, identidade e propósito**. Ele nos obriga a pensar: se você fosse clonado a cada vez que morresse, o que realmente faria de você... você? Nos jogos, normalmente controlamos personagens que têm múltiplas vidas. Mas parar pra refletir sobre isso é um exercício intrigante. Se os games são espelhos da sociedade, será que estamos mesmo tão distantes de um mundo onde as pessoas se tornam apenas mais um número?
 
-**+ Leia mais:** [O que aconteceria com um cérebro dividido como em Ruptura?](https://nerdatico.com.br/o-que-aconteceria-com-um-cerebro-dividido-como-em-ruptura/)
+**+ Leia mais:** [O que aconteceria com um cérebro dividido como em Ruptura?](/o-que-aconteceria-com-um-cerebro-dividido-como-em-ruptura/)
 
 ## Por Que a Unicidade é o Nosso Maior Valor
 

@@ -44,7 +44,7 @@ Vaas foi manipulado, explorado, e acabou entrando num ciclo de violência e louc
 
 Claro, ele comete atos terríveis. Mas, dentro do contexto em que ele foi criado, você consegue entender como ele chegou até aquele ponto. **Muitas vezes, o vilão é só alguém que perdeu a esperança e essa é a verdadeira tragédia.**
 
-**+ Leia mais:** [Os vilões mais mal compreendidos dos games](https://nerdatico.com.br/os-viloes-mais-mal-compreendidos-dos-games/)
+**+ Leia mais:** [Os vilões mais mal compreendidos dos games](/os-viloes-mais-mal-compreendidos-dos-games/)
 
 ## 4. GLaDOS (Portal): A Inteligência Artificial que Só Cumpria Ordens
 

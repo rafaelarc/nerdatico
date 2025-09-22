@@ -43,7 +43,7 @@ Em 2025, o preço do aço gira em torno de:
 
 Isso tudo só em aço. Sem contar sistemas de propulsão, armamento planetário, escudos de energia ou o salário dos stormtroopers.
 
-**+ Leia mais:** [A Estrela da Morte tinha saídas de emergência?](https://nerdatico.com.br/a-estrela-da-morte-tinha-saidas-de-emergencia/)
+**+ Leia mais:** [A Estrela da Morte tinha saídas de emergência?](/a-estrela-da-morte-tinha-saidas-de-emergencia/)
 
 ### E se usássemos outros materiais?
 

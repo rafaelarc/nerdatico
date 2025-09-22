@@ -38,7 +38,7 @@ Essas características fazem muitas pessoas neurodivergentes se enxergarem nela.
 
 E não precisa ser diagnosticado com algo para se sentir "diferente". Basta já ter sentido, em algum momento da vida, que você não se encaixava. E vamos combinar? Muitos de nós já nos sentimos assim.
 
-**+ Leia mais:** [Deuses ou Humanos? O Dilema Moral dos X-Men](https://nerdatico.com.br/deuses-ou-humanos-o-dilema-moral-dos-x-men/)
+**+ Leia mais:** [Deuses ou Humanos? O Dilema Moral dos X-Men](/deuses-ou-humanos-o-dilema-moral-dos-x-men/)
 
 ## A Força do "Estranho": De Wandinha a Luna Lovegood
 

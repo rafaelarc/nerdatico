@@ -41,7 +41,7 @@ Pensa comigo: desde o começo do jogo, ela é motivada pelo desejo de encontrar 
 
 Ao contar a verdade, Joel basicamente coloca essa escolha nas mãos de Ellie. E conhecendo o espírito dela teimosa, corajosa e, acima de tudo, altruísta é bem provável que ela teria voltado para os Vagalumes. Mesmo com medo. Mesmo com Joel implorando para não ir.
 
-**+ Leia mais:** [Como seria uma vacina contra o Cordyceps?](https://nerdatico.com.br/como-seria-uma-vacina-contra-o-cordyceps/)
+**+ Leia mais:** [Como seria uma vacina contra o Cordyceps?](/como-seria-uma-vacina-contra-o-cordyceps/)
 
 ## Como a Verdade Mudaria a História de The Last of Us Part II?
 
@@ -80,7 +80,6 @@ A resposta, como sempre, está nos olhos de quem joga. E isso é o mais bonito d
 ### Quer saber mais?
 
 *   [The Last of Us – Jogo oficial](https://www.playstation.com/pt-br/games/the-last-of-us-part-i/)
-*   [Os melhores jogos da Naughty Dog](https://nerdatico.com.br/melhores-jogos-da-naughty-dog)
 *   [The Last of Us – Série da HBO](https://www.hbo.com/the-last-of-us)
 
 Curtiu essa reflexão? Compartilha com aquela pessoa que também ama esse jogão e deixa sua opinião aqui nos comentários. Teve algum final alternativo que você imaginou? A gente quer saber!

@@ -48,7 +48,7 @@ Na física real, é praticamente impossível replicar o que o escudo do Capitão
 
 Mas calma! Isso não quer dizer que os roteiristas erraram ou que os filmes perderam a graça. Muito pelo contrário! Esse toque quase mágico do escudo é justamente o que faz o personagem ser tão icônico.
 
-**+ Leia mais:** [Quanto pesa o Mjolnir na Terra (e em outros planetas)?](https://nerdatico.com.br/quanto-pesa-o-mjolnir-na-terra/)
+**+ Leia mais:** [Quanto pesa o Mjolnir na Terra (e em outros planetas)?](/quanto-pesa-o-mjolnir-na-terra/)
 
 ### O Papel do Vibranium na Física do Escudo
 

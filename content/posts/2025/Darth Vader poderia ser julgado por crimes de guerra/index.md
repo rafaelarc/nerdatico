@@ -57,7 +57,7 @@ No Tribunal de Nuremberg, após a Segunda Guerra Mundial, vários oficiais nazis
 
 Ou seja, se Darth Vader fosse levado a julgamento, a desculpa de “estava só cumprindo ordens” **não ia colar**.
 
-**+ Leia mais:** [5 vezes que os vilões dos games tinham razão](https://nerdatico.com.br/5-vezes-que-os-viloes-dos-games-tinham-razao/)
+**+ Leia mais:** [5 vezes que os vilões dos games tinham razão](/5-vezes-que-os-viloes-dos-games-tinham-razao/)
 
 ## A Redenção Final: Isso Anularia os Crimes de Guerra?
 

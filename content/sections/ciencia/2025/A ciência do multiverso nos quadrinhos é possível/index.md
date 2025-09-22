@@ -26,7 +26,7 @@ Vamos simplificar: imagina que você está jogando uma partida de futebol com se
 
 Nos filmes da Marvel, como em **Doutor Estranho no Multiverso da Loucura**, o multiverso é retratado como uma série de realidades que coexistem e podem até se misturar. Tem universo zumbi, universo onde o Tony Stark vive, o Thanos é bonzinho e por aí vai. Mas será que isso tem alguma base científica? Bom, mais ou menos. A ideia de realidades alternativas bate com a teoria de Hugh Everett, mas o modo como essas interações acontecem nos filmes é bem fantasioso. Viagens entre universos, portais e versões alternativas se encontrando têm mais a ver com liberdade criativa do que com ciência real. Mas a verdade é que, **como ainda não conseguimos provar nem que existem universos paralelos**, não dá pra dizer que é impossível.
 
-**+ Leia mais:** [O multiverso anula o livre-arbítrio?](https://nerdatico.com.br/o-multiverso-anula-o-livre-arbitrio/)
+**+ Leia mais:** [O multiverso anula o livre-arbítrio?](/o-multiverso-anula-o-livre-arbitrio/)
 
 ## O Multiverso da DC: Décadas de Realidades Paralelas
 

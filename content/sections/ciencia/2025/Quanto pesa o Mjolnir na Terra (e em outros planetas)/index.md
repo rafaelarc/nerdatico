@@ -22,7 +22,7 @@ Nos quadrinhos da Marvel, o Mjolnir foi forjado com um metal mágico chamado Uru
 
 Antes de começarmos a comparar o peso do martelo em diferentes lugares, precisamos lembrar de um detalhe importante. O **peso** de um objeto depende da **gravidade do planeta ou corpo celeste onde ele está**. Enquanto a **massa** do Mjolnir é constante (sempre a mesma em qualquer lugar), o peso muda de acordo com a força gravitacional local. Em outras palavras: o martelo pode ser leve na Lua e absurdamente pesado em Júpiter e não mudou nada nele!
 
-**+ Leia mais:** [A força de um sabre de luz seria possível com tecnologia atual?](https://nerdatico.com.br/a-forca-de-um-sabre-de-luz-seria-possivel-com-tecnologia-atual/)
+**+ Leia mais:** [A força de um sabre de luz seria possível com tecnologia atual?](/a-forca-de-um-sabre-de-luz-seria-possivel-com-tecnologia-atual/)
 
 ## Fórmula rapidinha (mas sem dor de cabeça):
 

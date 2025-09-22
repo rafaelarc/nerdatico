@@ -38,7 +38,7 @@ Em posts e entrevistas, Martin garantiu que os livros vão incluir:
 
 Pra quem acompanha os livros, isso é empolgante! Afinal, muitos arcos importantes, como o do jovem Griff ou de Lady Stoneheart, foram cortados na série. Será que eles vão fazer toda a diferença no final “verdadeiro”?
 
-**+ Leia mais:** [House of the Dragon: é possível governar sem queimar tudo?](https://nerdatico.com.br/house-of-the-dragon-e-possivel-governar-sem-queimar-tudo/)
+**+ Leia mais:** [House of the Dragon: é possível governar sem queimar tudo?](/house-of-the-dragon-e-possivel-governar-sem-queimar-tudo/)
 
 ## A Pressão dos Fãs e a Oportunidade de Corrigir o Rumo
 

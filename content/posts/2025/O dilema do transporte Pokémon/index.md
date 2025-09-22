@@ -38,7 +38,7 @@ Já ouviu falar em "TARDIS"? No universo de Doctor Who, é uma cabine telefônic
 
 Aliás, será que o Snorlax tem uma caminha por lá?
 
-**+ Leia mais:** [Sabia que o criador de Akira influenciou o visual do Cyberpunk 2077?](https://nerdatico.com.br/sabia-que-o-criador-de-akira-influenciou-o-visual-do-cyberpunk-2077/)
+**+ Leia mais:** [Sabia que o criador de Akira influenciou o visual do Cyberpunk 2077?](/sabia-que-o-criador-de-akira-influenciou-o-visual-do-cyberpunk-2077/)
 
 ## O Desafio Snorlax: O Limite da Tecnologia Pokémon
 

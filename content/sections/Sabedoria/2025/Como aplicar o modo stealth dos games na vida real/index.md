@@ -29,7 +29,7 @@ Não estamos dizendo que você precisa virar um agente secreto da vida. Mas em c
 
 Sabe aquela expressão “comer quieto”? Então, ela é puro modo stealth!
 
-**+ Leia mais:** [Como aplicar o método Jedi de foco no dia a dia](https://nerdatico.com.br/como-aplicar-o-metodo-jedi-de-foco-no-dia-a-dia/)
+**+ Leia mais:** [Como aplicar o método Jedi de foco no dia a dia](/como-aplicar-o-metodo-jedi-de-foco-no-dia-a-dia/)
 
 ## Passo 1: Observe como um gamer no modo stealth
 

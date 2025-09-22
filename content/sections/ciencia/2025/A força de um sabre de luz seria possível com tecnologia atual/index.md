@@ -35,7 +35,7 @@ Boa tentativa, jovem padawan. Quando pensamos em "luz", logo vem o laser na cabe
 
 Então, só com laser a coisa já começa a perder aquele glamour.
 
-**+ Leia mais::** [O que o Homem de Ferro teria que estudar para construir a armadura?](https://nerdatico.com.br/o-que-o-homem-de-ferro-teria-que-estudar-para-construir-a-armadura/)
+**+ Leia mais:** [O que o Homem de Ferro teria que estudar para construir a armadura?](/o-que-o-homem-de-ferro-teria-que-estudar-para-construir-a-armadura/)
 
 ## A Teoria do Plasma: A Solução Mais Próxima da Realidade
 

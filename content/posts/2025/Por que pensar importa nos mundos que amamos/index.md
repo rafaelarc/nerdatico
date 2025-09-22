@@ -4,6 +4,8 @@ date: 2025-04-27
 tags: ["nerdverso"]
 image: "pensamento.jpg"
 slug: "por-que-pensar-importa-nos-mundos-que-amamos"
+keywords: ["Nerdático", "blog de cultura nerd", "filosofia e ciência nos games e filmes"]
+description: "Nerdático: um convite para pensar sobre os mundos que amamos. Análises de ciência e filosofia na cultura nerd!"
 ---
 
 Entre viagens no tempo, sabres de luz, clones e dragões, há algo que sempre me fascinou: a lógica por trás do impossível ou pelo menos, do quase impossível.

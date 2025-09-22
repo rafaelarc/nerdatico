@@ -33,7 +33,7 @@ Imagina só o Trevor preenchendo o programa da Receita:
 
 E aí vem o medo: **“Cair na malha fina!”**. Imagine o personagem tentando justificar um depósito de 500 mil dólares feito em 3 minutos, após estourar uma missão... Tudo isso sem recibo, sem PIX, e direto em cash!
 
-**+ Leia mais:** [Por que o mundo de The Witcher é tão cruel?](https://nerdatico.com.br/por-que-o-mundo-de-the-witcher-e-tao-cruel/)
+**+ Leia mais:** [Por que o mundo de The Witcher é tão cruel?](/por-que-o-mundo-de-the-witcher-e-tao-cruel/)
 
 ## A Fiscalização: A Receita Federal de Los Santos em Ação
 

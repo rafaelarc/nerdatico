@@ -32,7 +32,7 @@ Agora, junte a isso a **exposição à radiação**. O que acontece se uma aranh
 
 Ou seja: **você não vai escalar paredes**. A realidade mais provável seria… uma bela visita ao hospital.
 
-**+ Leia mais:** [Wolverine sentiria dor ao regenerar?](https://nerdatico.com.br/wolverine-sentiria-dor-ao-regenerar/)
+**+ Leia mais:** [Wolverine sentiria dor ao regenerar?](/wolverine-sentiria-dor-ao-regenerar/)
 
 ## Radiação no corpo humano: efeitos reais e perigos
 

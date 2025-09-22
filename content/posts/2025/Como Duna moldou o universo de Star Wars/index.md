@@ -32,7 +32,7 @@ Essa talvez seja a ligação mais impressionante entre Star Wars e Duna. As **Be
 
 Coincidência? Difícil. George Lucas até tentou comprar os direitos de Duna antes de criar Star Wars, mas como não conseguiu, decidiu construir sua própria mitologia claramente inspirada.
 
-**+ Leia mais:** [Darth Vader poderia ser julgado por crimes de guerra?](https://nerdatico.com.br/darth-vader-poderia-ser-julgado-por-crimes-de-guerra/)
+**+ Leia mais:** [Darth Vader poderia ser julgado por crimes de guerra?](/darth-vader-poderia-ser-julgado-por-crimes-de-guerra/)
 
 ## Messias, profecias e conflitos
 

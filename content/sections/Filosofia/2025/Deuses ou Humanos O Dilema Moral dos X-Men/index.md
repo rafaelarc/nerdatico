@@ -29,7 +29,7 @@ Se você já se sentiu excluído por ser diferente, dá pra se identificar fáci
 
 Mas aí começa o dilema maior: **quando você sofre discriminação, como deve reagir?** Buscar o diálogo, como faz o Professor Xavier? Ou se defender com força, como prefere o Magneto?
 
-**+ Leia mais::** [Magneto já salvou a humanidade (mais de uma vez)](https://nerdatico.com.br/magneto-ja-salvou-a-humanidade/)
+**+ Leia mais:** [Magneto já salvou a humanidade (mais de uma vez)](/magneto-ja-salvou-a-humanidade/)
 
 ## Xavier vs. Magneto: Duas Visões de Mundo em Conflito
 

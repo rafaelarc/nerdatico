@@ -87,4 +87,4 @@ Se quiser exercer qualquer desses direitos, entre em contato através do e-mail:
 Esta Política pode ser atualizada a qualquer momento, sem aviso prévio. Recomendamos que você a revise periodicamente.
 
 A versão mais recente estará sempre disponível em:  
-[https://nerdatico.com.br/politica-privacidade](https://nerdatico.com.br/politica-privacidade)
+[https://nerdatico.com.br/politica-privacidade](/politica-privacidade)

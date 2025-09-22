@@ -42,7 +42,7 @@ E vamos combinar: se Snape realmente se importava com Harry, como ele permitiu q
 
 Snape carregou mágoas da adolescência por décadas. É como aquele colega que guarda ressentimento desde o colégio e revive essas tretas para sempre. A diferença é que ele tinha uma varinha nas mãos e manipulava poções perigosas...
 
-**+ Leia mais:** [Thanos: ecologista radical ou vilão com discurso ecológico?](https://nerdatico.com.br/thanos-e-um-ecologista-radical-ou-so-vilao-com-um-bom-discurso/)
+**+ Leia mais:** [Thanos: ecologista radical ou vilão com discurso ecológico?](/thanos-e-um-ecologista-radical-ou-so-vilao-com-um-bom-discurso/)
 
 ## A Visão do Mártir: O Sacrifício Não Reconhecido
 

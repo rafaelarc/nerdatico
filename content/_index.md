@@ -5,4 +5,4 @@ date: 2020-03-25
 draft: false
 ---
 
-<!-- You can add a short description if you want -->
+Nerdático é um blog de curiosidades, ciência e filosofia aplicadas à cultura pop.

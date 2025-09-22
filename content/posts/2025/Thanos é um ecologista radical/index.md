@@ -28,7 +28,7 @@ O discurso ecológico de Thanos se apropria de preocupações reais, mas distorc
 
 Só que ele faz tudo isso da maneira mais extrema e **antiética** possível. Se você já teve aula de filosofia ou ecologia, já deve ter ouvido o termo **"[malthusianismo](https://pt.wikipedia.org/wiki/Teoria_populacional_malthusiana)"**. Thomas Malthus, lá no século XVIII, já falava que a população crescia mais rápido que os recursos. Mas até ele, que tinha previsões negativas, nunca propôs apagar pessoas da existência. O que Thanos faz é levar essa ideia ao extremo, de forma autoritária e **sem diálogo com o resto do universo**.
 
-**+ Leia mais::** [E se o Thanos tivesse desejado energia infinita em vez de apagar metade do universo?](https://nerdatico.com.br/e-se-o-thanos-tivesse-desejado-energia-infinita-em-vez-de-apagar-metade-do-universo/)
+**+ Leia mais:** [E se o Thanos tivesse desejado energia infinita em vez de apagar metade do universo?](/e-se-o-thanos-tivesse-desejado-energia-infinita-em-vez-de-apagar-metade-do-universo/)
 
 ### A Falha Central: Por que Não Criar Mais Recursos?
 

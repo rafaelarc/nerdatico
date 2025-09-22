@@ -36,7 +36,7 @@ Calma, não precisa se assustar com o termo! Vamos explicar:
 
 Por exemplo: o herói, a mãe, o sábio, a sombra. Esses personagens aparecem em quase todas as culturas e histórias. E em Sandman? Estão por toda parte.
 
-**+ Leia mais:** [Matrix é mesmo sobre tecnologia ou sobre religião?](https://nerdatico.com.br/matrix-e-mesmo-sobre-tecnologia-ou-sobre-religiao/)
+**+ Leia mais:** [Matrix é mesmo sobre tecnologia ou sobre religião?](/matrix-e-mesmo-sobre-tecnologia-ou-sobre-religiao/)
 
 ## Sandman Como um Palco Para os Arquétipos Junguianos
 

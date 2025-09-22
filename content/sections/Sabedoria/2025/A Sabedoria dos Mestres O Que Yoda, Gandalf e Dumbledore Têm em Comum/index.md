@@ -40,7 +40,7 @@ Por exemplo, Dumbledore deixa Harry tomar decisões difíceis mesmo sabendo dos 
 
 Aliás, quantas vezes você já teve um chefe ou professor que mais atrapalhava do que ajudava por não confiar em você? Esses personagens nos ensinam como a confiança transforma.
 
-**+ Leia mais:** [O que você pode aprender sobre liderança com o Capitão Picard](https://nerdatico.com.br/o-que-voce-pode-aprender-sobre-lideranca-com-o-capitao-picard/)
+**+ Leia mais:** [O que você pode aprender sobre liderança com o Capitão Picard](/o-que-voce-pode-aprender-sobre-lideranca-com-o-capitao-picard/)
 
 ## 4. A Sabedoria Nascida da Imperfeição
 

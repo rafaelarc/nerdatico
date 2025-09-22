@@ -26,7 +26,7 @@ Na teoria, parece um jeito de deixar os problemas do trabalho no escritório e r
 
 A gente até faz piada disso, quantas vezes já ouvimos “minha alma sai do corpo às 18h”? Mas o que a Lumon propõe passa dos limites da brincadeira. Aqui estamos falando de uma vida sem liberdade, sem escolhas e sem identidade completa.
 
-**+ Leia mais::** [O que aconteceria com um cérebro dividido como em Ruptura?](https://nerdatico.com.br/o-que-aconteceria-com-um-cerebro-dividido-como-em-ruptura/)
+**+ Leia mais:** [O que aconteceria com um cérebro dividido como em Ruptura?](/o-que-aconteceria-com-um-cerebro-dividido-como-em-ruptura/)
 
 ## A Lumon Viola os Direitos Humanos Fundamentais?
 

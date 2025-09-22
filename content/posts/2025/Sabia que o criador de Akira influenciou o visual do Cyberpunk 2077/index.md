@@ -35,7 +35,7 @@ Esses elementos estão tanto em Akira quanto em Cyberpunk 2077. Mas a influênci
 
 Segundo os próprios desenvolvedores da CD Projekt Red, o estúdio responsável por Cyberpunk 2077, Akira foi uma das maiores inspirações na construção visual de **Night City**. Dá pra ver isso na arquitetura brutalista, no uso das cores, nos efeitos de luz e até na maneira como os personagens se movimentam pela cidade.
 
-**+ Leia mais:** [A IA dos inimigos em jogos é mais humana do que parece?](https://nerdatico.com.br/a-ia-dos-inimigos-em-e-mais-humana-do-que-parece/)
+**+ Leia mais:** [A IA dos inimigos em jogos é mais humana do que parece?](/a-ia-dos-inimigos-em-e-mais-humana-do-que-parece/)
 
 ### O visual que definiu o gênero
 

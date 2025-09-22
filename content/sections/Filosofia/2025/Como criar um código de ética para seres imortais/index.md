@@ -22,7 +22,7 @@ Um ser imortal que decide manipular civilizações para seu próprio benefício,
 
 É aí que entra a ideia de um **código de ética imortal** um conjunto de princípios que guiem seres eternos por milênios, mesmo que o contexto histórico e social mude completamente.
 
-**+ Leia mais:** [A ética dos clones em Star Wars: são soldados ou escravos?](https://nerdatico.com.br/a-etica-dos-clones-em-star-wars-sao-soldados-ou-escravos/)
+**+ Leia mais:** [A ética dos clones em Star Wars: são soldados ou escravos?](/a-etica-dos-clones-em-star-wars-sao-soldados-ou-escravos/)
 
 ## Como começar a criar esse código? Vamos por partes:
 
