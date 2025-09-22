@@ -6,16 +6,8 @@
     <description>Recent content in Tags on Nerdático</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/rss.xml" rel="self" type="application/rss+xml" />
-    <item>
-        <title>Filosofia</title>
-        <link>http://localhost:1313/tags/filosofia/</link>
-        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/filosofia/</guid>
-
-        <description></description>
-</item>
     <item>
         <title>Nerdverso</title>
         <link>http://localhost:1313/tags/nerdverso/</link>
@@ -29,6 +21,14 @@
         <link>http://localhost:1313/tags/filmes/</link>
         <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
         <guid>http://localhost:1313/tags/filmes/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Filosofia</title>
+        <link>http://localhost:1313/tags/filosofia/</link>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/filosofia/</guid>
 
         <description></description>
 </item>

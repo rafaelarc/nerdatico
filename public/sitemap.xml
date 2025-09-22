@@ -3,41 +3,8 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/posts/</loc>
-	    <lastmod>2025-09-23T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
 	    <loc>http://localhost:1313/sections/filosofia/</loc>
-	    <lastmod>2025-09-22T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/tags/filosofia/</loc>
-	    <lastmod>2025-09-22T00:00:00&#43;00:00</lastmod>
-        
-
-        
-	  </url>
-	  
-  
-      
-      
-	  <url>
-	    <loc>http://localhost:1313/o-medo-do-invis%C3%ADvel/</loc>
-	    <lastmod>2025-09-22T00:00:00&#43;00:00</lastmod>
+	    <lastmod>2025-09-27T00:00:00&#43;00:00</lastmod>
         
 
         
@@ -48,7 +15,7 @@
       
 	  <url>
 	    <loc>http://localhost:1313/sections/</loc>
-	    <lastmod>2025-09-22T00:00:00&#43;00:00</lastmod>
+	    <lastmod>2025-09-27T00:00:00&#43;00:00</lastmod>
         
 
         
@@ -58,8 +25,8 @@
       
       
 	  <url>
-	    <loc>http://localhost:1313/tags/</loc>
-	    <lastmod>2025-09-22T00:00:00&#43;00:00</lastmod>
+	    <loc>http://localhost:1313/posts/</loc>
+	    <lastmod>2025-09-23T00:00:00&#43;00:00</lastmod>
         
 
         
@@ -91,7 +58,29 @@
       
       
 	  <url>
+	    <loc>http://localhost:1313/tags/</loc>
+	    <lastmod>2025-09-20T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
 	    <loc>http://localhost:1313/tags/filmes/</loc>
+	    <lastmod>2025-09-18T00:00:00&#43;00:00</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>http://localhost:1313/tags/filosofia/</loc>
 	    <lastmod>2025-09-18T00:00:00&#43;00:00</lastmod>
         
 
