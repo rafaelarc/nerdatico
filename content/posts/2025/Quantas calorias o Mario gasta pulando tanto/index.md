@@ -2,7 +2,7 @@
 title: "Quantas calorias o Mario gasta em uma fase do jogo?"
 date: 2025-09-23
 tags: ["nerdverso", "gaming"]
-image: "Mario-Bros.webp"
+image: "Super-Mario.webp"
 slug: "quantas-calorias-o-mario-gasta-em-fase-jogo"
 keywords: ["quantas calorias o Mario gasta", "ciência de Super Mario"]
 description: "Quantas calorias o Mario gasta em uma fase? Calculamos o gasto energético do encanador mais famoso dos games!"
@@ -56,7 +56,7 @@ Quem joga frequentemente sabe: **ficar agachado, esquivar, correr até pegar vel
 
 ## Esmagar Inimigos: Um Exercício de Pliometria
 
-![super-mario](Super-Mario.webp)
+![super-mario](Mario-Bros.webp)
 
 Vamos combinar: esmagar Goombas e Koopas não é trabalho pra qualquer um. Saltar na cabeça dos inimigos exige tempo certo, precisão e força nas pernas (e no bigode também, por que não?).
 
