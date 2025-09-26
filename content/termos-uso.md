@@ -1,6 +1,6 @@
 ---
 title: "Termos de Uso"
-date: 2025-08-27
+date: 2025-04-27
 draft: false
 layout: single2
 ---

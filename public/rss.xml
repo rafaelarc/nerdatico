@@ -6,8 +6,16 @@
     <description>Recent content on Nerdático</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>O medo do invisível</title>
+        <link>http://localhost:1313/o-medo-do-invis%C3%ADvel/</link>
+        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/o-medo-do-invis%C3%ADvel/</guid>
+
+        <enclosure url="http://localhost:1313/o-medo-do-invis%C3%ADvel/the-sixth-sense.webp" length="0" type="image/webp"/><description>&lt;p&gt;Um barulho no corredor escuro. Uma sombra que se move rápido demais. Os momentos mais arrepiantes do cinema de &lt;strong&gt;terror&lt;/strong&gt; raramente mostram o monstro. Em vez disso, eles exploram algo muito mais profundo e universal: o medo do invisível. Filmes como &lt;em&gt;O Sexto Sentido&lt;/em&gt; e &lt;em&gt;A Bruxa de Blair&lt;/em&gt; são mestres em provar que aquilo que não vemos é infinitamente mais assustador.&lt;/p&gt;</description>
+</item>
     <item>
         <title>Quantas calorias o Mario gasta em uma fase do jogo?</title>
         <link>http://localhost:1313/quantas-calorias-o-mario-gasta-em-fase-jogo/</link>
@@ -111,14 +119,6 @@
         <guid>http://localhost:1313/a-neurodiversidade-em-wandinha-por-que-nos-identificamos-com-o-estranho/</guid>
 
         <enclosure url="http://localhost:1313/a-neurodiversidade-em-wandinha-por-que-nos-identificamos-com-o-estranho/Wednesday.webp" length="0" type="image/webp"/><description>&lt;p&gt;Com seu humor ácido, aversão a abraços e um olhar que parece atravessar a alma, &lt;strong&gt;Wandinha Addams&lt;/strong&gt; se tornou um fenômeno cultural. Mas o sucesso da série da Netflix vai além do carisma sombrio; ela abriu uma conversa poderosa sobre &lt;strong&gt;neurodiversidade&lt;/strong&gt;, fazendo com que milhares de pessoas se sentissem vistas e representadas em sua forma única de ser e pensar.&lt;/p&gt;</description>
-</item>
-    <item>
-        <title>Termos de Uso</title>
-        <link>http://localhost:1313/termos-uso/</link>
-        <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/termos-uso/</guid>
-
-        <description>&lt;p&gt;Última atualização: &lt;strong&gt;27 de agosto de 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Bem-vindo(a) ao Nerdático!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ficamos felizes por você estar aqui. Para mantermos nossa comunidade um lugar incrível, seguro e respeitoso para todos os fãs da cultura geek e nerd, criamos algumas regras básicas. Ao acessar ou usar nosso site, você concorda em seguir os termos descritos abaixo.&lt;/p&gt;</description>
 </item>
     <item>
         <title>A conexão filosófica entre Sandman e Jung</title>
@@ -495,6 +495,14 @@
         <guid>http://localhost:1313/por-que-pensar-importa-nos-mundos-que-amamos/</guid>
 
         <enclosure url="http://localhost:1313/por-que-pensar-importa-nos-mundos-que-amamos/pensamento.jpg" length="0" type="image/webp"/><description>&lt;p&gt;Entre viagens no tempo, sabres de luz, clones e dragões, há algo que sempre me fascinou: a lógica por trás do impossível ou pelo menos, do quase impossível.&lt;/p&gt;</description>
+</item>
+    <item>
+        <title>Termos de Uso</title>
+        <link>http://localhost:1313/termos-uso/</link>
+        <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/termos-uso/</guid>
+
+        <description>&lt;p&gt;Última atualização: &lt;strong&gt;27 de agosto de 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Bem-vindo(a) ao Nerdático!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ficamos felizes por você estar aqui. Para mantermos nossa comunidade um lugar incrível, seguro e respeitoso para todos os fãs da cultura geek e nerd, criamos algumas regras básicas. Ao acessar ou usar nosso site, você concorda em seguir os termos descritos abaixo.&lt;/p&gt;</description>
 </item>
     <item>
         <title>Contato</title>
