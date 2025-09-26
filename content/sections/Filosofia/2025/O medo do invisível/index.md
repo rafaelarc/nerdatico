@@ -1,7 +1,7 @@
 ---
 title: "O medo do invisível"
 date: 2025-09-25
-tags: ["filosofia"]
+tags: ["filosofia", "filmes"]
 image: "the-sixth-sense.webp"
 slug: "o-medo-do-invisível"
 keywords: ["psicologia do terror", "suspense psicológico", "medo do desconhecido no cinema"]

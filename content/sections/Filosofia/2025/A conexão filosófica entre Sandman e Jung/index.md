@@ -1,7 +1,7 @@
 ---
 title: "A conexão filosófica entre Sandman e Jung"
 date: 2025-08-26
-tags: ["filosofia"]
+tags: ["filosofia", "quadrinhos"]
 image: "sandman.webp"
 slug: "a-conexao-filosofica-entre-sandman-e-jung"
 keywords: ["filosofia de Sandman", "Neil Gaiman", "psicologia junguiana"]

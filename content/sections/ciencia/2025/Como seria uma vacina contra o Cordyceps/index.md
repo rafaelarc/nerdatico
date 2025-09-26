@@ -1,7 +1,7 @@
 ---
 title: "Como seria uma vacina contra o Cordyceps?"
 date: 2025-05-24
-tags: ["ciencia", "the last of us"]
+tags: ["ciencia", "gaming"]
 image: "cordyceps.webp"
 slug: "como-seria-uma-vacina-contra-o-cordyceps"
 keywords: ["vacina Cordyceps The Last of Us", "Cordyceps infectar humanos", "imunidade da Ellie"]

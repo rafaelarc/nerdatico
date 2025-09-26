@@ -1,7 +1,7 @@
 ---
 title: "Quanto custa ser o Batman?"
 date: 2025-07-12
-tags: ["nerdverso"]
+tags: ["nerdverso", "dc"]
 image: "batman-black.webp"
 slug: "quanto-custa-ser-o-batman"
 keywords: ["Batman", "fortuna de Bruce Wayne", "tecnologia Wayne"]

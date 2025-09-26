@@ -1,7 +1,7 @@
 ---
 title: "A Estrela da Morte tinha saídas de emergência?"
 date: 2025-08-19
-tags: ["ciencia"]
+tags: ["ciencia", "star wars"]
 image: "star-wars-death-star.webp"
 slug: "a-estrela-da-morte-tinha-saidas-de-emergencia"
 keywords: ["falhas de design Estrela da Morte", "George Lucas", "engenharia Star Wars"]

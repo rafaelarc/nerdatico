@@ -1,7 +1,7 @@
 ---
 title: "O que Game of Thrones nos ensina sobre poder?"
 date: 2025-10-04
-tags: ["sabedoria"]
+tags: ["sabedoria", "series"]
 image: "iron-throne.webp"
 slug: "game-of-thrones-ensina-sobre-poder"
 keywords: ["lições de poder Game of Thrones", "estratégia de poder", "George R. R. Martin"]

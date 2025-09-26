@@ -1,7 +1,7 @@
 ---
 title: "Magneto já salvou a humanidade (mais de uma vez)"
 date: 2025-09-06
-tags: ["filosofia", "marvel"]
+tags: ["filosofia", "marvel", "quadrinhos"]
 image: "magneto.webp"
 slug: "magneto-ja-salvou-a-humanidade"
 keywords: ["Magneto", "Erik Lehnsherr", "Professor Xavier", "X-Men"]

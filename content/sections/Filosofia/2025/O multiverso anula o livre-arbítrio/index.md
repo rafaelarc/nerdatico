@@ -1,7 +1,7 @@
 ---
 title: "O multiverso anula o livre-arbítrio?"
 date: 2025-04-29
-tags: ["filosofia"]
+tags: ["filosofia", "quadrinhos"]
 image: "free-will.webp"
 slug: "o-multiverso-anula-o-livre-arbitrio"
 keywords: ["multiverso e livre-arbítrio", "teoria do multiverso", "teoria dos muitos mundos", "universos paralelos"]

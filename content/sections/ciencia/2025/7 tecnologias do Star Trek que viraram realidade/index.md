@@ -1,7 +1,7 @@
 ---
 title: "7 tecnologias do Star Trek que viraram realidade"
 date: 2025-04-29
-tags: ["ciencia", "star trek"] 
+tags: ["ciencia", "star trek", "filmes"] 
 image: "star-trek.jpg"
 slug: "7-tecnologias-do-star-trek-que-viraram-realidade"
 keywords: ["invenções de Star Trek", "Star Trek previu o futuro"]

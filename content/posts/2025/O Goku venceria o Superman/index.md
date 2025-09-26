@@ -1,7 +1,7 @@
 ---
 title: "O Goku venceria o Superman?"
 date: 2025-05-20
-tags: ["nerdverso"]
+tags: ["nerdverso", "anime", "dc"]
 image: "goku-superman.webp"
 slug: "o-goku-venceria-o-superman"
 keywords: ["quem é mais forte Goku ou Superman", "luta Goku e Superman"]

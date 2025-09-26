@@ -1,7 +1,7 @@
 ---
 title: "Sabia que o criador de Akira influenciou o visual do Cyberpunk 2077?"
 date: 2025-04-29
-tags: ["nerdverso", "gaming"]
+tags: ["nerdverso", "gaming", "anime"]
 image: "akira.jpeg"
 slug: "sabia-que-o-criador-de-akira-influenciou-o-visual-do-cyberpunk-2077"
 keywords: ["influência de Akira nos games", "Katsuhiro Otomo Cyberpunk"]

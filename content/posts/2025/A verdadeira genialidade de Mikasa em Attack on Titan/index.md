@@ -1,7 +1,7 @@
 ---
 title: "A verdadeira genialidade de Mikasa em Attack on Titan"
 date: 2025-06-14
-tags: ["nerdverso"]
+tags: ["nerdverso", "anime"]
 image: "mikasa.webp"
 slug: "a-verdadeira-genialidade-de-mikasa-em-attack-on-titan"
 keywords: ["Mikasa Attack on Titan", "análise Mikasa Ackerman"]

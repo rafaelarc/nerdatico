@@ -1,7 +1,7 @@
 ---
 title: "A biologia do Alien Xenomorfo"
 date: 2025-09-30
-tags: ["ciência"]
+tags: ["ciencia", "filmes"]
 image: "alien-covenant.webp"
 slug: "biologia-alien-xenomorfo"
 keywords: ["biologia do Alien Xenomorfo", "ciclo de vida do Alien", "Alien: O Oitavo Passageiro"]

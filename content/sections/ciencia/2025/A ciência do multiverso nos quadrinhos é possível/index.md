@@ -1,7 +1,7 @@
 ---
 title: "A ciência do multiverso nos quadrinhos é possível?"
 date: 2025-04-30
-tags: ["ciencia", "quadrinhos"] 
+tags: ["ciencia", "quadrinhos", "dc", "marvel"] 
 image: "multiverse.webp"
 slug: "a-ciencia-do-multiverso-nos-quadrinhos-e-possivel"
 keywords: ["multiverso é possível", "multiverso Marvel e DC", "teoria dos muitos mundos"]

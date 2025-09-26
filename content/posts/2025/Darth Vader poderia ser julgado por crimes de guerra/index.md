@@ -1,7 +1,7 @@
 ---
 title: "Darth Vader poderia ser julgado por crimes de guerra?"
 date: 2025-09-04
-tags: ["nerdverso", "star-wars"]
+tags: ["nerdverso", "star wars"]
 image: "dart-vader.webp"
 slug: "darth-vader-poderia-ser-julgado-por-crimes-de-guerra"
 keywords: ["crimes de guerra Star Wars", "Darth Vader crimes de guerra"]

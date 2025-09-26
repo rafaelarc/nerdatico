@@ -1,7 +1,7 @@
 ---
 title: "Se o Chapéu Seletor fosse um algoritmo, como ele classificaria você?"
 date: 2025-05-22
-tags: ["nerdverso", "harry-potter"]
+tags: ["nerdverso", "filmes", "harry-potter"]
 image: "sorting-hat.webp"
 slug: "se-o-chapeu-seletor-fosse-um-algoritmo-como-ele-classificaria-voce"
 keywords: ["como o Chapéu Seletor funciona", "teste das casas de Hogwarts", "Grifinória, Sonserina, Corvinal, Lufa-Lufa"]

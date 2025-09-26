@@ -1,7 +1,7 @@
 ---
 title: "Snape é herói, vilão ou mártir?"
 date: 2025-08-30
-tags: ["filosofia", "harry-potter"]
+tags: ["filosofia", "harry-potter", "filmes"]
 image: "snape.webp"
 slug: "snape-e-heroi-vilao-ou-martir"
 keywords: ["Severo Snape", "Comensais da Morte", "redenção de Snape"]

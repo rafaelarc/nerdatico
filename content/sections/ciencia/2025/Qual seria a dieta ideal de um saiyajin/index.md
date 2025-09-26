@@ -1,7 +1,7 @@
 ---
 title: "Qual seria a dieta ideal de um saiyajin?"
 date: 2025-04-29
-tags: ["ciencia", "dragon ball"]
+tags: ["ciencia", "anime"]
 image: "goku-dieta.webp"
 slug: "qual-seria-a-dieta-ideal-de-um-saiyajin?"
 keywords: ["saiyajin", "Goku", "Dragon Ball"]

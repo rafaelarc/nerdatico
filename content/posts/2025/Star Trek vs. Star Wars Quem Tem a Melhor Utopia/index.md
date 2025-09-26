@@ -1,7 +1,7 @@
 ---
 title: "Star Trek vs. Star Wars: Quem Tem a Melhor Utopia?"
 date: 2025-09-20
-tags: ["nerdverso"]
+tags: ["nerdverso", "filmes"]
 image: "star-wars-vs-star-trek.webp"
 slug: "star-trek-vs-star-wars-quem-tem-a-melhor-utopia"
 keywords: ["melhor utopia ficção científica", "sociedade Star Trek"]

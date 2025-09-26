@@ -1,7 +1,7 @@
 ---
 title: "A mitologia por trás dos Cavaleiros do Zodíaco"
 date: 2025-07-19
-tags: ["nerdverso"]
+tags: ["nerdverso", "anime"]
 image: "cavaleiros-zodiaco.webp"
 slug: "a-mitologia-por-tras-dos-cavaleiros-do-zodiaco"
 keywords: ["Cavaleiros do Zodíaco", "referências Cavaleiros do Zodíaco", "Saint Seiya mitologia"]

@@ -1,7 +1,7 @@
 ---
 title: "A vida secreta dos stormtroopers"
 date: 2025-10-02
-tags: ["filosofia"]
+tags: ["filosofia", "star wars"]
 image: "imperial-stormtroopers-star-wars.webp"
 slug: "vida-secreta-stormtroopers"
 keywords: ["quem são os stormtroopers", "lado humano dos stormtroopers"]

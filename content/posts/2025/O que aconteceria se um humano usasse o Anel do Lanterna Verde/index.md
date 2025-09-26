@@ -1,7 +1,7 @@
 ---
 title: "O que aconteceria se um humano usasse o Anel do Lanterna Verde?"
 date: 2025-06-17
-tags: ["nerdverso", "quadrinhos"]
+tags: ["nerdverso", "quadrinhos", "dc"]
 image: "green-lantern.webp"
 slug: "o-que-aconteceria-se-um-humano-usasse-o-anel-do-lanterna-verde"
 keywords: ["anel do Lanterna Verde", "Lanterna Verde", "Hal Jordan", "John Stewart"]

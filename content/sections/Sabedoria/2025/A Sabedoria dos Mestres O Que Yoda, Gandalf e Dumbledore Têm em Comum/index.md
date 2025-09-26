@@ -1,7 +1,7 @@
 ---
 title: "A Sabedoria dos Mestres: O Que Yoda, Gandalf e Dumbledore Têm em Comum?"
 date: 2025-08-30
-tags: ["sabedoria"]
+tags: ["sabedoria", "filmes"]
 image: "Dumbledore-Gandalf-Yoda.webp"
 slug: "a-sabedoria-dos-mestres-o-que-yoda-gandalf-dumbledore-tem-em-comum"
 keywords: ["Yoda Gandalf Dumbledore", "arquétipo do mentor", "Jornada do Herói", "Star Wars, Senhor dos Anéis, Harry Potter"]

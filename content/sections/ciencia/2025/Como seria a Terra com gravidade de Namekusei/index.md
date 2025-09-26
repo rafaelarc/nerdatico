@@ -1,7 +1,7 @@
 ---
 title: "Como seria a Terra com gravidade de Namekusei?"
 date: 2025-07-01
-tags: ["ciencia"]
+tags: ["ciencia", "anime"]
 image: "namekusei.webp"
 slug: "como-seria-a-terra-com-gravidade-de-namekusei"
 keywords: ["gravidade de Namekusei", "Dragon Ball Z", "ciência Dragon Ball"]

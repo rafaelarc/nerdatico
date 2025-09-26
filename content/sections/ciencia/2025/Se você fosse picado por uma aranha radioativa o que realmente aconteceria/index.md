@@ -1,7 +1,7 @@
 ---
 title: "Se você fosse picado por uma aranha radioativa, o que realmente aconteceria?"
 date: 2025-07-15
-tags: ["ciencia"] 
+tags: ["ciencia", "marvel"] 
 image: "spider-bites.webp"
 slug: "se-voce-fosse-picado-por-uma-aranha-radioativa-o-que-realmente-aconteceria"
 keywords: ["Homem-Aranha", "aranha radioativa", "ciência dos superpoderes"]
