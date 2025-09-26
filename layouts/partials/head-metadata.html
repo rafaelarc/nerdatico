@@ -48,3 +48,13 @@
 {{ if or .Params.mermaid .Site.Params.mermaid }}
 {{ partial "mermaid.html" . }}
 {{ end }}
+
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal) {
+    await OneSignal.init({
+      appId: "432453af-c920-4853-beea-91461d532916",
+    });
+  });
+</script>
