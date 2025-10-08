@@ -1,7 +1,7 @@
 ---
 title: "Você ou ele mesmo? Quem controla Joe Goldberg?"
 date: 2025-10-07
-tags: ["psicologia", "reflexão", "séries"]
+tags: ["psicologia", "reflexao", "series"]
 image: "joe-goldberg.webp"
 slug: "quem-controla-joe-goldberg"
 keywords: ["psicologia de Joe Goldberg", "análise You Netflix", "Joe Goldberg é psicopata", "livre-arbítrio e controle mental", "análise psicológica de You"]
@@ -82,7 +82,7 @@ Ao aceitar que o “monstro” também faz parte dele, Joe alcança um novo tipo
 
 Ele não se redime; ele apenas aceita o caos.
 
-## Afinal, Quem Realmente Controla Joe Goldberg?
+## Afinal, quem realmente controla Joe Goldberg?
 
 ![You-Netflix](You-season-5-trailer-final-season-Netflix.webp)
 
@@ -93,11 +93,7 @@ Ele não é apenas um monstro ou uma vítima é o retrato de alguém que tenta m
 Mas nós sabemos: o amor não é controle, nem obsessão, e muito menos perseguição.
 E o preço de tentar controlar tudo é, ironicamente, perder o controle de si mesmo.
 
-## Conclusão
-
 A jornada de Joe em “You” é mais do que um suspense sobre crimes e relacionamentos. É um mergulho em como o ser humano lida com rejeição, carência, desejo de controle e interpretação do amor. A psicologia por trás do personagem é complexa e assustadoramente real em alguns aspectos.
-
-Então, da próxima vez que assistir Joe Goldberg agindo como um “romântico apaixonado”, vale parar e pensar: **isso é amor… ou só outra prisão montada pela mente dele?**
 
 ### Quer saber mais?
 

@@ -1,7 +1,7 @@
 ---
 title: "O que o Cavaleiro da Lua nos ensina sobre saúde mental?"
 date: 2025-09-27
-tags: ["filosofia", "marvel", "serie"]
+tags: ["filosofia", "marvel", "series"]
 image: "moon-knight.webp"
 slug: "o-que-o-cavaleiro-da-lua-nos-ensina-sobre-saude-mental"
 keywords: ["Cavaleiro da Lua saúde mental", "representação saúde mental Marvel"]
