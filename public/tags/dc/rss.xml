@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DC on Nerdático</title>
+    <title>Dc on Nerdático</title>
     <link>http://localhost:1313/tags/dc/</link>
-    <description>Recent content in DC on Nerdático</description>
+    <description>Recent content in Dc on Nerdático</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0000</lastBuildDate>
@@ -15,6 +15,38 @@
         <guid>http://localhost:1313/o-batman-e-etico-ao-nao-matar-o-coringa/</guid>
 
         <enclosure url="http://localhost:1313/o-batman-e-etico-ao-nao-matar-o-coringa/coringa.webp" length="0" type="image/webp"/><description>&lt;p&gt;É o ciclo sem fim que assombra Gotham City: o Coringa comete atrocidades, o Batman o captura, ele escapa do Asilo Arkham e tudo recomeça. Essa dinâmica levanta uma das questões mais complexas e debatidas: a recusa do &lt;strong&gt;Batman em matar o Coringa&lt;/strong&gt; é um ato de heroísmo supremo ou uma falha moral que custa inúmeras vidas inocentes?&lt;/p&gt;</description>
+</item>
+    <item>
+        <title>Quanto custa ser o Batman?</title>
+        <link>http://localhost:1313/quanto-custa-ser-o-batman/</link>
+        <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/quanto-custa-ser-o-batman/</guid>
+
+        <enclosure url="http://localhost:1313/quanto-custa-ser-o-batman/batman-black.webp" length="0" type="image/webp"/><description>&lt;p&gt;Batman é o exemplo máximo de que, com dinheiro e determinação, um humano pode se tornar um super-herói. Mas você já parou para pensar na fortuna necessária para bancar essa jornada? Neste artigo, vamos responder à pergunta definitiva: &lt;strong&gt;quanto custa ser o Batman hoje&lt;/strong&gt;, com preços e tecnologias atualizadas para 2025 e convertidas para a nossa realidade em Reais.&lt;/p&gt;</description>
+</item>
+    <item>
+        <title>O que aconteceria se um humano usasse o Anel do Lanterna Verde?</title>
+        <link>http://localhost:1313/o-que-aconteceria-se-um-humano-usasse-o-anel-do-lanterna-verde/</link>
+        <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/o-que-aconteceria-se-um-humano-usasse-o-anel-do-lanterna-verde/</guid>
+
+        <enclosure url="http://localhost:1313/o-que-aconteceria-se-um-humano-usasse-o-anel-do-lanterna-verde/green-lantern.webp" length="0" type="image/webp"/><description>&lt;p&gt;No universo da DC Comics, poucas armas são tão icônicas quanto o anel do Lanterna Verde, uma joia cósmica capaz de transformar imaginação em realidade. Ele é a ferramenta dos maiores protetores da galáxia, mas uma pergunta sempre surge entre os fãs: o que aconteceria se um humano comum, sem o treinamento de Hal Jordan ou a disciplina de John Stewart, encontrasse esse poder?&lt;/p&gt;</description>
+</item>
+    <item>
+        <title>O Goku venceria o Superman?</title>
+        <link>http://localhost:1313/o-goku-venceria-o-superman/</link>
+        <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/o-goku-venceria-o-superman/</guid>
+
+        <enclosure url="http://localhost:1313/o-goku-venceria-o-superman/goku-superman.webp" length="0" type="image/webp"/><description>&lt;p&gt;É a pergunta que ecoa em convenções de animes e lojas de quadrinhos há décadas, o maior de todos os duelos nerds: em uma luta sem limites, &lt;strong&gt;Goku venceria o Superman&lt;/strong&gt;? De um lado, o Saiyajin que quebra barreiras a cada batalha; do outro, o Kryptoniano que é a própria definição de super-herói. A batalha entre os dois maiores ícones da cultura pop é inevitável.&lt;/p&gt;</description>
+</item>
+    <item>
+        <title>A ciência do multiverso nos quadrinhos é possível?</title>
+        <link>http://localhost:1313/a-ciencia-do-multiverso-nos-quadrinhos-e-possivel/</link>
+        <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/a-ciencia-do-multiverso-nos-quadrinhos-e-possivel/</guid>
+
+        <enclosure url="http://localhost:1313/a-ciencia-do-multiverso-nos-quadrinhos-e-possivel/multiverse.webp" length="0" type="image/webp"/><description>&lt;p&gt;De &lt;strong&gt;Doutor Estranho&lt;/strong&gt; a &lt;strong&gt;Rick and Morty&lt;/strong&gt;, o multiverso se tornou o conceito favorito da cultura pop, inundando os &lt;strong&gt;quadrinhos&lt;/strong&gt; e as telas com infinitas realidades. Mas por trás das viagens caóticas e das versões alternativas de nossos heróis, fica a pergunta: a &lt;strong&gt;ciência do multiverso&lt;/strong&gt; nos quadrinhos é possível ou é apenas uma licença poética dos roteiristas?&lt;/p&gt;</description>
 </item>
   </channel>
 </rss>

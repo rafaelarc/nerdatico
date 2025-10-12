@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflexao on Nerdático</title>
+    <link>http://localhost:1313/tags/reflexao/</link>
+    <description>Recent content in Reflexao on Nerdático</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reflexao/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>Você ou ele mesmo? Quem controla Joe Goldberg?</title>
+        <link>http://localhost:1313/quem-controla-joe-goldberg/</link>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/quem-controla-joe-goldberg/</guid>
+
+        <enclosure url="http://localhost:1313/quem-controla-joe-goldberg/joe-goldberg.webp" length="0" type="image/webp"/><description>&lt;p&gt;&lt;strong&gt;Olá, você.&lt;/strong&gt; É impossível ouvir essa saudação sem lembrar dele: charmoso, inteligente, um romântico incurável que faria de tudo por amor. Mas também um predador emocional, um stalker e assassino.&lt;/p&gt;</description>
+</item>
+  </channel>
+</rss>

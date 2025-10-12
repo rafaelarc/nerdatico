@@ -8,7 +8,7 @@ keywords: ["biologia do Alien Xenomorfo", "ciclo de vida do Alien", "Alien: O Oi
 description: "Qual a biologia do Alien Xenomorfo? Uma análise do ciclo de vida, sangue ácido e adaptação do monstro mais icônico do cinema!"
 ---
 
-Com seu exoesqueleto biomecânico, sangue ácido e um ciclo de vida aterrorizante, o **Alien Xenomorfo** é uma das criaturas mais icônicas e temidas da ficção científica. Mas por trás do design assustador de [H. R. Giger](https://pt.wikipedia.org/wiki/H._R._Giger), existe uma **biologia ficcional** tão complexa e bem pensada que nos faz questionar: e se esse pesadelo fosse real?
+Com seu exoesqueleto biomecânico, sangue ácido e um ciclo de vida aterrorizante, o **Alien Xenomorfo** é uma das criaturas mais icônicas e temidas da ficção científica. Mas por trás do design assustador de [H. R. Giger](https://pt.wikipedia.org/wiki/H._R._Giger) existe uma **biologia ficcional** tão complexa e bem pensada que nos faz questionar: e se esse pesadelo fosse real?
 
 O que torna o **Xenomorfo** um predador tão perfeito? A resposta está em sua biologia adaptativa, que se inspira em alguns dos mecanismos mais brutais da natureza. Do parasitismo extremo à estrutura social de colmeia, a criatura é um espelho sombrio e exagerado da própria evolução, nos forçando a encarar os limites da sobrevivência.
 

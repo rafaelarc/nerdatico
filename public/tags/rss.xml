@@ -6,13 +6,77 @@
     <description>Recent content in Tags on Nerdático</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>Psicologia</title>
+        <link>http://localhost:1313/tags/psicologia/</link>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/psicologia/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Reflexao</title>
+        <link>http://localhost:1313/tags/reflexao/</link>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/reflexao/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Series</title>
+        <link>http://localhost:1313/tags/series/</link>
+        <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/series/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Sabedoria</title>
+        <link>http://localhost:1313/tags/sabedoria/</link>
+        <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/sabedoria/</guid>
+
+        <description></description>
+</item>
     <item>
         <title>Filosofia</title>
         <link>http://localhost:1313/tags/filosofia/</link>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
         <guid>http://localhost:1313/tags/filosofia/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Star Wars</title>
+        <link>http://localhost:1313/tags/star-wars/</link>
+        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/star-wars/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Ciencia</title>
+        <link>http://localhost:1313/tags/ciencia/</link>
+        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/ciencia/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Filmes</title>
+        <link>http://localhost:1313/tags/filmes/</link>
+        <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/filmes/</guid>
+
+        <description></description>
+</item>
+    <item>
+        <title>Marvel</title>
+        <link>http://localhost:1313/tags/marvel/</link>
+        <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/marvel/</guid>
 
         <description></description>
 </item>
@@ -33,23 +97,7 @@
         <description></description>
 </item>
     <item>
-        <title>Filmes</title>
-        <link>http://localhost:1313/tags/filmes/</link>
-        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/filmes/</guid>
-
-        <description></description>
-</item>
-    <item>
-        <title>Ciencia</title>
-        <link>http://localhost:1313/tags/ciencia/</link>
-        <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/ciencia/</guid>
-
-        <description></description>
-</item>
-    <item>
-        <title>DC</title>
+        <title>Dc</title>
         <link>http://localhost:1313/tags/dc/</link>
         <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
         <guid>http://localhost:1313/tags/dc/</guid>
@@ -57,34 +105,10 @@
         <description></description>
 </item>
     <item>
-        <title>Series</title>
-        <link>http://localhost:1313/tags/series/</link>
-        <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/series/</guid>
-
-        <description></description>
-</item>
-    <item>
-        <title>Marvel</title>
-        <link>http://localhost:1313/tags/marvel/</link>
-        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/marvel/</guid>
-
-        <description></description>
-</item>
-    <item>
-        <title>Star Wars</title>
-        <link>http://localhost:1313/tags/star-wars/</link>
-        <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/star-wars/</guid>
-
-        <description></description>
-</item>
-    <item>
-        <title>Sabedoria</title>
-        <link>http://localhost:1313/tags/sabedoria/</link>
-        <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/sabedoria/</guid>
+        <title>Quadrinhos</title>
+        <link>http://localhost:1313/tags/quadrinhos/</link>
+        <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/quadrinhos/</guid>
 
         <description></description>
 </item>
@@ -97,26 +121,18 @@
         <description></description>
 </item>
     <item>
-        <title>Quadrinhos</title>
-        <link>http://localhost:1313/tags/quadrinhos/</link>
-        <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/quadrinhos/</guid>
+        <title>Anime</title>
+        <link>http://localhost:1313/tags/anime/</link>
+        <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/anime/</guid>
 
         <description></description>
 </item>
     <item>
-        <title>The Last of Us</title>
-        <link>http://localhost:1313/tags/the-last-of-us/</link>
-        <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/the-last-of-us/</guid>
-
-        <description></description>
-</item>
-    <item>
-        <title>Dragon Ball</title>
-        <link>http://localhost:1313/tags/dragon-ball/</link>
-        <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/tags/dragon-ball/</guid>
+        <title>O-Senhor-Dos-Aneis</title>
+        <link>http://localhost:1313/tags/o-senhor-dos-aneis/</link>
+        <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/tags/o-senhor-dos-aneis/</guid>
 
         <description></description>
 </item>

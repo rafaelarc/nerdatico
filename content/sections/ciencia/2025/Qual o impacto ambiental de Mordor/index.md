@@ -1,7 +1,7 @@
 ---
 title: "Qual o impacto ambiental de Mordor?"
 date: 2025-06-07
-tags: ["ciencia", "filmes"]
+tags: ["ciencia", "filmes", "o-senhor-dos-aneis"]
 image: "mordor.webp"
 slug: "qual-o-impacto-ambiental-de-mordor"
 keywords: ["Mordor mundo real", "J.R.R. Tolkien", "mudanças climáticas"]
