@@ -1,7 +1,7 @@
 ---
 title: "Como seria a internet na Terra-Média"
 date: 2025-10-14
-tags: ["nerdverso", "filmes", "o-senhor-dos-aneis"]
+tags: ["nerdverso", "filmes", "o senhor dos aneis"]
 image: "Elijah-Wood-as-Frodo-in-The-Lord-of-the-Rings.webp"
 slug: "como-seria-a-internet-na-terra-media"
 keywords: ["Senhor dos Aneis e tecnologia", "internet na Terra-Media"]
