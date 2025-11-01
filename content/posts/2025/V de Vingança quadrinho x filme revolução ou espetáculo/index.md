@@ -3,7 +3,7 @@ title: "V de Vingança: quadrinho x filme — revolução ou espetáculo?"
 date: 2025-10-30
 tags: ["nerdverso"]
 image: "V-For-Vendetta-Comic.webp"
-slug: "v-de-vinganca-quadrinho-filme-revolução-ou-espetaculo"
+slug: "v-de-vinganca-quadrinho-filme-revolucao-ou-espetaculo"
 description: "V de Vingança: quadrinho vs filme. A revolução radical de Alan Moore ou o espetáculo do cinema? Compare as versões!"
 ---
 
@@ -44,6 +44,8 @@ Mas o clima é outro: o filme é mais emocional, com foco nas relações humanas
 Se no quadrinho a anarquia é a base, no filme a revolução vira quase um símbolo poético. A estética é impecável: a máscara de Guy Fawkes virou ícone (alô, Anonymous), as explosões são coreografadas com música e luzes. É quase um balé da revolta.
 
 A trilha sonora épica, os discursos poderosos e o final que emociona garantem que o filme fique com você mesmo depois da sessão acabar. Mas será que essa suavidade não tira um pouco do peso da obra original?
+
+**+ Leia mais:** [Como Duna moldou o universo de Star Wars](/como-duna-moldou-o-universo-de-star-wars/)
 
 ## Quadrinho vs. Filme: As Principais Diferenças
 

@@ -70,6 +70,8 @@ Gandalf, por exemplo, teria um grupo privado com os outros magos onde discutiria
 
 Ah! E tem um detalhe super importante: Saruman seria aquele amigo que compartilha link do site duvidoso e acaba clicando em malware do Olho de Sauron sem querer.
 
+**+ Leia mais:** [Qual o impacto ambiental de Mordor?](/qual-o-impacto-ambiental-de-mordor/)
+
 ## Mordor: Orcs Como os Trolls da Internet
 
 ![orcs](os-aneis-do-poder-orc.webp)

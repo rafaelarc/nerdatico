@@ -44,6 +44,8 @@ Pense que o espaço-tempo é como uma folha de papel, de novo, em que você dese
 
 Apesar de matematicamente possível dentro da teoria da **relatividade de Einstein**, ninguém nunca encontrou um buraco de minhoca na vida real. Ou seja, ainda é ficção... mas uma ficção com uma pitada de ciência.
 
+**+ Leia mais:** [A ciência do multiverso nos quadrinhos é possível?](/a-ciencia-do-multiverso-nos-quadrinhos-e-possivel/)
+
 ## Viajando entre mundos: e a ciência disso?
 
 Se existissem mundos paralelos e buracos de minhoca, será que poderíamos atravessá-los como a Eleven e sua turma fazem na série?

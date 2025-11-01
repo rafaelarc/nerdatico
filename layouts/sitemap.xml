@@ -1,18 +1,66 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {{ range .Data.Pages }}
-      {{ if not (or (strings.HasSuffix .RelPermalink "/addons/") (strings.HasSuffix .RelPermalink "/admin/")) }}
-      
-	  <url>
-	    <loc>{{ .Permalink }}</loc>
-	    <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
-        {{ with .Sitemap.ChangeFreq }}
-	    <changefreq>{{ . }}</changefreq>
-        {{ end }}
+{{- $now := now -}}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  {{- /* Homepage */ -}}
+  <url>
+    <loc>{{ .Site.BaseURL }}</loc>
+    <lastmod>{{ $now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+    <priority>1.0</priority>
+  </url>
 
-        {{ if ge .Sitemap.Priority 0.0 }}
-	    <priority>{{ .Sitemap.Priority }}</priority>
-        {{ end }}
-	  </url>
-	  {{ end }}
-  {{ end }}
+  {{- /* Posts do blog */ -}}
+  {{- range .Site.RegularPages }}
+    {{- if not (or (strings.HasSuffix .RelPermalink "/addons/") (strings.HasSuffix .RelPermalink "/admin/")) }}
+      {{- $age := div (sub $now.Unix .Lastmod.Unix) 86400 -}}
+      <url>
+        <loc>{{ .Permalink }}</loc>
+        <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+        {{- if lt $age 30 }}
+          <priority>0.9</priority>
+        {{- else if lt $age 180 }}
+          <priority>0.7</priority>
+        {{- else }}
+          <priority>0.5</priority>
+        {{- end }}
+      </url>
+    {{- end }}
+  {{- end }}
+
+  {{- /* Páginas fixas (About, Contact, etc) */ -}}
+  {{- range .Site.Pages }}
+    {{- if and (not .IsSection) (not .IsHome) (eq .Kind "page") }}
+      {{- $isPostOrSection := false -}}
+      {{- with .File -}}
+        {{- if or (in .Path "posts") (in .Path "sections") -}}
+          {{- $isPostOrSection = true -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if not $isPostOrSection }}
+        <url>
+          <loc>{{ .Permalink }}</loc>
+          <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+          <priority>0.6</priority>
+        </url>
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
+  {{- /* Páginas de categorias/tags (opcional) */ -}}
+  {{- range .Site.Taxonomies.categories }}
+    <url>
+      <loc>{{ .Page.Permalink }}</loc>
+      <lastmod>{{ $now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+      <priority>0.4</priority>
+    </url>
+  {{- end }}
+
+  {{- range .Site.Taxonomies.tags }}
+    <url>
+      <loc>{{ .Page.Permalink }}</loc>
+      <lastmod>{{ $now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+      <priority>0.3</priority>
+    </url>
+  {{- end }}
+
 </urlset>

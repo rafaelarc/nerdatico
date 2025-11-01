@@ -37,6 +37,8 @@ Não era simplesmente barbaridade, como às vezes se imagina. Os sacrifícios fa
 
 Lembra da cena em "Vikings" quando um personagem aceita ser sacrificado tranquilamente, como uma honra? Aquilo resume bem como eles encaravam o fim: não com desespero, mas como parte de algo muito maior.
 
+**+ Leia mais:** [E se a mitologia nórdica fosse real?](e-se-a-mitologia-nordica-fosse-real/)
+
 ### A glória maior era ser lembrado
 
 Na ausência de céu e inferno nos moldes cristãos, o maior medo de um viking era cair no esquecimento. Para eles, **ser lembrado após a morte** era a verdadeira imortalidade. Por isso, atos heroicos, conquistas e coragem eram tão valorizados.

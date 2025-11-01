@@ -33,6 +33,8 @@ Legal, né? Mas aí começam os problemas. Se ele alterou o passado, como ele le
 
 Apesar desses furos, o filme acerta num ponto: ele assume uma **linha do tempo que pode ser alterada**, mas cuida pouco das consequências disso. É divertido, mas não passa num teste lógico mais rigoroso.
 
+**+ Leia mais:** [O paradoxo do tempo em De Volta para o Futuro](/o-paradoxo-do-tempo-em-de-volta-para-o-futuro/)
+
 ## O Exterminador do Futuro: um ciclo sem fim
 
 ![o-exterminador-do-futuro](o-exterminador-do-futuro-2.webp)
