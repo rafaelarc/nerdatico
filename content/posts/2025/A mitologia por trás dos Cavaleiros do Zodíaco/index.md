@@ -98,7 +98,6 @@ Então, se você é fã ou ainda não conhece essa pérola, vale revisitar ou as
 
 *   Livros sobre mitologia grega – Edith Hamilton e Joseph Campbell são ótimos começos
 *   Ligações entre astrologia e comportamento dos signos
-*   Documentários sobre mitologias antigas no YouTube e serviços de streaming
 *   “[O Poder do Mito](https://amzn.to/4lkLrom)”, de Joseph Campbell – para entender por que mitos ainda falam tanto com a gente
 
 E aí, qual o seu cavaleiro favorito? Qual mitologia te chama mais atenção? Comenta com a gente!

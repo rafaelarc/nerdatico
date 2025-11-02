@@ -82,7 +82,7 @@ Mas, se você curte histórias emocionantes, onde **o bem precisa lutar com unha
 
 ## Qual Utopia Você Escolheria?
 
-No final das contas, tudo vai depender do que você valoriza mais. **Quer viver em um futuro pacífico, racional e próspero? Vai de Star Trek.** Prefere uma aventura épica cheia de drama e emoção? Star Wars é seu lar.
+Tudo vai depender do que você valoriza mais. **Quer viver em um futuro pacífico, racional e próspero? Vai de Star Trek.** Prefere uma aventura épica cheia de drama e emoção? Star Wars é seu lar.
 
 Mas fica a pergunta: será que a humanidade tem mesmo mais chance de construir uma federação intergaláctica colaborativa ou estamos mais próximos de cair num império tirano com sabres de luz?
 

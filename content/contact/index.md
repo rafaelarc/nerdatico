@@ -12,7 +12,7 @@ Tem um projeto, marca ou ideia legal e quer se conectar com o universo nerd de f
 Quer nos chamar para cobrir um evento, participar de uma matéria ou contribuir com análises e opiniões nerdamente embasadas? Estamos disponíveis para colaborações jornalísticas e coberturas exclusivas, é só chamar!
 
 ### 💬 Dúvidas & Sugestões
-Quer sugerir uma pauta, fazer um elogio (a gente adora 💖), tirar uma dúvida ou só bater um papo sobre cultura nerd? Pode escrever sem medo!
+Quer sugerir uma pauta, fazer um elogio ou crítica, tirar uma dúvida ou só bater um papo sobre cultura nerd? Pode escrever sem medo!
 
 📧 **Contato Geral:**
 nerdatico@icloud.com

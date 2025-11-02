@@ -70,16 +70,8 @@ Refletir sobre a lógica das Pokébolas e do Snorlax é mais do que uma viagem g
 
 **Pokémon vai muito além de batalhas e insígnias. Ele estimula a imaginação, a curiosidade e o amor pela ciência e tecnologia mesmo que nem todas as respostas estejam ali, explicadas.**
 
-## Snorlax, você me desafia
-
-No final das contas, a ideia de carregar um Snorlax em uma Pokébola é mais uma licença poética do universo Pokémon e tudo bem! Faz parte da magia, do encantamento que a franquia tem desde os anos 90 e que, até hoje, continua despertando perguntas e teorias entre fãs de todas as idades.
+A ideia de carregar um Snorlax em uma Pokébola é mais uma licença poética do universo Pokémon e tudo bem! Faz parte da magia, do encantamento que a franquia tem desde os anos 90 e que, até hoje, continua despertando perguntas e teorias entre fãs de todas as idades.
 
 Então, na próxima vez que jogar Pokémon ou assistir um episódio do anime, tente ver além da batalha. Pode ser um ótimo momento para se perguntar: **“isso faria sentido no mundo real?”** E mais importante: e se fizesse?
-
-### Quer saber mais?
-
-*   **“The Science of Pokémon”** - livro que explora temas científicos no universo da série
-*   **Pokémon: A Evolução de uma Franquia** - documentários e vídeos no YouTube sobre a criação e crescimento do fenômeno
-*   **Artigos sobre física quântica e compressão de matéria** – para os mais nerds
 
 Agora conta pra gente: qual é a sua teoria favorita sobre como as Pokébolas funcionam? Deixa nos comentários!

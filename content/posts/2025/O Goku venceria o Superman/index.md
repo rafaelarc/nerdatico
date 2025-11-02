@@ -94,7 +94,7 @@ No fim das contas, a resposta mais honesta é: **não importa quem venceria**. O
 
 ### Quer saber mais?
 
-*   **HQs clássicas da DC Comics** – especialmente “All-Star Superman” e "Kingdom Come".
+*   **HQs clássicas da DC Comics** – especialmente [All-Star Superman](https://amzn.to/439AnmU) e O Reino do Amanhã.
 *   **Assista Dragon Ball Super** para entender a evolução de Goku até o Ultra Instinct.
 *   **Canais no YouTube como Ei Nerd e Jovem Nerd**, que debatem esse tema com muita paixão (e polêmicas).
 

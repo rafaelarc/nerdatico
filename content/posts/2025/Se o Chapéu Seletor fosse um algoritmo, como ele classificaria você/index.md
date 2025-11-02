@@ -94,15 +94,14 @@ Claro, tudo depende do quanto você responde com sinceridade ou se só está ten
 
 Por mais que a tecnologia ainda não tenha criado um Chapéu Seletor real, dá para dizer que não estamos tão longe assim. Com muito dado, aprendizado de máquina e ética, talvez um dia consigamos criar sistemas tão sábios quanto ele (só espero que com menos opinião própria!).
 
-No fim das contas, o que mais importa seja na magia ou na IA é entender quem somos, nossas motivações e o que faz nossa personalidade única.
+O que mais importa seja na magia ou na IA é entender quem somos, nossas motivações e o que faz nossa personalidade única.
 
-Afinal, como diria Dumbledore: _“São nossas escolhas que revelam o que realmente somos, muito mais do que nossas habilidades.”_
+Afinal... como diria Dumbledore: _“São nossas escolhas que revelam o que realmente somos, muito mais do que nossas habilidades.”_
 
 ### Quer saber mais?
 
 *   **[Harry Potter: Hogwarts Mystery](https://harrypotterhogwartsmystery.com/)** – jogo mobile com mecânicas de escolhas e personalização;
 *   **[Pottermore/Wizarding World](https://www.harrypotter.com/)** – teste oficial das casas de Hogwarts;
-*   **Introdução ao Machine Learning** – vídeos no YouTube, como os do canal Curso em Vídeo;
 *   **Documentário “O Dilema das Redes”** (Netflix) – para entender como algoritmos moldam nosso comportamento online.
 
 Qual casa o Chapéu Seletor digital te colocaria? Conta pra gente nos comentários!
