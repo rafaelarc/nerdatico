@@ -12,11 +12,11 @@ Com seu humor ácido, aversão a abraços e um olhar que parece atravessar a alm
 
 A lógica implacável, a dificuldade com interações sociais e os interesses hiperfocados da personagem espelham a experiência de muitos indivíduos no espectro autista ou com TDAH. A enorme **identificação com o estranho** que **Wandinha** representa nos mostra que o que a sociedade costumava chamar de "esquisito" é, na verdade, apenas uma forma diferente de existir no mundo.
 
-Neste artigo, vamos analisar como a **representatividade em Wandinha** quebra estereótipos e valida a experiência neurodivergente. Exploraremos por que nos conectamos tanto com personagens fora do padrão e qual o impacto de ver o "estranho" finalmente assumir o papel de herói. Prepare-se para celebrar a beleza de ser diferente.
+Vamos analisar como a **representatividade em Wandinha** quebra estereótipos e valida a experiência neurodivergente. Exploraremos por que nos conectamos tanto com personagens fora do padrão e qual o impacto de ver o "estranho" finalmente assumir o papel de herói. Prepare-se para celebrar a beleza de ser diferente.
 
 ## O Que é Neurodiversidade? Um Conceito Essencial
 
-Antes de falarmos de **Wandinha**, é fundamental entender o conceito de neurodiversidade. É um conceito que reconhece que existem diferentes formas de funcionamento neurológico ou seja, cada cérebro funciona de um jeito. Não existe um padrão único de "normalidade".
+Antes de falarmos de **Wandinha**, é fundamental entender o conceito de [neurodiversidade](https://vidasaudavel.einstein.br/o-que-e-ser-neurodivergente-saiba-quais-transtornos-compoem-o-conceito/). É um conceito que reconhece que existem diferentes formas de funcionamento neurológico ou seja, cada cérebro funciona de um jeito. Não existe um padrão único de "normalidade".
 
 Ser neurodivergente significa que a pessoa tem uma maneira diferente de perceber, pensar ou processar o mundo. Isso inclui:
 
@@ -32,7 +32,7 @@ No passado, essas diferenças eram vistas apenas como "problemas" ou "transtorno
 
 ![addamsfamily](wednesday-s2-addamsfamily.webp)
 
-A série **Wandinha** apresenta uma protagonista cujas características se alinham fortemente com a experiência neurodivergente, sem precisar rotulá-la. Ela não gosta de contato físico, é extremamente lógica, tem interesses específicos (alô, máquinas de tortura medievais!) e uma forma muito peculiar de se relacionar com o mundo.
+A série **Wandinha** apresenta uma protagonista cujas características se alinham fortemente com a experiência neurodivergente, sem precisar rotulá-la. Ela não gosta de contato físico, é extremamente lógica, tem interesses específicos e uma forma muito peculiar de se relacionar com o mundo.
 
 Essas características fazem muitas pessoas neurodivergentes se enxergarem nela. Quem vive com autismo, por exemplo, pode se identificar com a forma direta de falar da Wandinha, ou com o desconforto que ela sente em ambientes com muita movimentação social como as festinhas de Nunca Mais.
 
@@ -58,9 +58,9 @@ Esses personagens nos fazem perceber que **ser diferente pode ser uma força**. 
 
 Ver a **neurodiversidade** representada em personagens como Wandinha gera um sentimento de validação e pertencimento em quem sempre se sentiu diferente. Quando vemos nossos traços, comportamentos ou sentimentos representados em personagens da TV, dos filmes ou dos games, sentimos que não estamos sozinhos. Isso é especialmente importante para quem cresceu ouvindo que era “esquisito” ou “difícil”.
 
-A **Wandinha** mostra que **não há problema em ser quem você é**. Ela não tenta mudar para agradar ninguém. E isso é poderoso!
+A **Wandinha** mostra que **não há problema em ser quem você é**. Ela não tenta mudar para agradar ninguém. E isso é poderoso demais!
 
-Além disso, a série não transforma sua diferença em piada (como tantas fez no passado). Pelo contrário: ela é a protagonista, a heroína. E isso muda tudo.
+Além disso a série não transforma sua diferença em piada (como tantas fez no passado). Pelo contrário: ela é a protagonista, a heroína.
 
 ## O papel da mídia em quebrar padrões
 
@@ -74,7 +74,7 @@ Quando o conteúdo é feito com cuidado, pesquisa e escuta ativa de pessoas neur
 
 Essa é uma pergunta poderosa. Se você já sentiu que não se encaixava, que era “estranho demais”, “sensível demais” ou “distraído demais”, saiba que você não está sozinho. E talvez por isso personagens como a **Wandinha** nos toquem tanto.
 
-Na escola, eu sempre fui a "menina do mundo da lua". Preferia desenhar a participar de esportes. Era tímida, falava pouco e detestava barulho. Durante muito tempo achei que o problema era comigo. Hoje entendo que, na verdade, só funciono de outro jeito. E tudo bem!
+Na escola, eu sempre fui a "menina do mundo da lua". Preferia desenhar a participar de esportes. Era tímida, falava pouco e detestava barulho. Durante muito tempo achei que o problema era comigo. Hoje entendo que, na verdade, só funciono de outro jeito. E tá tudo bem!
 
 ## O Futuro da Representatividade Neurodivergente na Mídia
 
@@ -84,7 +84,7 @@ O sucesso de **Wandinha** sinaliza uma mudança positiva, onde a neurodiversidad
 
 ### Vamos valorizar o diferente
 
-No fim das contas, a série só reforça um recado que deveríamos carregar sempre: **não precisamos ser iguais para nos conectarmos**. Aliás, é justamente na diversidade de jeitos, gostos, formas de pensar e sentir que está a riqueza da nossa humanidade.
+A série só reforça um recado que deveríamos carregar sempre: **não precisamos ser iguais para nos conectarmos**. Aliás, é justamente na diversidade de jeitos, gostos, formas de pensar e sentir que está a riqueza da nossa humanidade.
 
 E você, já se identificou com um personagem "fora do padrão"? Conta pra gente nos comentários! Vamos continuar esse papo.
 

@@ -38,7 +38,7 @@ A Lumon, com sua tecnologia, coloca em cheque alguns desses direitos:
 *   **Direito ao consentimento:** O interno não teve escolha sobre sua existência. Ele foi “criado” quando o Externo aceitou a operação. Mas e o direito do recém-criado Interno? Ele nunca concordou com nada.
 *   **Direito à liberdade:** Imagine ser condenado a viver preso num escritório, para sempre, sem nunca ver a luz do dia. Isso lembra um pouco trabalhos forçados... ou até castigo eterno.
 
-Agora pensa comigo: se fosse aplicado no mundo real, seria legal alguém viver assim? As leis brasileiras, como a **Constituição Federal** de 1988, garantem que a dignidade da pessoa humana é um dos princípios fundamentais. Sob essa perspectiva, a prática da Lumon seria não só ética e moralmente questionável, mas possivelmente **inconstitucional**.
+Se fosse aplicado no mundo real, seria legal alguém viver assim? As leis brasileiras, como a **[Constituição Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)** de 1988, garantem que a dignidade da pessoa humana é um dos princípios fundamentais. Sob essa perspectiva, a prática da Lumon seria não só ética e moralmente questionável, mas possivelmente **inconstitucional**.
 
 ## Ruptura Como uma Crítica à Cultura Corporativa
 
@@ -60,7 +60,7 @@ Na prática, isso nos obriga a repensar certas situações do nosso dia a dia. A
 
 Claro, tudo isso ainda é ficção científica pelo menos por enquanto. Mas o avanço da inteligência artificial, dos dispositivos que coletam nossos dados e das tecnologias de monitoramento levanta um alerta importante. Estamos caminhando para uma sociedade onde **privacidade e identidade estão cada vez mais ameaçadas**.
 
-Aqui no Brasil, já temos leis como a **LGPD (Lei Geral de Proteção de Dados)** que buscam proteger as informações pessoais dos cidadãos. Mas e quando a tecnologia começa a mexer com a nossa própria consciência? É hora de discutir, pensar e legislar antes que a ficção vire realidade.
+Aqui no Brasil já temos leis como a **[LGPD (Lei Geral de Proteção de Dados)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)** que buscam proteger as informações pessoais dos cidadãos. Mas e quando a tecnologia começa a mexer com a nossa própria consciência? É hora de discutir, pensar e legislar antes que a ficção vire realidade.
 
 ## A Lumon e a Violação da Dignidade Humana
 

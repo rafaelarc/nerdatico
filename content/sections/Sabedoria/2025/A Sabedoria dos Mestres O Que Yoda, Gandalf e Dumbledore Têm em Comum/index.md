@@ -12,7 +12,7 @@ Em universos repletos de heróis e vilões, poucas figuras são tão universalme
 
 A resposta vai além de barbas longas ou poderes místicos. O elo entre eles está em uma filosofia que valoriza a empatia acima da força, a esperança em meio ao desespero e a coragem de aprender com os próprios erros. Eles nos ensinam que a verdadeira sabedoria não é sobre ter todas as respostas, mas sobre fazer as perguntas certas e confiar na jornada do herói, seja ele um Jedi, um Hobbit ou nós mesmos.
 
-Neste artigo, vamos explorar as principais características que **Yoda**, **Gandalf** e **Dumbledore** têm em comum. Analisaremos como eles ensinam pelo exemplo, lideram sem controlar e mostram que até os maiores mestres carregam suas próprias falhas. Prepare-se para uma dose de inspiração que atravessa mundos e pode iluminar sua própria jornada.
+Neste texto, vamos explorar as principais características que **Yoda**, **Gandalf** e **Dumbledore** têm em comum. Analisaremos como eles ensinam pelo exemplo, lideram sem controlar e mostram que até os maiores mestres carregam suas próprias falhas.
 
 ## 1. Ensinar Pelo Exemplo, Não Pelo Sermão
 
@@ -20,7 +20,7 @@ A primeira grande semelhança entre **Yoda**, **Gandalf** e **Dumbledore** é qu
 
 Yoda, por exemplo, ensina Luke Skywalker sobre a Força muito mais por meio de experiências do que de discursos. Ele faz com que Luke enfrente seus medos de forma prática. Já Gandalf, com seu jeito brincalhão, coloca os hobbits em situações que os forçam a crescer. E Dumbledore… bom, ele é mestre em deixar pistas e confiar que Harry encontrará o caminho certo por si só.
 
-Esses mestres mostram que o verdadeiro aprendizado acontece quando a gente erra, tenta de novo e confia em si mesmo. Eles confiam que seus pupilos vão tropeçar e tudo bem. É parte do caminho.
+Esses mestres mostram que o verdadeiro aprendizado acontece quando a gente erra, tenta de novo e confia em si mesmo. Eles confiam que seus pupilos vão tropeçar e tudo bem. Faz parte do processo.
 
 ## 2. A Empatia Como a Maior Virtude
 
@@ -30,7 +30,7 @@ Toda a sabedoria desses mestres é fundamentada na empatia, na capacidade de enx
 *   Gandalf enxerga grandeza nos pequenos hobbits, enquanto outros os desprezam.
 *   Dumbledore sempre acreditou que o amor era a arma mais poderosa de todas e apostou nessa ideia mesmo com Voldemort crescendo em poder.
 
-No fundo, eles sabem que poder de verdade não vem da força ou da magia, mas do coração. A empatia é a força que conecta os personagens aos outros e a nós também.
+Eles sabem que poder de verdade não vem da força ou da magia, mas do coração. A empatia é a força que conecta os personagens aos outros e a nós também.
 
 ## 3. Guiar Sem Controlar: A Liderança dos Mestres
 
@@ -60,19 +60,13 @@ Em tempos difíceis, ouvir isso nos dá um alívio, não dá? Eles mostram que e
 
 ## 6. Lições que fazem sentido fora das telas
 
-Você já aplicou alguma lição de um desses personagens na vida real? Mesmo sem perceber, seguimos esses conselhos diariamente. Quando damos uma segunda chance a alguém, quando escolhemos o caminho difícil, mas certo, ou quando acreditamos em alguém que todo mundo já desistiu. É naquele momento que o mestre interior se manifesta.
+Você já aplicou alguma lição de um desses personagens na sua vida? Mesmo sem perceber, seguimos esses conselhos diariamente. Quando damos uma segunda chance a alguém, quando escolhemos o caminho difícil, mas certo, ou quando acreditamos em alguém que todo mundo já desistiu. É naquele momento que o mestre interior se manifesta.
 
-E você, já teve um Yoda”, um Gandalf ou um Dumbledore na sua vida? Alguém que te guiou com sabedoria, ou que te deixou viver e aprender com os próprios passos? Muitas vezes eles aparecem onde a gente menos espera um amigo mais velho, um professor, um parente ou até um colega de trabalho.
+Esses mestres nos lembram de algo essencial: **ninguém vence sozinho**. Luke, Frodo e Harry até são os protagonistas, mas sem seus mentores, não teriam ido tão longe. E isso vale pra gente também. Na vida, todos temos nossas aventuras, enfrentamos vilões internos e externos, e às vezes tudo o que precisamos é de uma voz sábia dizendo: _“Você consegue. Confie na sua jornada.”_
 
-## A Jornada do Herói Precisa de um Mentor
-
-No final das contas, esses mestres nos lembram de algo essencial: **ninguém vence sozinho**. Luke, Frodo e Harry até são os protagonistas, mas sem seus mentores, não teriam ido tão longe. E isso vale pra gente também. Na vida, todos temos nossas aventuras, enfrentamos vilões internos e externos, e às vezes tudo o que precisamos é de uma voz sábia dizendo: _“Você consegue. Confie na sua jornada.”_
-
-Então, da próxima vez que rever um filme ou reler um livro com esses personagens, pare por um instante e preste atenção não só no que eles fazem… mas no que eles ensinam apenas por estar ali.
+Da próxima vez que rever um filme ou reler um livro com esses personagens, preste atenção não só no que eles fazem… mas no que eles ensinam apenas por estar ali.
 
 ### Quer saber mais?
-
-Aqui vai uma lista de sugestões pra continuar refletindo:
 
 *   **[O Poder do Mito](https://amzn.to/4gfudah)** – Joseph Campbell
 *   **[Harry Potter e os Relíquias da Morte](https://amzn.to/4lPZNfP)** – Especialmente os capítulos finais

@@ -10,7 +10,7 @@ description: "Como aplicar o método Jedi de foco? Aprenda com Star Wars a usar 
 
 Muito além dos sabres de luz e batalhas épicas, o verdadeiro poder de um Cavaleiro Jedi em **Star Wars** reside em sua mente. Eles são mestres da concentração, calma e clareza em meio ao caos, habilidades que parecem ter saído de outra galáxia, mas que são perfeitamente aplicáveis aos nossos desafios diários. É o chamado **método Jedi de foco**, um caminho para fortalecer nossa atenção e propósito.
 
-Afinal, nosso campo de batalha não é contra Siths, mas contra notificações de celular, prazos apertados e a ansiedade de um mundo hiperconectado. A **disciplina Jedi** de viver o presente e controlar as emoções não é apenas uma filosofia de ficção; é uma estratégia de sobrevivência para quem busca produtividade e bem-estar. É a resposta para a pergunta: como encontrar a Força em nossa própria rotina?
+Nosso campo de batalha não é contra Siths, mas contra notificações de celular, prazos apertados e a ansiedade de um mundo hiperconectado. A **disciplina Jedi** de viver o presente e controlar as emoções não é apenas uma filosofia de ficção; é uma estratégia de sobrevivência para quem busca produtividade e bem-estar. É a resposta para a pergunta: como encontrar a Força em nossa própria rotina?
 
 Neste guia, vamos traduzir os ensinamentos dos mestres Yoda e Obi-Wan em um treinamento prático para sua mente. Você aprenderá a cultivar a **presença mental**, a fortalecer a autodisciplina como um Padawan dedicado e a encontrar o equilíbrio emocional para não ceder ao lado sombrio do estresse.
 
@@ -66,7 +66,7 @@ Algumas formas práticas de desenvolver esse equilíbrio emocional:
 
 **Não é sobre controlar sentimentos com força**, mas aceitá-los com leveza e escolher como responder. Ser Jedi, afinal, é ter poder e sabedoria lado a lado.
 
-## Bônus: Hábitos Jedi Para Fortalecer a Força Interior
+## Hábitos Jedi Para Fortalecer a Força Interior
 
 Para que o **método Jedi de foco** funcione, ele precisa ser incorporado à sua rotina através de hábitos diários que fortalecem sua mente. Não adianta nada entender tudo isso e não transformar em ação, né? O segredo está em criar hábitos que fortaleçam sua mente todos os dias.
 

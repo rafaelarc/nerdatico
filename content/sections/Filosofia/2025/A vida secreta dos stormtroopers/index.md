@@ -82,21 +82,19 @@ Essa é uma questão polêmica...
 
 Muitos já entraram tão jovens e foram tão doutrinados que mal conhecem outra opção. Outros até tentam fugir como vimos em várias mídias de Star Wars mas são raros. A maioria simplesmente aceita o papel que lhe dão.
 
-Isso nos leva a uma reflexão importante: quantas vezes, na nossa vida, a gente também acha que “não tem escolha”? Seja num trabalho tóxico, seja num relacionamento ruim. A diferença é que a gente não usa uma armadura branca, mas muitas vezes também esconde quem realmente somos.
+Quantas vezes, na nossa vida, a gente também acha que “não tem escolha”? Seja num trabalho tóxico, seja num relacionamento ruim. A diferença é que a gente não usa uma armadura branca, mas muitas vezes também esconde quem realmente somos.
 
 ## O Lado Humano dos Vilões Anônimos
 
-No fim das contas, os stormtroopers são muito mais do que simples vilões. São pessoas que foram moldadas por um sistema opressor. São vítimas e cúmplices ao mesmo tempo. É um paradoxo clássico.
+Os stormtroopers são muito mais do que simples vilões. São pessoas que foram moldadas por um sistema opressor. São vítimas e cúmplices ao mesmo tempo. É um paradoxo clássico.
 
 E quando a gente começa a ver esse outro lado o lado humano fica mais difícil simplesmente apontar o dedo. A gente começa a se perguntar: o que _eu_ faria na mesma situação?
 
 É como no nosso dia a dia: nem todo mundo que comete erros é mal intencionado. Às vezes, são pessoas presas num sistema que não dá espaço pra pensar diferente.
 
-## Conclusão
-
 Os stormtroopers ganharam uma nova camada com essa análise. Por trás das armaduras brancas, há seres humanos reais, com conflitos internos, sonhos abandonados e uma sede por pertencimento. Isso nos faz lembrar que, mesmo num universo tão distante, as questões humanas continuam sendo muito parecidas com as nossas.
 
-E você, já imaginou como seria sua vida se tivesse nascido no universo de Star Wars? Estaria do lado da Rebelião ou obedecendo ordens como stormtrooper? Vale a reflexão!
+Já imaginou como seria sua vida se tivesse nascido no universo de Star Wars? Estaria do lado da Rebelião ou obedecendo ordens como stormtrooper? Vale a reflexão!
 
 ### Quer saber mais?
 

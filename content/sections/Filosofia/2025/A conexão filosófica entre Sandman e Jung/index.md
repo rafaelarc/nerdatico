@@ -8,7 +8,7 @@ keywords: ["filosofia de Sandman", "Neil Gaiman", "psicologia junguiana"]
 description: "Qual a conexão filosófica entre Sandman e Jung? Desvende os arquétipos e a psicologia por trás da obra de Neil Gaiman."
 ---
 
-A aclamada obra **Sandman**, de Neil Gaiman, é muito mais do que uma história sobre o Mestre dos **Sonhos**; é uma jornada profunda pela psique humana. Por trás de sua mitologia rica e personagens inesquecíveis, existe uma poderosa **conexão filosófica** com as teorias de Carl Gustav Jung, um dos psicólogos mais influentes do século XX, que via nos mitos e sonhos um mapa da nossa alma.
+A aclamada obra **Sandman**, de Neil Gaiman, é muito mais do que uma história sobre o Mestre dos **Sonhos**; é uma jornada profunda pela psique humana. Por trás de sua mitologia rica e personagens inesquecíveis, existe uma poderosa **conexão filosófica** com as teorias de [Carl Gustav Jung](https://pt.wikipedia.org/wiki/Carl_Gustav_Jung), um dos psicólogos mais influentes do século XX, que via nos mitos e sonhos um mapa da nossa alma.
 
 Afinal, o que são os Perpétuos como Morte, Desejo e o próprio Sonho senão a personificação dos arquétipos que habitam nosso **inconsciente coletivo**, exatamente como Jung descreveu? Gaiman usa o Sonhar como um palco para explorar as mesmas forças primordiais que o psicólogo suíço acreditava que moldavam nossas vidas, medos e aspirações através dos símbolos que encontramos em nossos sonhos.
 
@@ -26,7 +26,7 @@ A história mistura fantasia, mitologia, filosofia e psicologia de um jeito úni
 
 ## A Psicologia de Jung: Inconsciente Coletivo e Arquétipos
 
-Para entender a **conexão entre Sandman e Jung**, precisamos conhecer um pouco da psicologia junguiana. Jung acreditava que muito do que sentimos, pensamos e até fazemos nasce do que ele chamou de **inconsciente coletivo**.
+Para entender a **conexão entre Sandman e Jung**, precisamos conhecer um pouco da psicologia junguiana. Jung acreditava que muito do que sentimos, pensamos e até fazemos nasce do que ele chamou de **[inconsciente coletivo](https://pt.wikipedia.org/wiki/Inconsciente_coletivo)**.
 
 Calma, não precisa se assustar com o termo! Vamos explicar:
 
@@ -40,7 +40,7 @@ Por exemplo: o herói, a mãe, o sábio, a sombra. Esses personagens aparecem em
 
 ## Sandman Como um Palco Para os Arquétipos Junguianos
 
-A filosofia de Sandman se torna ainda mais rica quando percebemos que seus personagens são personificações perfeitas dos arquétipos de Jung. Morpheus **é literalmente o Senhor dos Sonhos**, e isso já é uma baita metáfora junguiana. Mas cada personagem e evento da história carrega arquétipos poderosos. Veja só:
+A filosofia de Sandman se torna ainda mais rica quando percebemos que seus personagens são personificações perfeitas dos [arquétipos de Jung](https://www.institutoesfera.org/blog/psicologia-analitica/os-arquetipos-junguianos/). Morpheus **é literalmente o Senhor dos Sonhos**, e isso já é uma baita metáfora junguiana. Mas cada personagem e evento da história carrega arquétipos poderosos. Veja só:
 
 ### Os Perpétuos Como a Personificação dos Arquétipos
 
@@ -74,8 +74,6 @@ Ler Sandman não é só curtir uma ótima história em quadrinhos é **se encont
 
 Sandman é como um sonho coletivo impresso nas páginas. E Jung nos dá as ferramentas para decifrar esse sonho.
 
-## Por que isso interessa aos nerds de plantão?
-
 Se você curte cultura pop, fantasia, games e HQs, vale demais mergulhar nessa visão mais profunda. Hoje em dia, muita gente procura **histórias que vão além do entretenimento** que fazem pensar, que tocam a alma.
 
 E Sandman é isso: uma ponte entre o fantástico e o real. Um convite para entender mais sobre si mesmo, usando a psicologia e a literatura como guias.
@@ -84,7 +82,7 @@ E Sandman é isso: uma ponte entre o fantástico e o real. Um convite para enten
 
 Sandman é mais do que uma HQ cult. É uma jornada pelo inconsciente humano, cheia de criaturas, reinos oníricos e reflexões profundas. A conexão filosófica com Jung só reforça como **as histórias que consumimos dizem muito sobre quem somos**.
 
-Então, na próxima vez que você tiver um sonho doido, ou reler uma HQ cheia de simbolismo, lembre-se: pode ser o seu inconsciente tentando te contar algo. E talvez o próprio Morpheus esteja atrás disso.
+Na próxima vez que você tiver um sonho doido, lembre-se: pode ser o seu inconsciente tentando te contar algo. E talvez o próprio Morpheus esteja atrás disso.
 
 ### Quer saber mais?
 

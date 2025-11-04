@@ -8,11 +8,11 @@ keywords: ["vilões dos games tinham razão", "vilões incompreendidos"]
 description: "Será que os vilões dos games tinham razão? Analisamos 5 antagonistas com motivações justas, de Sephiroth a Abby!"
 ---
 
-Em toda grande jornada de um herói nos games, existe um vilão esperando no final. Mas e se, em alguns casos, o "monstro" da história não estivesse tão errado assim? Cada vez mais, as narrativas dos jogos nos apresentam antagonistas com motivações tão profundas e justificáveis que nos pegamos questionando: afinal, os **vilões tinham razão** o tempo todo?
+Em toda grande jornada de um herói nos games, existe um vilão esperando no final. Mas e se, em alguns casos, o "monstro" da história não estivesse tão errado assim? Cada vez mais, as narrativas dos jogos nos apresentam antagonistas com motivações tão profundas e justificáveis que nos pegamos questionando: os **vilões tinham razão**?
 
 De traumas de infância a decisões desesperadas para salvar seu povo, a linha que separa o heroísmo da vilania pode ser extremamente tênue. Personagens como Sephiroth, Abby e Arthas não nasceram maus; eles foram moldados por um mundo cruel, por sistemas corruptos ou por um senso de justiça que se perdeu no caminho. Suas histórias nos obrigam a olhar para o outro lado da moeda e a ter empatia por quem costumávamos odiar.
 
-Neste artigo, vamos revisitar as histórias de cinco vilões dos games que, de certa forma, tinham razão em suas ações. Analisaremos as motivações por trás de suas jornadas trágicas e por que suas complexidades os tornam alguns dos personagens mais memoráveis já criados.
+Vamos revisitar as histórias de cinco vilões dos games que, de certa forma, tinham razão em suas ações. Analisaremos as motivações por trás de suas jornadas trágicas e por que suas complexidades os tornam alguns dos personagens mais memoráveis já criados.
 
 ## 1. Sephiroth (Final Fantasy VII): A Vítima de uma Corporação Cruel
 
@@ -30,7 +30,7 @@ Ao longo de **Final Fantasy VII**, descobrimos que Sephiroth é fruto de experi�
 
 Essa vai causar polêmica, a gente sabe. Muita gente ama o Joel, considerado um dos protagonistas mais complexos dos videogames. Mas, convenhamos, o que ele fez no final do primeiro jogo criou muita dor e Abby representa justamente o preço dessa escolha.
 
-Abby tem todos os motivos do mundo para buscar vingança. Ela também perdeu alguém querido de forma brutal, e sua jornada é carregada de dor, perdas e sacrifícios. A diferença? A gente conhece primeiro o lado do Joel, então tende a odiar Abby. Mas quando olhamos a história pelos olhos dela, percebemos que ela tem uma motivação **tão humana quanto a do próprio protagonista**.
+Abby tem todos os motivos do mundo para buscar vingança. Ela também perdeu alguém querido de forma brutal e sua jornada é carregada de dor, perdas e sacrifícios. A diferença? A gente conhece primeiro o lado do Joel, então tende a odiar Abby. Mas quando olhamos a história pelos olhos dela, percebemos que ela tem uma motivação **tão humana quanto a do próprio protagonista** (essa escolha narrativa foi genial diga-se de passagem).
 
 O legal de **The Last of Us Part II** é que ele nos obriga a sentir empatia por todos os lados. E isso mostra o poder da narrativa nos games ninguém aqui é totalmente herói ou totalmente vilão.
 
@@ -54,7 +54,7 @@ Ah, GLaDOS. A inteligência artificial sarcástica que nos faz rir e temer ao me
 
 Sim, ela tenta nos matar. Mas também é uma criação humana colocada em um papel para o qual não foi preparada. Ela foi desenvolvida para coordenar os testes de uma empresa que já estava envolvida com experimentos éticos questionáveis. A real é que **GLaDOS apenas seguiu a lógica de sua programação** por mais absurda que ela fosse.
 
-Além disso, ela é uma das representações mais criativas da crítica à automação sem limites. Quem é o verdadeiro vilão? A IA sarcástica... ou os humanos que a criaram sem considerar as consequências?
+Além disso, ela é uma das representações mais criativas da crítica à automação sem limites. Quem é o verdadeiro vilão? A IA sarcástica... ou os humanos que a criaram sem considerar as consequências? Fica aí o questionamento. 
 
 ## 5. Arthas Menethil (Warcraft): O Herói que se Sacrificou Demais
 

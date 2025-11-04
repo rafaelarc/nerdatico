@@ -10,9 +10,9 @@ description: "Qual a ética da imortalidade? Exploramos as regras morais para se
 
 Imagine viver para sempre. Literalmente. Séculos se passam, guerras começam e terminam, civilizações surgem e desmoronam e ali está você, intacto no meio de tudo, assistindo tudo acontecer como quem vê a história se desenrolar ao vivo. Agora me diz: **quais seriam suas regras morais depois de tanto tempo no mundo?** Complicado, né?
 
-Foi pensando nisso que surgiu essa reflexão: como seria um **código de ética para seres imortais**? Afinal, a cultura pop está repleta de vampiros melancólicos, elfos sábios e deuses entediados que nos mostram que a imortalidade pode ser tanto uma bênção quanto uma maldição. O que impede um ser eterno de se tornar indiferente, cruel ou um manipulador da história? A resposta pode estar em um conjunto de regras que os ancore àquilo que os mortais valorizam: a empatia, o amor e o respeito pela fragilidade da vida.
+Foi pensando nisso que me surgiu essa reflexão: como seria um **código de ética para seres imortais**? Afinal, a cultura pop está repleta de vampiros melancólicos, elfos sábios e deuses entediados que nos mostram que a imortalidade pode ser tanto uma bênção quanto uma maldição. O que impede um ser eterno de se tornar indiferente, cruel ou um manipulador da história? A resposta pode estar em um conjunto de regras que os ancore àquilo que os mortais valorizam: a empatia, o amor e o respeito pela fragilidade da vida.
 
-Neste artigo, vamos mergulhar nessa questão filosófica e propor os pilares de um código de ética para imortais. Analisaremos a responsabilidade histórica, o desafio do desapego e como a cultura pop já explorou essa busca por um guia moral para a vida eterna.
+Neste texto, quero mergulhar nessa questão filosófica e propor os pilares de um código de ética para imortais. Analisaremos a responsabilidade histórica, o desafio do desapego e como a cultura pop já explorou essa busca por um guia moral para a vida eterna.
 
 ## Por Que a Imortalidade Exige um Código de Ética?
 
@@ -54,7 +54,7 @@ Ou seja, **o código precisa ser maleável**. Um pouco como a Constituição: pr
 *   Não usar o tempo infinito para cultivar apego tóxico.
 *   Respeitar o ciclo de vida dos outros seres aceitar a morte.
 
-Esse talvez seja o ponto mais delicado. Um vampiro apaixonado por uma mortal, por exemplo, sabe que ela irá envelhecer e morrer. Isso se já não vimos essa história em milhares de filmes, como "Entrevista com o Vampiro" ou "Crepúsculo" (sim, eu fui lá).
+Esse talvez seja o ponto mais delicado. Um vampiro apaixonado por uma mortal, por exemplo, sabe que ela irá envelhecer e morrer. Já não vimos essa história em milhares de filmes, como "Entrevista com o Vampiro" ou "Crepúsculo" (sim, eu assisti).
 
 **O amor imortal precisa ser generoso**, ainda que doloroso. É um exercício constante de empatia e desapego.
 
@@ -62,7 +62,7 @@ Esse talvez seja o ponto mais delicado. Um vampiro apaixonado por uma mortal, po
 
 A tentação de mudar o curso da história futura é grande. Mas o código de ética de um ser imortal precisa conter um ponto essencial: **autocontrole**. Não vale interferir em eventos históricos ou fazer investimentos secretos só porque sabe o que vai bombar em 200 anos.
 
-Isso cria um abismo entre mortais e imortais, e pode até gerar conflitos existenciais. Afinal, **qual é o limite da vantagem de saber tudo?**
+Isso cria um abismo entre mortais e imortais, e pode até gerar conflitos existenciais.**Qual é o limite da vantagem de saber tudo?**
 
 ## A Ética dos Imortais na Cultura Pop
 
