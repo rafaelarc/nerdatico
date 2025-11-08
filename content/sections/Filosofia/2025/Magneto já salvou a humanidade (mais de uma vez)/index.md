@@ -12,7 +12,7 @@ Quando se fala em vilões da Marvel, o nome **Magneto** surge quase que instanta
 
 Suas ações nunca foram motivadas por pura maldade, mas por uma convicção trágica de que estava protegendo os mutantes de um destino que ele conhecia bem. Essa **moralidade cinzenta** o coloca em uma posição única, onde a linha entre herói e vilão se torna borrada. Ele não busca o caos por si só; busca a sobrevivência de sua espécie, e, às vezes, essa jornada o coloca do lado certo da história.
 
-Neste artigo, vamos revisitar momentos cruciais dos quadrinhos em que **Magneto** deixou de lado sua guerra pessoal para se tornar um improvável salvador. Analisaremos suas fases como líder dos X-Men e seus combates contra ameaças cósmicas para entender o que faz deste personagem um dos anti-heróis mais fascinantes já criados.
+Hoje vamos revisitar momentos cruciais dos quadrinhos em que **Magneto** deixou de lado sua guerra pessoal para se tornar um improvável salvador. Analisaremos suas fases como líder dos X-Men e seus combates contra ameaças cósmicas para entender o que faz deste personagem um dos anti-heróis mais fascinantes já criados.
 
 ## A Moralidade Cinzenta de Magneto: Herói ou Vilão
 
@@ -50,9 +50,9 @@ Magneto, ao perceber que ela estava fora de si, se vê forçado a tomar uma deci
 
 ## A Complexidade Moral por Trás do "Vilão"
 
-Esses momentos nos fazem pensar: será que vilões são sempre vilões? Ou será que, em certas situações, eles apenas fazem o que acreditam ser certo?
+Será que vilões são sempre vilões? Ou será que, em certas situações, eles apenas fazem o que acreditam ser certo?
 
-No caso de Magneto, suas ações revelam uma coisa importante: **ele é movido por trauma e sobrevivência, não por desejo puro de destruição**. Para muitos leitores, isso o torna mais humano, mais real. Afinal, quem nunca reagiu com base na dor ou na proteção de quem ama?
+No caso de Magneto, suas ações revelam uma coisa importante: **ele é movido por trauma e sobrevivência, não por desejo puro de destruição**. Para muitos leitores, isso o torna mais humano, mais real. Quem nunca reagiu com base na dor ou na proteção de quem ama?
 
 Nos quadrinhos e na vida nem tudo é preto e branco. **Magneto é o exemplo perfeito de como personagens complexos tornam as histórias mais interessantes**. Ele pode ser cruel, mas também é um pai, um líder e, em alguns casos, um salvador. Dizer que ele é apenas um vilão não faz justiça à sua trajetória.
 

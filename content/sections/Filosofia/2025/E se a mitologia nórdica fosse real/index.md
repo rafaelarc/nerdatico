@@ -14,9 +14,9 @@ Essa realidade alteraria completamente nossa sociedade, desde a ciência, que te
 
 Neste artigo, vamos fazer exatamente esse exercício de imaginação. Exploraremos como seriam nossas escolas, nossa política e até nossos memes se os **deuses nórdicos fossem reais** e caminhassem entre nós. Prepare seu hidromel (ou seu café), pois a viagem pelos Nove Reinos do nosso cotidiano vai começar.
 
-## Mas afinal, o que é a mitologia nórdica?
+## O que é a mitologia nórdica?
 
-Antes de entrar nas maluquices do “e se”, é bom relembrar o básico. A mitologia nórdica vem dos povos vikings sim, aqueles guerreiros navegadores com capacetes (sem chifres, na real!) que viveram no norte da Europa, especialmente na Escandinávia. Eles tinham um panteão cheio de deuses e criaturas:
+Antes de entrar nas maluquices do “e se”, é bom relembrar o básico. A mitologia nórdica vem dos povos [vikings](https://pt.wikipedia.org/wiki/Vikings) sim, aqueles guerreiros navegadores com capacetes (sem chifres, na real!) que viveram no norte da Europa, especialmente na Escandinávia. Eles tinham um panteão cheio de deuses e criaturas:
 
 *   **Odin**: o pai de todos, deus da sabedoria e da guerra.
 *   **Thor**: deus do trovão, da força e protetor da humanidade.
@@ -40,7 +40,7 @@ Além disso, a moda poderia ser bem mais épica. Em vez de calça jeans e camise
 
 ## Nas escolas: História ou Lenda?
 
-Imagina estudar a Era Viking como um período não só importante, mas sagrado? Odin andaria lado a lado com figuras como Napoleão e Dom Pedro II nos livros de história. Os professores iriam explicar como os deuses interferiram nas grandes guerras, quem sabe até dizendo que Thor lançou um raio que acabou com um exército inimigo. As aulas de literatura também mudariam: ao invés de ler só Machado de Assis, os alunos mergulhariam nas sagas islandesas. Seria como juntar Game of Thrones com Eça de Queirós no mínimo, inusitado!
+Imagina estudar a Era Viking como um período não só importante, mas sagrado? Odin andaria lado a lado com figuras como Napoleão e Dom Pedro II nos livros de história. Os professores iriam explicar como os deuses interferiram nas grandes guerras, quem sabe até dizendo que Thor lançou um raio que acabou com um exército inimigo. As aulas de literatura também mudariam: ao invés de ler só Machado de Assis, os alunos mergulhariam nas sagas islandesas. Seria como juntar Game of Thrones com [Eça de Queirós](https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz) no mínimo, inusitado!
 
 ## Ciência vs. Magia: Como Explicaríamos o Mundo?
 
@@ -77,4 +77,4 @@ Se esse tipo de conteúdo te interessa, aqui vão algumas sugestões de leitura 
 *   **[God of War](https://amzn.to/4magzYa)** e **[God of War: Ragnarok](https://amzn.to/3YyXWmU)** (jogo)
 *   **Série Vikings** (disponível em plataformas de streaming)
 
-Curtiu esse exercício de imaginação? Compartilha com seus amigos que também são fãs de mitologia e deixa aqui nos comentários: qual deus nórdico você gostaria de conhecer pessoalmente? A gente se vê no próximo post e **que Odin te proteja!**
+Curtiu esse exercício de imaginação? Compartilha com seus amigos que também são fãs de mitologia. A gente se vê no próximo post e **que Odin te proteja!**

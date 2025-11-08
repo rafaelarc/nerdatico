@@ -12,13 +12,13 @@ Balas em câmera lenta, códigos verdes e kung fu. A imagem que temos de **Matri
 
 A jornada de Neo como um messias moderno, a existência de Zion como a terra prometida e a própria ideia de que o mundo é uma ilusão da qual precisamos despertar são temas que ecoam fortemente com o cristianismo, o budismo e o gnosticismo. A luta não é apenas contra máquinas; é uma batalha pela alma humana, questionando a natureza da nossa realidade e o poder da fé.
 
-Neste artigo, vamos mergulhar nas camadas simbólicas de **Matrix** para desvendar suas poderosas **referências religiosas e filosóficas**. Analisaremos a construção de Neo como um salvador, a influência do gnosticismo na trama e por que, no fim, a tecnologia pode ser apenas o pano de fundo para uma das maiores parábolas espirituais do cinema moderno. Prepare-se para tomar a pílula vermelha.
+Neste texto quero mergulhar nas camadas simbólicas de **Matrix** para desvendar suas poderosas **referências religiosas e filosóficas**. Analisaremos a construção de Neo como um salvador, a influência do gnosticismo na trama e por que, no fim, a tecnologia pode ser apenas o pano de fundo para uma das maiores parábolas espirituais do cinema moderno. Prepare-se para tomar a pílula vermelha.
 
 ## Neo Como Messias: As Referências Cristãs
 
 Vamos começar falando de **Neo**, interpretado por Keanu Reeves. Seu nome verdadeiro no filme é Thomas Anderson. Curiosamente, "Anderson" significa “filho do homem”, um título usado na Bíblia para se referir a figuras messiânicas, como Jesus.
 
-Durante o filme, Neo passa por uma jornada de autoconhecimento e descobertas que se assemelha muito a histórias de figuras religiosas. Pense bem:
+Durante o filme, Neo passa por uma jornada de autoconhecimento e descobertas que se assemelha muito a histórias de figuras religiosas. Vamos pensar bem:
 
 *   **Ele é "despertado" de um mundo de ilusões**, assim como muitos mestres espirituais dizem que a humanidade vive “dormindo”.
 *   **Recusa sua missão inicialmente**, mas depois aceita seu papel como o Escolhido.
@@ -64,7 +64,7 @@ Seja você fã de filmes de ação, filosofia ou espiritualidade, Matrix oferece
 
 ## Minha experiência assistindo Matrix com outros olhos
 
-Confesso: quando assisti Matrix pela primeira vez, nos anos 2000, meu foco era puramente nas lutas e nos efeitos especiais. Simplesmente sensacional! Mas depois de alguns anos e uma maratona mais atenta fiquei impressionada como o filme conversa com tantas questões existenciais.
+Confesso que quando assisti Matrix pela primeira vez, nos anos 2000, meu foco era puramente nas lutas e nos efeitos especiais. Era simplesmente sensacional! Mas depois de alguns anos e uma maratona mais atenta fiquei impressionada como o filme conversa com tantas questões existenciais.
 
 Hoje, ao rever certas cenas, me pego pensando sobre minhas próprias “matrixes”. Quais são as crenças que me impedem de ver a realidade como ela é? Onde estou aceitando a rotina sem questionar?
 

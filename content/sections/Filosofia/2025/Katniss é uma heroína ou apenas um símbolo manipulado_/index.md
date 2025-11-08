@@ -12,7 +12,7 @@ description: "Katniss Everdeen foi heroína ou símbolo manipulado? Uma análise
 
 Sua jornada não começou com um grito de guerra, mas com um ato de amor para salvar a irmã. Esse gesto pessoal foi rapidamente transformado em propaganda política pelo Distrito 13, que precisava de um rosto para sua causa. Isso nos coloca diante de um dilema: até que ponto suas ações foram genuínas e até que ponto ela estava apenas desempenhando o papel do "Tordo" que a rebelião precisava que ela fosse?
 
-Neste artigo, vamos analisar as duas faces de **Katniss Everdeen**. Exploraremos os momentos em que ela foi uma marionete nas mãos de líderes e os instantes em que sua agência brilhou, culminando em uma escolha que mudou o destino de Panem. Prepare-se para questionar o que realmente define um herói em um mundo onde narrativas são armas.
+Neste artigo, vamos analisar as duas faces de **Katniss Everdeen**. Exploraremos os momentos em que ela foi uma marionete nas mãos de líderes e os instantes em que sua agência brilhou, culminando em uma escolha que mudou o destino de Panem.
 
 ## De Tributo a Símbolo: O Nascimento Acidental do Tordo
 
@@ -36,17 +36,17 @@ Essa é a grande dúvida. Será que Katniss era realmente livre para tomar suas 
 
 Por mais que ela tenha momentos de escolha como no episódio das amoras no primeiro filme há muitos outros momentos em que ela está claramente sendo usada. Coin, a líder do Distrito 13, por exemplo, usa Katniss como uma ferramenta de propaganda, quase do mesmo jeito que Snow usava a mídia para controlar o povo.
 
-Isso nos faz pensar: quando estamos lutando contra um sistema, será que não corremos o risco de repetir seus mesmos métodos?
+Quando estamos lutando contra um sistema, será que não corremos o risco de repetir seus mesmos métodos?
 
 ### O Ponto de Virada: Quando a Heroína Supera o Símbolo
 
-Apesar da manipulação, Katniss também demonstra atitude e posicionamento. Em vários momentos, ela contesta a liderança rebelde, se recusa a simplesmente seguir ordens e faz escolhas que refletem seus próprios valores. Um exemplo marcante: quando ela decide matar Coin e não Snow, desmascarando a falsa ideia de que a rebelião era totalmente justa e pura.
+Apesar da manipulação, Katniss também demonstra atitude e posicionamento. Em vários momentos, ela contesta a liderança rebelde, se recusa a simplesmente seguir ordens e faz escolhas que refletem seus próprios valores. Um exemplo disso foi quando ela decide matar Coin e não Snow, desmascarando a falsa ideia de que a rebelião era totalmente justa e pura.
 
 É nesse momento que Katniss deixa de ser apenas símbolo e volta a ser **sujeito da própria história**. Ela assume as rédeas e toma uma decisão moral, ainda que sofra as consequências.
 
 ## O Dilema de Katniss: A Complexidade do Herói Moderno
 
-Em muitos momentos, Katniss lembra os heróis das tragédias gregas. Pessoas comuns jogadas em situações extremas, tentando fazer a coisa certa num mundo cheio de armadilhas morais. Ela não é perfeita, mas é verdadeira. E talvez, nessa imperfeição, esteja o seu maior valor.
+Em muitos momentos, Katniss lembra os heróis das [tragédias gregas](https://www.todamateria.com.br/tragedia-grega/). Pessoas comuns jogadas em situações extremas, tentando fazer a coisa certa num mundo cheio de armadilhas morais. Ela não é perfeita, mas é verdadeira. E talvez, nessa imperfeição, esteja o seu maior valor.
 
 Katinss representa o dilema do herói moderno: alguém que, mesmo sendo usado, mesmo duvidando de si, tenta manter sua ética. Ainda que pareça fraca ou manipulada, suas ações no final mostram que ela **escolheu ser heroína**, mesmo quando todos queriam que ela só fosse um símbolo bonito.
 
